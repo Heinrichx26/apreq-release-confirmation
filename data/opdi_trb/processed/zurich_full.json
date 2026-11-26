@@ -1,0 +1,43 @@
+{
+  "source": "EUROCONTROL Open Performance Data Initiative v0.0.2 flight events and flight lists",
+  "files": [
+    {
+      "name": "flight_events_20241007_20241017.parquet",
+      "bytes": 283364144,
+      "sha256": "760a71e589c904502f6fe92690000db3599fcf01e5bb75a8b95f9f2f0e031e36"
+    },
+    {
+      "name": "flight_events_20241017_20241027.parquet",
+      "bytes": 395878741,
+      "sha256": "8feebdd8ab12f012d9dd27539a1369a8fc07f39d823981683d14b8623aff03f1"
+    },
+    {
+      "name": "flight_events_20241027_20241106.parquet",
+      "bytes": 258053680,
+      "sha256": "1649b45ebd4de3b156aa646834c0c6e44a7479d27086ebca7c337bcdf15a03fb"
+    },
+    {
+      "name": "flight_events_20241106_20241116.parquet",
+      "bytes": 238329527,
+      "sha256": "1e63cbafd1afa25f36bae37664a474de31a34b832f6b83d299abc250eba36abd"
+    },
+    {
+      "name": "flight_events_20241116_20241126.parquet",
+      "bytes": 256325635,
+      "sha256": "ec8030ade2c240d6e9e72676ef9848cad5306f5aceb6cc639b694c7daa3d53e6"
+    },
+    {
+      "name": "flight_events_20241126_20241206.parquet",
+      "bytes": 248965598,
+      "sha256": "8af6273e28323d4199646b5a0813d2698b82f966929ee1ae39e0fdadef77caa6"
+    }
+  ],
+  "records": 32173,
+  "airports": 90,
+  "first_offblock": "2024-10-07 00:08:30+00:00",
+  "last_offblock": "2024-12-05 23:41:50+00:00",
+  "taxi_out_median": 8.5,
+  "taxi_out_p10": 3.6666666666666665,
+  "taxi_out_p90": 17.416666666666668,
+  "rule": "Departure-airport parking-position exit paired with the next same-airport runway entry between 1 and 120 minutes later"
+}

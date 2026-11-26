@@ -1,0 +1,32 @@
+{
+  "rows": [
+    {
+      "airport": "LSZH",
+      "path": "data\\opdi_trb\\cases\\LSZH_h07.json",
+      "day": "training",
+      "hour": 7,
+      "delay": 1,
+      "n": 17,
+      "dp": {
+        "value": 55,
+        "states": 1164,
+        "seconds": 0.0464111000765115,
+        "branches": 1795,
+        "bound_prunes": 746,
+        "end_to_end_seconds": 0.046417800011113286
+      },
+      "mip": {
+        "resolved": false,
+        "feasible": false,
+        "seconds": 60.72650990006514,
+        "dual_bound": 51,
+        "worlds": 789,
+        "variables": 117562,
+        "constraints": 167529,
+        "generated_pairs": 7048,
+        "iterations": 5,
+        "end_to_end_seconds": 60.86085329996422
+      }
+    }
+  ]
+}

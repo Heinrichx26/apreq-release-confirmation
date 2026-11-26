@@ -1,0 +1,17 @@
+{
+  "sources": 73,
+  "figure_files": 26,
+  "abstract_whitespace_words": 233,
+  "abstract_lexical_words": 250,
+  "submission_files": {
+    "code_publication.json": "5ca1c62c9e90479166f549177499df283f734a44eea68de4c5da6d6bb038f333",
+    "Cover_Letter.txt": "bfb91f5ec9fc79313addfe8e41133e4b5a7f139b2a4714808a93b33166482407",
+    "Highlights.txt": "276a6853494f93f3450e1f0a9d2c93bd4983c981396e20674913b53ba1e9a0bd",
+    "publication_qa.json": "d7b9c14d3f4be43c250ef0c28492ac1cb694ff4b9d0f28f49fb8d194873103d4",
+    "README.txt": "3bffaa2a1fbee5bbce3780366390e2250ba4640433968c28e7f7a6f56e7270ea",
+    "summary.json": "982a86ece9bd8cffb7f845e902945966d52c69744f9d8698e6cb7f3ccaa63dbe",
+    "Supplementary_Materials.pdf": "e5264decce5c9e549708239d5b1c2eeeff03349394c994bb69b4407b6fedeb30",
+    "TRB_manuscript.pdf": "8ec43a7b8d683d7568888299eb247cb7c09b055905fbe0652aa16d45654a8b24",
+    "TRB_source.zip": "c22dc0afdfdb72294124bff2a89a4ff9c6e353766a01a7e05c86b671173c9c2e"
+  }
+}

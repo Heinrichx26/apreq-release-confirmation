@@ -1,0 +1,231 @@
+{
+  "rows": [
+    {
+      "airport": "ATL",
+      "path": "data\\trb_external_error_20261030\\cases\\ATL\\11700468aa4e.json",
+      "day": "2025-01-29",
+      "hour": 18,
+      "delay": 1,
+      "n": 2,
+      "dp": {
+        "value": 55,
+        "states": 5,
+        "seconds": 0.000851399963721633,
+        "branches": 4,
+        "bound_prunes": 0,
+        "end_to_end_seconds": 0.0008588999044150114
+      },
+      "mip": {
+        "resolved": true,
+        "value": 55,
+        "feasible": true,
+        "dual_bound": 55,
+        "seconds": 7.50457219989039,
+        "iterations": 3,
+        "worlds": 628,
+        "variables": 171445,
+        "constraints": 108730,
+        "generated_pairs": 2236,
+        "end_to_end_seconds": 7.691450900165364
+      }
+    },
+    {
+      "airport": "ATL",
+      "path": "data\\trb_external_error_20261030\\cases\\ATL\\11700468aa4e.json",
+      "day": "2025-01-29",
+      "hour": 18,
+      "delay": 2,
+      "n": 2,
+      "dp": {
+        "value": 55,
+        "states": 5,
+        "seconds": 0.00035630003549158573,
+        "branches": 4,
+        "bound_prunes": 0,
+        "end_to_end_seconds": 0.0003621000796556473
+      },
+      "mip": {
+        "resolved": true,
+        "value": 55,
+        "feasible": true,
+        "dual_bound": 55,
+        "seconds": 4.346610100008547,
+        "iterations": 3,
+        "worlds": 628,
+        "variables": 152605,
+        "constraints": 104496,
+        "generated_pairs": 2040,
+        "end_to_end_seconds": 4.514374599792063
+      }
+    },
+    {
+      "airport": "CLT",
+      "path": "data\\trb_external_error_20261030\\cases\\CLT\\026d231d133c.json",
+      "day": "2025-01-30",
+      "hour": 10,
+      "delay": 1,
+      "n": 30,
+      "dp": {
+        "value": 199,
+        "states": 10130,
+        "seconds": 0.5276816000696272,
+        "branches": 21980,
+        "bound_prunes": 15101,
+        "end_to_end_seconds": 0.5276890001259744
+      },
+      "mip": {
+        "resolved": false,
+        "feasible": false,
+        "seconds": 63.664630400016904,
+        "dual_bound": 186,
+        "worlds": 872,
+        "variables": 238057,
+        "constraints": 299642,
+        "generated_pairs": 12163,
+        "iterations": 4,
+        "end_to_end_seconds": 63.95951559999958
+      }
+    },
+    {
+      "airport": "CLT",
+      "path": "data\\trb_external_error_20261030\\cases\\CLT\\026d231d133c.json",
+      "day": "2025-01-30",
+      "hour": 10,
+      "delay": 2,
+      "n": 30,
+      "dp": {
+        "value": 211,
+        "states": 40388,
+        "seconds": 2.3613843999337405,
+        "branches": 135043,
+        "bound_prunes": 64580,
+        "end_to_end_seconds": 2.3613922998774797
+      },
+      "mip": {
+        "resolved": false,
+        "feasible": false,
+        "seconds": 62.223306299885735,
+        "dual_bound": 197,
+        "worlds": 872,
+        "variables": 211897,
+        "constraints": 261808,
+        "generated_pairs": 10426,
+        "iterations": 4,
+        "end_to_end_seconds": 62.49335360014811
+      }
+    },
+    {
+      "airport": "DFW",
+      "path": "data\\trb_external_error_20261030\\cases\\DFW\\0b0014b60c0c.json",
+      "day": "2025-01-27",
+      "hour": 18,
+      "delay": 1,
+      "n": 19,
+      "dp": {
+        "value": 136,
+        "states": 11650,
+        "seconds": 0.5601629000157118,
+        "branches": 24654,
+        "bound_prunes": 15197,
+        "end_to_end_seconds": 0.5601705000735819
+      },
+      "mip": {
+        "resolved": false,
+        "feasible": false,
+        "seconds": 61.70907340012491,
+        "dual_bound": null,
+        "worlds": 872,
+        "variables": 238057,
+        "constraints": 269802,
+        "generated_pairs": 10192,
+        "iterations": 3,
+        "end_to_end_seconds": 62.00794329983182
+      }
+    },
+    {
+      "airport": "DFW",
+      "path": "data\\trb_external_error_20261030\\cases\\DFW\\0b0014b60c0c.json",
+      "day": "2025-01-27",
+      "hour": 18,
+      "delay": 2,
+      "n": 19,
+      "dp": {
+        "value": 145,
+        "states": 42805,
+        "seconds": 2.335630099987611,
+        "branches": 135304,
+        "bound_prunes": 56294,
+        "end_to_end_seconds": 2.335638000164181
+      },
+      "mip": {
+        "resolved": false,
+        "feasible": false,
+        "seconds": 66.90419569984078,
+        "dual_bound": 132,
+        "worlds": 872,
+        "variables": 211897,
+        "constraints": 263146,
+        "generated_pairs": 10485,
+        "iterations": 4,
+        "end_to_end_seconds": 67.15770619991235
+      }
+    },
+    {
+      "airport": "LSZH",
+      "path": "data\\opdi_trb\\cases\\LSZH_h07.json",
+      "day": "training",
+      "hour": 7,
+      "delay": 1,
+      "n": 17,
+      "dp": {
+        "value": 55,
+        "states": 1164,
+        "seconds": 0.0664825001731515,
+        "branches": 1795,
+        "bound_prunes": 746,
+        "end_to_end_seconds": 0.06649270001798868
+      },
+      "mip": {
+        "resolved": false,
+        "feasible": false,
+        "seconds": 61.34463110007346,
+        "dual_bound": 49,
+        "worlds": 789,
+        "variables": 117562,
+        "constraints": 167529,
+        "generated_pairs": 7048,
+        "iterations": 5,
+        "end_to_end_seconds": 61.53617009986192
+      }
+    },
+    {
+      "airport": "LSZH",
+      "path": "data\\opdi_trb\\cases\\LSZH_h07.json",
+      "day": "training",
+      "hour": 7,
+      "delay": 2,
+      "n": 17,
+      "dp": {
+        "value": 63,
+        "states": 1009,
+        "seconds": 0.05020699999295175,
+        "branches": 1726,
+        "bound_prunes": 589,
+        "end_to_end_seconds": 0.05021880008280277
+      },
+      "mip": {
+        "resolved": true,
+        "value": 63,
+        "feasible": true,
+        "dual_bound": 63,
+        "seconds": 38.47959610004909,
+        "iterations": 7,
+        "worlds": 789,
+        "variables": 93892,
+        "constraints": 155756,
+        "generated_pairs": 7240,
+        "end_to_end_seconds": 38.647598599782214
+      }
+    }
+  ]
+}

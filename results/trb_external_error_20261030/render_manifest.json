@@ -1,0 +1,23 @@
+{
+  "main": {
+    "pages": 61,
+    "reviewed_pages": [
+      1,
+      51,
+      52,
+      53,
+      54
+    ],
+    "sha256": "8ec43a7b8d683d7568888299eb247cb7c09b055905fbe0652aa16d45654a8b24"
+  },
+  "supplement": {
+    "pages": 56,
+    "reviewed_pages": [
+      52,
+      53,
+      54,
+      55
+    ],
+    "sha256": "e5264decce5c9e549708239d5b1c2eeeff03349394c994bb69b4407b6fedeb30"
+  }
+}

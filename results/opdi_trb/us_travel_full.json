@@ -1,0 +1,137 @@
+{
+  "4": {
+    "conditions": 3710,
+    "common": 3678,
+    "windows": 636,
+    "covered": 617,
+    "methods": {
+      "none": {
+        "preserved": 3708,
+        "worst_loss": 1,
+        "gain_s": 0.0,
+        "hold_s": 42.267004685107494,
+        "mean_requests": 0.0
+      },
+      "one": {
+        "preserved": 3708,
+        "worst_loss": 1,
+        "gain_s": 9.319964111777642,
+        "hold_s": 51.586968796885145,
+        "mean_requests": 0.9423599782490484
+      },
+      "three": {
+        "preserved": 3708,
+        "worst_loss": 1,
+        "gain_s": 47.005478471367056,
+        "hold_s": 89.27248315647456,
+        "mean_requests": 2.598966829798804
+      },
+      "six": {
+        "preserved": 3702,
+        "worst_loss": 2,
+        "gain_s": 92.97428463568092,
+        "hold_s": 135.24128932078844,
+        "mean_requests": 4.690048939641109
+      },
+      "three_independent": {
+        "preserved": 3708,
+        "worst_loss": 1,
+        "gain_s": 34.9481801484129,
+        "hold_s": 77.21518483352041,
+        "mean_requests": 2.5864600326264275
+      }
+    },
+    "training_preserved": 3708,
+    "range90_preserved": 3708
+  },
+  "6": {
+    "conditions": 3710,
+    "common": 3678,
+    "windows": 636,
+    "covered": 617,
+    "methods": {
+      "none": {
+        "preserved": 3708,
+        "worst_loss": 1,
+        "gain_s": 0.0,
+        "hold_s": 41.97537461859978,
+        "mean_requests": 0.0
+      },
+      "one": {
+        "preserved": 3708,
+        "worst_loss": 1,
+        "gain_s": 7.967423015027735,
+        "hold_s": 49.94279763362752,
+        "mean_requests": 0.9423599782490484
+      },
+      "three": {
+        "preserved": 3708,
+        "worst_loss": 1,
+        "gain_s": 36.583034598231265,
+        "hold_s": 78.55840921683105,
+        "mean_requests": 2.598966829798804
+      },
+      "six": {
+        "preserved": 3702,
+        "worst_loss": 2,
+        "gain_s": 80.84719257756912,
+        "hold_s": 122.8225671961689,
+        "mean_requests": 4.668569874932028
+      },
+      "three_independent": {
+        "preserved": 3708,
+        "worst_loss": 1,
+        "gain_s": 26.076104976113374,
+        "hold_s": 68.05147959471316,
+        "mean_requests": 2.5864600326264275
+      }
+    },
+    "training_preserved": 3708,
+    "range90_preserved": 3708
+  },
+  "8": {
+    "conditions": 3710,
+    "common": 3678,
+    "windows": 636,
+    "covered": 617,
+    "methods": {
+      "none": {
+        "preserved": 3708,
+        "worst_loss": 1,
+        "gain_s": 0.0,
+        "hold_s": 41.97537461859978,
+        "mean_requests": 0.0
+      },
+      "one": {
+        "preserved": 3708,
+        "worst_loss": 1,
+        "gain_s": 7.967423015027735,
+        "hold_s": 49.94279763362752,
+        "mean_requests": 0.9423599782490484
+      },
+      "three": {
+        "preserved": 3708,
+        "worst_loss": 1,
+        "gain_s": 35.852052040821306,
+        "hold_s": 77.82742665942109,
+        "mean_requests": 2.598966829798804
+      },
+      "six": {
+        "preserved": 3702,
+        "worst_loss": 2,
+        "gain_s": 71.15989643411316,
+        "hold_s": 113.13527105271295,
+        "mean_requests": 4.668569874932028
+      },
+      "three_independent": {
+        "preserved": 3708,
+        "worst_loss": 1,
+        "gain_s": 25.94815918617737,
+        "hold_s": 67.92353380477716,
+        "mean_requests": 2.5864600326264275
+      }
+    },
+    "training_preserved": 3708,
+    "range90_preserved": 3708
+  }
+}

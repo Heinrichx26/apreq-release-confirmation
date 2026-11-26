@@ -1,0 +1,994 @@
+{
+  "rows": [
+    {
+      "case_id": "LSZH_h07",
+      "hour": 7,
+      "n": 17,
+      "cap": 17,
+      "lag": 2,
+      "input_path": "data/opdi_trb/cases/LSZH_h07.json",
+      "input_sha256": "70d7d698ee044fa45871db99e19aba536bd45821075bcffadb1ff88b97e5e22f",
+      "delay": 1,
+      "methods": {
+        "2": {
+          "resolved": true,
+          "lookahead": 6.470588235294118,
+          "exact": 6.470588235294118,
+          "cap": 6,
+          "exact_requests": 6
+        },
+        "4": {
+          "resolved": true,
+          "lookahead": 6.470588235294118,
+          "exact": 6.470588235294118,
+          "cap": 6,
+          "exact_requests": 6
+        },
+        "6": {
+          "resolved": true,
+          "lookahead": 6.470588235294118,
+          "exact": 6.470588235294118,
+          "cap": 6,
+          "exact_requests": 6
+        }
+      }
+    },
+    {
+      "case_id": "LSZH_h07",
+      "hour": 7,
+      "n": 17,
+      "cap": 17,
+      "lag": 2,
+      "input_path": "data/opdi_trb/cases/LSZH_h07.json",
+      "input_sha256": "70d7d698ee044fa45871db99e19aba536bd45821075bcffadb1ff88b97e5e22f",
+      "delay": 2,
+      "methods": {
+        "2": {
+          "resolved": true,
+          "lookahead": 7.411764705882353,
+          "exact": 7.411764705882353,
+          "cap": 0,
+          "exact_requests": 0
+        },
+        "4": {
+          "resolved": true,
+          "lookahead": 7.411764705882353,
+          "exact": 7.411764705882353,
+          "cap": 0,
+          "exact_requests": 0
+        },
+        "6": {
+          "resolved": true,
+          "lookahead": 7.411764705882353,
+          "exact": 7.411764705882353,
+          "cap": 0,
+          "exact_requests": 0
+        }
+      }
+    },
+    {
+      "case_id": "LSZH_h07",
+      "hour": 7,
+      "n": 17,
+      "cap": 5,
+      "lag": 2,
+      "input_path": "data/opdi_trb/cases/LSZH_h07.json",
+      "input_sha256": "70d7d698ee044fa45871db99e19aba536bd45821075bcffadb1ff88b97e5e22f",
+      "delay": 1,
+      "methods": {
+        "2": {
+          "resolved": true,
+          "lookahead": 6.470588235294118,
+          "exact": 6.470588235294118,
+          "cap": 6,
+          "exact_requests": 6
+        },
+        "4": {
+          "resolved": true,
+          "lookahead": 6.470588235294118,
+          "exact": 6.470588235294118,
+          "cap": 6,
+          "exact_requests": 6
+        },
+        "6": {
+          "resolved": true,
+          "lookahead": 6.470588235294118,
+          "exact": 6.470588235294118,
+          "cap": 6,
+          "exact_requests": 6
+        }
+      }
+    },
+    {
+      "case_id": "LSZH_h07",
+      "hour": 7,
+      "n": 17,
+      "cap": 5,
+      "lag": 2,
+      "input_path": "data/opdi_trb/cases/LSZH_h07.json",
+      "input_sha256": "70d7d698ee044fa45871db99e19aba536bd45821075bcffadb1ff88b97e5e22f",
+      "delay": 2,
+      "methods": {
+        "2": {
+          "resolved": true,
+          "lookahead": 7.411764705882353,
+          "exact": 7.411764705882353,
+          "cap": 0,
+          "exact_requests": 0
+        },
+        "4": {
+          "resolved": true,
+          "lookahead": 7.411764705882353,
+          "exact": 7.411764705882353,
+          "cap": 0,
+          "exact_requests": 0
+        },
+        "6": {
+          "resolved": true,
+          "lookahead": 7.411764705882353,
+          "exact": 7.411764705882353,
+          "cap": 0,
+          "exact_requests": 0
+        }
+      }
+    },
+    {
+      "case_id": "LSZH_h07",
+      "hour": 7,
+      "n": 17,
+      "cap": 3,
+      "lag": 2,
+      "input_path": "data/opdi_trb/cases/LSZH_h07.json",
+      "input_sha256": "70d7d698ee044fa45871db99e19aba536bd45821075bcffadb1ff88b97e5e22f",
+      "delay": 1,
+      "methods": {
+        "2": {
+          "resolved": true,
+          "lookahead": 6.470588235294118,
+          "exact": 6.470588235294118,
+          "cap": 6,
+          "exact_requests": 6
+        },
+        "4": {
+          "resolved": true,
+          "lookahead": 6.470588235294118,
+          "exact": 6.470588235294118,
+          "cap": 6,
+          "exact_requests": 6
+        },
+        "6": {
+          "resolved": true,
+          "lookahead": 6.470588235294118,
+          "exact": 6.470588235294118,
+          "cap": 6,
+          "exact_requests": 6
+        }
+      }
+    },
+    {
+      "case_id": "LSZH_h07",
+      "hour": 7,
+      "n": 17,
+      "cap": 3,
+      "lag": 2,
+      "input_path": "data/opdi_trb/cases/LSZH_h07.json",
+      "input_sha256": "70d7d698ee044fa45871db99e19aba536bd45821075bcffadb1ff88b97e5e22f",
+      "delay": 2,
+      "methods": {
+        "2": {
+          "resolved": true,
+          "lookahead": 7.411764705882353,
+          "exact": 7.411764705882353,
+          "cap": 0,
+          "exact_requests": 0
+        },
+        "4": {
+          "resolved": true,
+          "lookahead": 7.411764705882353,
+          "exact": 7.411764705882353,
+          "cap": 0,
+          "exact_requests": 0
+        },
+        "6": {
+          "resolved": true,
+          "lookahead": 7.411764705882353,
+          "exact": 7.411764705882353,
+          "cap": 0,
+          "exact_requests": 0
+        }
+      }
+    },
+    {
+      "case_id": "LSZH_h12",
+      "hour": 12,
+      "n": 18,
+      "cap": 18,
+      "lag": 2,
+      "input_path": "data/opdi_trb/cases/LSZH_h12.json",
+      "input_sha256": "8ecd8013750b9b99716196c13ec804c702b47692491c0fd658978298c4c42290",
+      "delay": 1,
+      "methods": {
+        "2": {
+          "resolved": true,
+          "lookahead": 6.0,
+          "exact": 6.0,
+          "cap": 5,
+          "exact_requests": 5
+        },
+        "4": {
+          "resolved": true,
+          "lookahead": 6.0,
+          "exact": 6.0,
+          "cap": 5,
+          "exact_requests": 5
+        },
+        "6": {
+          "resolved": true,
+          "lookahead": 6.0,
+          "exact": 6.0,
+          "cap": 5,
+          "exact_requests": 5
+        }
+      }
+    },
+    {
+      "case_id": "LSZH_h12",
+      "hour": 12,
+      "n": 18,
+      "cap": 18,
+      "lag": 2,
+      "input_path": "data/opdi_trb/cases/LSZH_h12.json",
+      "input_sha256": "8ecd8013750b9b99716196c13ec804c702b47692491c0fd658978298c4c42290",
+      "delay": 2,
+      "methods": {
+        "2": {
+          "resolved": true,
+          "lookahead": 6.0,
+          "exact": 6.0,
+          "cap": 3,
+          "exact_requests": 3
+        },
+        "4": {
+          "resolved": true,
+          "lookahead": 6.0,
+          "exact": 6.0,
+          "cap": 3,
+          "exact_requests": 3
+        },
+        "6": {
+          "resolved": true,
+          "lookahead": 6.0,
+          "exact": 6.0,
+          "cap": 3,
+          "exact_requests": 3
+        }
+      }
+    },
+    {
+      "case_id": "LSZH_h12",
+      "hour": 12,
+      "n": 18,
+      "cap": 5,
+      "lag": 2,
+      "input_path": "data/opdi_trb/cases/LSZH_h12.json",
+      "input_sha256": "8ecd8013750b9b99716196c13ec804c702b47692491c0fd658978298c4c42290",
+      "delay": 1,
+      "methods": {
+        "2": {
+          "resolved": true,
+          "lookahead": 6.0,
+          "exact": 6.0,
+          "cap": 5,
+          "exact_requests": 5
+        },
+        "4": {
+          "resolved": true,
+          "lookahead": 6.0,
+          "exact": 6.0,
+          "cap": 5,
+          "exact_requests": 5
+        },
+        "6": {
+          "resolved": true,
+          "lookahead": 6.0,
+          "exact": 6.0,
+          "cap": 5,
+          "exact_requests": 5
+        }
+      }
+    },
+    {
+      "case_id": "LSZH_h12",
+      "hour": 12,
+      "n": 18,
+      "cap": 5,
+      "lag": 2,
+      "input_path": "data/opdi_trb/cases/LSZH_h12.json",
+      "input_sha256": "8ecd8013750b9b99716196c13ec804c702b47692491c0fd658978298c4c42290",
+      "delay": 2,
+      "methods": {
+        "2": {
+          "resolved": true,
+          "lookahead": 6.0,
+          "exact": 6.0,
+          "cap": 3,
+          "exact_requests": 3
+        },
+        "4": {
+          "resolved": true,
+          "lookahead": 6.0,
+          "exact": 6.0,
+          "cap": 3,
+          "exact_requests": 3
+        },
+        "6": {
+          "resolved": true,
+          "lookahead": 6.0,
+          "exact": 6.0,
+          "cap": 3,
+          "exact_requests": 3
+        }
+      }
+    },
+    {
+      "case_id": "LSZH_h12",
+      "hour": 12,
+      "n": 18,
+      "cap": 3,
+      "lag": 2,
+      "input_path": "data/opdi_trb/cases/LSZH_h12.json",
+      "input_sha256": "8ecd8013750b9b99716196c13ec804c702b47692491c0fd658978298c4c42290",
+      "delay": 1,
+      "methods": {
+        "2": {
+          "resolved": true,
+          "lookahead": 6.0,
+          "exact": 6.0,
+          "cap": 5,
+          "exact_requests": 5
+        },
+        "4": {
+          "resolved": true,
+          "lookahead": 6.0,
+          "exact": 6.0,
+          "cap": 5,
+          "exact_requests": 5
+        },
+        "6": {
+          "resolved": true,
+          "lookahead": 6.0,
+          "exact": 6.0,
+          "cap": 5,
+          "exact_requests": 5
+        }
+      }
+    },
+    {
+      "case_id": "LSZH_h12",
+      "hour": 12,
+      "n": 18,
+      "cap": 3,
+      "lag": 2,
+      "input_path": "data/opdi_trb/cases/LSZH_h12.json",
+      "input_sha256": "8ecd8013750b9b99716196c13ec804c702b47692491c0fd658978298c4c42290",
+      "delay": 2,
+      "methods": {
+        "2": {
+          "resolved": true,
+          "lookahead": 6.0,
+          "exact": 6.0,
+          "cap": 3,
+          "exact_requests": 3
+        },
+        "4": {
+          "resolved": true,
+          "lookahead": 6.0,
+          "exact": 6.0,
+          "cap": 3,
+          "exact_requests": 3
+        },
+        "6": {
+          "resolved": true,
+          "lookahead": 6.0,
+          "exact": 6.0,
+          "cap": 3,
+          "exact_requests": 3
+        }
+      }
+    },
+    {
+      "case_id": "LSZH_h13",
+      "hour": 13,
+      "n": 20,
+      "cap": 20,
+      "lag": 2,
+      "input_path": "data/opdi_trb/cases/LSZH_h13.json",
+      "input_sha256": "2cc817f9f180c0697cfe3b3b7072252d495c4ed21b21abbaf3704ef206d21492",
+      "delay": 1,
+      "methods": {
+        "2": {
+          "resolved": true,
+          "lookahead": 6.5,
+          "exact": 6.0,
+          "cap": 4,
+          "exact_requests": 4
+        },
+        "4": {
+          "resolved": true,
+          "lookahead": 5.9,
+          "exact": 5.9,
+          "cap": 5,
+          "exact_requests": 5
+        },
+        "6": {
+          "resolved": true,
+          "lookahead": 5.9,
+          "exact": 5.9,
+          "cap": 5,
+          "exact_requests": 5
+        }
+      }
+    },
+    {
+      "case_id": "LSZH_h13",
+      "hour": 13,
+      "n": 20,
+      "cap": 20,
+      "lag": 2,
+      "input_path": "data/opdi_trb/cases/LSZH_h13.json",
+      "input_sha256": "2cc817f9f180c0697cfe3b3b7072252d495c4ed21b21abbaf3704ef206d21492",
+      "delay": 2,
+      "methods": {
+        "2": {
+          "resolved": true,
+          "lookahead": 7.4,
+          "exact": 7.4,
+          "cap": 0,
+          "exact_requests": 0
+        },
+        "4": {
+          "resolved": true,
+          "lookahead": 7.4,
+          "exact": 7.4,
+          "cap": 0,
+          "exact_requests": 0
+        },
+        "6": {
+          "resolved": true,
+          "lookahead": 7.4,
+          "exact": 7.4,
+          "cap": 0,
+          "exact_requests": 0
+        }
+      }
+    },
+    {
+      "case_id": "LSZH_h13",
+      "hour": 13,
+      "n": 20,
+      "cap": 5,
+      "lag": 2,
+      "input_path": "data/opdi_trb/cases/LSZH_h13.json",
+      "input_sha256": "2cc817f9f180c0697cfe3b3b7072252d495c4ed21b21abbaf3704ef206d21492",
+      "delay": 1,
+      "methods": {
+        "2": {
+          "resolved": true,
+          "lookahead": 6.5,
+          "exact": 6.0,
+          "cap": 4,
+          "exact_requests": 4
+        },
+        "4": {
+          "resolved": true,
+          "lookahead": 5.9,
+          "exact": 5.9,
+          "cap": 5,
+          "exact_requests": 5
+        },
+        "6": {
+          "resolved": true,
+          "lookahead": 5.9,
+          "exact": 5.9,
+          "cap": 5,
+          "exact_requests": 5
+        }
+      }
+    },
+    {
+      "case_id": "LSZH_h13",
+      "hour": 13,
+      "n": 20,
+      "cap": 5,
+      "lag": 2,
+      "input_path": "data/opdi_trb/cases/LSZH_h13.json",
+      "input_sha256": "2cc817f9f180c0697cfe3b3b7072252d495c4ed21b21abbaf3704ef206d21492",
+      "delay": 2,
+      "methods": {
+        "2": {
+          "resolved": true,
+          "lookahead": 7.4,
+          "exact": 7.4,
+          "cap": 0,
+          "exact_requests": 0
+        },
+        "4": {
+          "resolved": true,
+          "lookahead": 7.4,
+          "exact": 7.4,
+          "cap": 0,
+          "exact_requests": 0
+        },
+        "6": {
+          "resolved": true,
+          "lookahead": 7.4,
+          "exact": 7.4,
+          "cap": 0,
+          "exact_requests": 0
+        }
+      }
+    },
+    {
+      "case_id": "LSZH_h13",
+      "hour": 13,
+      "n": 20,
+      "cap": 3,
+      "lag": 2,
+      "input_path": "data/opdi_trb/cases/LSZH_h13.json",
+      "input_sha256": "2cc817f9f180c0697cfe3b3b7072252d495c4ed21b21abbaf3704ef206d21492",
+      "delay": 1,
+      "methods": {
+        "2": {
+          "resolved": true,
+          "lookahead": 6.5,
+          "exact": 6.0,
+          "cap": 4,
+          "exact_requests": 4
+        },
+        "4": {
+          "resolved": true,
+          "lookahead": 5.9,
+          "exact": 5.9,
+          "cap": 5,
+          "exact_requests": 5
+        },
+        "6": {
+          "resolved": true,
+          "lookahead": 5.9,
+          "exact": 5.9,
+          "cap": 5,
+          "exact_requests": 5
+        }
+      }
+    },
+    {
+      "case_id": "LSZH_h13",
+      "hour": 13,
+      "n": 20,
+      "cap": 3,
+      "lag": 2,
+      "input_path": "data/opdi_trb/cases/LSZH_h13.json",
+      "input_sha256": "2cc817f9f180c0697cfe3b3b7072252d495c4ed21b21abbaf3704ef206d21492",
+      "delay": 2,
+      "methods": {
+        "2": {
+          "resolved": true,
+          "lookahead": 7.4,
+          "exact": 7.4,
+          "cap": 0,
+          "exact_requests": 0
+        },
+        "4": {
+          "resolved": true,
+          "lookahead": 7.4,
+          "exact": 7.4,
+          "cap": 0,
+          "exact_requests": 0
+        },
+        "6": {
+          "resolved": true,
+          "lookahead": 7.4,
+          "exact": 7.4,
+          "cap": 0,
+          "exact_requests": 0
+        }
+      }
+    },
+    {
+      "case_id": "LSZH_h17",
+      "hour": 17,
+      "n": 14,
+      "cap": 14,
+      "lag": 2,
+      "input_path": "data/opdi_trb/cases/LSZH_h17.json",
+      "input_sha256": "63f5edec502a682f0de89d7e860635cc403533f983d594df780a356d5f05d4e9",
+      "delay": 1,
+      "methods": {
+        "2": {
+          "resolved": true,
+          "lookahead": 7.0,
+          "exact": 7.0,
+          "cap": 5,
+          "exact_requests": 5
+        },
+        "4": {
+          "resolved": true,
+          "lookahead": 7.0,
+          "exact": 7.0,
+          "cap": 5,
+          "exact_requests": 5
+        },
+        "6": {
+          "resolved": true,
+          "lookahead": 7.0,
+          "exact": 7.0,
+          "cap": 5,
+          "exact_requests": 5
+        }
+      }
+    },
+    {
+      "case_id": "LSZH_h17",
+      "hour": 17,
+      "n": 14,
+      "cap": 14,
+      "lag": 2,
+      "input_path": "data/opdi_trb/cases/LSZH_h17.json",
+      "input_sha256": "63f5edec502a682f0de89d7e860635cc403533f983d594df780a356d5f05d4e9",
+      "delay": 2,
+      "methods": {
+        "2": {
+          "resolved": true,
+          "lookahead": 8.428571428571429,
+          "exact": 8.428571428571429,
+          "cap": 0,
+          "exact_requests": 0
+        },
+        "4": {
+          "resolved": true,
+          "lookahead": 8.428571428571429,
+          "exact": 8.428571428571429,
+          "cap": 0,
+          "exact_requests": 0
+        },
+        "6": {
+          "resolved": true,
+          "lookahead": 8.428571428571429,
+          "exact": 8.428571428571429,
+          "cap": 0,
+          "exact_requests": 0
+        }
+      }
+    },
+    {
+      "case_id": "LSZH_h17",
+      "hour": 17,
+      "n": 14,
+      "cap": 4,
+      "lag": 2,
+      "input_path": "data/opdi_trb/cases/LSZH_h17.json",
+      "input_sha256": "63f5edec502a682f0de89d7e860635cc403533f983d594df780a356d5f05d4e9",
+      "delay": 1,
+      "methods": {
+        "2": {
+          "resolved": true,
+          "lookahead": 7.0,
+          "exact": 7.0,
+          "cap": 5,
+          "exact_requests": 5
+        },
+        "4": {
+          "resolved": true,
+          "lookahead": 7.0,
+          "exact": 7.0,
+          "cap": 5,
+          "exact_requests": 5
+        },
+        "6": {
+          "resolved": true,
+          "lookahead": 7.0,
+          "exact": 7.0,
+          "cap": 5,
+          "exact_requests": 5
+        }
+      }
+    },
+    {
+      "case_id": "LSZH_h17",
+      "hour": 17,
+      "n": 14,
+      "cap": 4,
+      "lag": 2,
+      "input_path": "data/opdi_trb/cases/LSZH_h17.json",
+      "input_sha256": "63f5edec502a682f0de89d7e860635cc403533f983d594df780a356d5f05d4e9",
+      "delay": 2,
+      "methods": {
+        "2": {
+          "resolved": true,
+          "lookahead": 8.428571428571429,
+          "exact": 8.428571428571429,
+          "cap": 0,
+          "exact_requests": 0
+        },
+        "4": {
+          "resolved": true,
+          "lookahead": 8.428571428571429,
+          "exact": 8.428571428571429,
+          "cap": 0,
+          "exact_requests": 0
+        },
+        "6": {
+          "resolved": true,
+          "lookahead": 8.428571428571429,
+          "exact": 8.428571428571429,
+          "cap": 0,
+          "exact_requests": 0
+        }
+      }
+    },
+    {
+      "case_id": "LSZH_h17",
+      "hour": 17,
+      "n": 14,
+      "cap": 2,
+      "lag": 2,
+      "input_path": "data/opdi_trb/cases/LSZH_h17.json",
+      "input_sha256": "63f5edec502a682f0de89d7e860635cc403533f983d594df780a356d5f05d4e9",
+      "delay": 1,
+      "methods": {
+        "2": {
+          "resolved": true,
+          "lookahead": 7.0,
+          "exact": 7.0,
+          "cap": 5,
+          "exact_requests": 5
+        },
+        "4": {
+          "resolved": true,
+          "lookahead": 7.0,
+          "exact": 7.0,
+          "cap": 5,
+          "exact_requests": 5
+        },
+        "6": {
+          "resolved": true,
+          "lookahead": 7.0,
+          "exact": 7.0,
+          "cap": 5,
+          "exact_requests": 5
+        }
+      }
+    },
+    {
+      "case_id": "LSZH_h17",
+      "hour": 17,
+      "n": 14,
+      "cap": 2,
+      "lag": 2,
+      "input_path": "data/opdi_trb/cases/LSZH_h17.json",
+      "input_sha256": "63f5edec502a682f0de89d7e860635cc403533f983d594df780a356d5f05d4e9",
+      "delay": 2,
+      "methods": {
+        "2": {
+          "resolved": true,
+          "lookahead": 8.428571428571429,
+          "exact": 8.428571428571429,
+          "cap": 0,
+          "exact_requests": 0
+        },
+        "4": {
+          "resolved": true,
+          "lookahead": 8.428571428571429,
+          "exact": 8.428571428571429,
+          "cap": 0,
+          "exact_requests": 0
+        },
+        "6": {
+          "resolved": true,
+          "lookahead": 8.428571428571429,
+          "exact": 8.428571428571429,
+          "cap": 0,
+          "exact_requests": 0
+        }
+      }
+    },
+    {
+      "case_id": "LSZH_h18",
+      "hour": 18,
+      "n": 19,
+      "cap": 19,
+      "lag": 2,
+      "input_path": "data/opdi_trb/cases/LSZH_h18.json",
+      "input_sha256": "d6a8e3d93587ecf98af0f0ee2dc1188852cfc45c3942dcb4ff0e53016ddf5ea4",
+      "delay": 1,
+      "methods": {
+        "2": {
+          "resolved": true,
+          "lookahead": 6.0,
+          "exact": 6.0,
+          "cap": 3,
+          "exact_requests": 2
+        },
+        "4": {
+          "resolved": true,
+          "lookahead": 6.0,
+          "exact": 6.0,
+          "cap": 2,
+          "exact_requests": 2
+        },
+        "6": {
+          "resolved": true,
+          "lookahead": 6.0,
+          "exact": 6.0,
+          "cap": 2,
+          "exact_requests": 2
+        }
+      }
+    },
+    {
+      "case_id": "LSZH_h18",
+      "hour": 18,
+      "n": 19,
+      "cap": 19,
+      "lag": 2,
+      "input_path": "data/opdi_trb/cases/LSZH_h18.json",
+      "input_sha256": "d6a8e3d93587ecf98af0f0ee2dc1188852cfc45c3942dcb4ff0e53016ddf5ea4",
+      "delay": 2,
+      "methods": {
+        "2": {
+          "resolved": true,
+          "lookahead": 6.0,
+          "exact": 6.0,
+          "cap": 2,
+          "exact_requests": 2
+        },
+        "4": {
+          "resolved": true,
+          "lookahead": 6.0,
+          "exact": 6.0,
+          "cap": 2,
+          "exact_requests": 2
+        },
+        "6": {
+          "resolved": true,
+          "lookahead": 6.0,
+          "exact": 6.0,
+          "cap": 2,
+          "exact_requests": 2
+        }
+      }
+    },
+    {
+      "case_id": "LSZH_h18",
+      "hour": 18,
+      "n": 19,
+      "cap": 5,
+      "lag": 2,
+      "input_path": "data/opdi_trb/cases/LSZH_h18.json",
+      "input_sha256": "d6a8e3d93587ecf98af0f0ee2dc1188852cfc45c3942dcb4ff0e53016ddf5ea4",
+      "delay": 1,
+      "methods": {
+        "2": {
+          "resolved": true,
+          "lookahead": 6.0,
+          "exact": 6.0,
+          "cap": 3,
+          "exact_requests": 2
+        },
+        "4": {
+          "resolved": true,
+          "lookahead": 6.0,
+          "exact": 6.0,
+          "cap": 2,
+          "exact_requests": 2
+        },
+        "6": {
+          "resolved": true,
+          "lookahead": 6.0,
+          "exact": 6.0,
+          "cap": 2,
+          "exact_requests": 2
+        }
+      }
+    },
+    {
+      "case_id": "LSZH_h18",
+      "hour": 18,
+      "n": 19,
+      "cap": 5,
+      "lag": 2,
+      "input_path": "data/opdi_trb/cases/LSZH_h18.json",
+      "input_sha256": "d6a8e3d93587ecf98af0f0ee2dc1188852cfc45c3942dcb4ff0e53016ddf5ea4",
+      "delay": 2,
+      "methods": {
+        "2": {
+          "resolved": true,
+          "lookahead": 6.0,
+          "exact": 6.0,
+          "cap": 2,
+          "exact_requests": 2
+        },
+        "4": {
+          "resolved": true,
+          "lookahead": 6.0,
+          "exact": 6.0,
+          "cap": 2,
+          "exact_requests": 2
+        },
+        "6": {
+          "resolved": true,
+          "lookahead": 6.0,
+          "exact": 6.0,
+          "cap": 2,
+          "exact_requests": 2
+        }
+      }
+    },
+    {
+      "case_id": "LSZH_h18",
+      "hour": 18,
+      "n": 19,
+      "cap": 3,
+      "lag": 2,
+      "input_path": "data/opdi_trb/cases/LSZH_h18.json",
+      "input_sha256": "d6a8e3d93587ecf98af0f0ee2dc1188852cfc45c3942dcb4ff0e53016ddf5ea4",
+      "delay": 1,
+      "methods": {
+        "2": {
+          "resolved": true,
+          "lookahead": 6.0,
+          "exact": 6.0,
+          "cap": 3,
+          "exact_requests": 2
+        },
+        "4": {
+          "resolved": true,
+          "lookahead": 6.0,
+          "exact": 6.0,
+          "cap": 2,
+          "exact_requests": 2
+        },
+        "6": {
+          "resolved": true,
+          "lookahead": 6.0,
+          "exact": 6.0,
+          "cap": 2,
+          "exact_requests": 2
+        }
+      }
+    },
+    {
+      "case_id": "LSZH_h18",
+      "hour": 18,
+      "n": 19,
+      "cap": 3,
+      "lag": 2,
+      "input_path": "data/opdi_trb/cases/LSZH_h18.json",
+      "input_sha256": "d6a8e3d93587ecf98af0f0ee2dc1188852cfc45c3942dcb4ff0e53016ddf5ea4",
+      "delay": 2,
+      "methods": {
+        "2": {
+          "resolved": true,
+          "lookahead": 6.0,
+          "exact": 6.0,
+          "cap": 2,
+          "exact_requests": 2
+        },
+        "4": {
+          "resolved": true,
+          "lookahead": 6.0,
+          "exact": 6.0,
+          "cap": 2,
+          "exact_requests": 2
+        },
+        "6": {
+          "resolved": true,
+          "lookahead": 6.0,
+          "exact": 6.0,
+          "cap": 2,
+          "exact_requests": 2
+        }
+      }
+    }
+  ]
+}

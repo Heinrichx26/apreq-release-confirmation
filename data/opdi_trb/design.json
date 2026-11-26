@@ -1,0 +1,272 @@
+{
+  "source": "data/opdi_trb/processed/zurich_full.parquet",
+  "source_sha256": "b7661835b5db9d6cf449b452197c431611623272d50356bf66863a4715471460",
+  "lag_slots": 2,
+  "training_taxi_p10": 3.3333333333333335,
+  "training_taxi_median": 8.25,
+  "training_dates": [
+    "2024-10-07",
+    "2024-10-08",
+    "2024-10-10",
+    "2024-10-11",
+    "2024-10-12",
+    "2024-10-13",
+    "2024-10-14",
+    "2024-10-15",
+    "2024-10-16",
+    "2024-10-17",
+    "2024-10-18",
+    "2024-10-19",
+    "2024-10-20",
+    "2024-10-21",
+    "2024-10-22",
+    "2024-10-23"
+  ],
+  "calibration_dates": [
+    "2024-10-24",
+    "2024-10-25",
+    "2024-10-26",
+    "2024-10-27",
+    "2024-10-28",
+    "2024-10-29",
+    "2024-10-30",
+    "2024-10-31",
+    "2024-11-01",
+    "2024-11-02",
+    "2024-11-03",
+    "2024-11-04",
+    "2024-11-05",
+    "2024-11-06",
+    "2024-11-07",
+    "2024-11-08",
+    "2024-11-09",
+    "2024-11-10",
+    "2024-11-11"
+  ],
+  "evaluation_dates": [
+    "2024-11-12",
+    "2024-11-13",
+    "2024-11-14",
+    "2024-11-15",
+    "2024-11-16",
+    "2024-11-17",
+    "2024-11-18",
+    "2024-11-19",
+    "2024-11-20",
+    "2024-11-21",
+    "2024-11-22",
+    "2024-11-23",
+    "2024-11-24",
+    "2024-11-25",
+    "2024-11-26",
+    "2024-11-27",
+    "2024-11-28",
+    "2024-11-29",
+    "2024-11-30",
+    "2024-12-01",
+    "2024-12-02",
+    "2024-12-03",
+    "2024-12-04",
+    "2024-12-05"
+  ],
+  "hours": [
+    7,
+    12,
+    13,
+    17,
+    18
+  ],
+  "training_hour_means": {
+    "6": 11.625,
+    "7": 22.0625,
+    "8": 10.25,
+    "9": 14.8125,
+    "10": 16.6875,
+    "11": 15.4375,
+    "12": 24.5625,
+    "13": 28.0625,
+    "14": 18.25,
+    "15": 11.5625,
+    "16": 11.75,
+    "17": 21.25,
+    "18": 22.75,
+    "19": 11.8125,
+    "20": 6.4375,
+    "21": 15.1875
+  },
+  "cases": [
+    {
+      "case_id": "LSZH_h07",
+      "hour": 7,
+      "n": 17,
+      "radius": 1,
+      "radius90": 1
+    },
+    {
+      "case_id": "LSZH_h12",
+      "hour": 12,
+      "n": 18,
+      "radius": 2,
+      "radius90": 1
+    },
+    {
+      "case_id": "LSZH_h13",
+      "hour": 13,
+      "n": 20,
+      "radius": 1,
+      "radius90": 1
+    },
+    {
+      "case_id": "LSZH_h17",
+      "hour": 17,
+      "n": 14,
+      "radius": 1,
+      "radius90": 1
+    },
+    {
+      "case_id": "LSZH_h18",
+      "hour": 18,
+      "n": 19,
+      "radius": 1,
+      "radius90": 1
+    }
+  ],
+  "jobs": [
+    {
+      "case_id": "LSZH_h07",
+      "hour": 7,
+      "n": 17,
+      "cap": 17,
+      "lag": 2,
+      "input_path": "data/opdi_trb/cases/LSZH_h07.json",
+      "input_sha256": "70d7d698ee044fa45871db99e19aba536bd45821075bcffadb1ff88b97e5e22f"
+    },
+    {
+      "case_id": "LSZH_h07",
+      "hour": 7,
+      "n": 17,
+      "cap": 5,
+      "lag": 2,
+      "input_path": "data/opdi_trb/cases/LSZH_h07.json",
+      "input_sha256": "70d7d698ee044fa45871db99e19aba536bd45821075bcffadb1ff88b97e5e22f"
+    },
+    {
+      "case_id": "LSZH_h07",
+      "hour": 7,
+      "n": 17,
+      "cap": 3,
+      "lag": 2,
+      "input_path": "data/opdi_trb/cases/LSZH_h07.json",
+      "input_sha256": "70d7d698ee044fa45871db99e19aba536bd45821075bcffadb1ff88b97e5e22f"
+    },
+    {
+      "case_id": "LSZH_h12",
+      "hour": 12,
+      "n": 18,
+      "cap": 18,
+      "lag": 2,
+      "input_path": "data/opdi_trb/cases/LSZH_h12.json",
+      "input_sha256": "8ecd8013750b9b99716196c13ec804c702b47692491c0fd658978298c4c42290"
+    },
+    {
+      "case_id": "LSZH_h12",
+      "hour": 12,
+      "n": 18,
+      "cap": 5,
+      "lag": 2,
+      "input_path": "data/opdi_trb/cases/LSZH_h12.json",
+      "input_sha256": "8ecd8013750b9b99716196c13ec804c702b47692491c0fd658978298c4c42290"
+    },
+    {
+      "case_id": "LSZH_h12",
+      "hour": 12,
+      "n": 18,
+      "cap": 3,
+      "lag": 2,
+      "input_path": "data/opdi_trb/cases/LSZH_h12.json",
+      "input_sha256": "8ecd8013750b9b99716196c13ec804c702b47692491c0fd658978298c4c42290"
+    },
+    {
+      "case_id": "LSZH_h13",
+      "hour": 13,
+      "n": 20,
+      "cap": 20,
+      "lag": 2,
+      "input_path": "data/opdi_trb/cases/LSZH_h13.json",
+      "input_sha256": "2cc817f9f180c0697cfe3b3b7072252d495c4ed21b21abbaf3704ef206d21492"
+    },
+    {
+      "case_id": "LSZH_h13",
+      "hour": 13,
+      "n": 20,
+      "cap": 5,
+      "lag": 2,
+      "input_path": "data/opdi_trb/cases/LSZH_h13.json",
+      "input_sha256": "2cc817f9f180c0697cfe3b3b7072252d495c4ed21b21abbaf3704ef206d21492"
+    },
+    {
+      "case_id": "LSZH_h13",
+      "hour": 13,
+      "n": 20,
+      "cap": 3,
+      "lag": 2,
+      "input_path": "data/opdi_trb/cases/LSZH_h13.json",
+      "input_sha256": "2cc817f9f180c0697cfe3b3b7072252d495c4ed21b21abbaf3704ef206d21492"
+    },
+    {
+      "case_id": "LSZH_h17",
+      "hour": 17,
+      "n": 14,
+      "cap": 14,
+      "lag": 2,
+      "input_path": "data/opdi_trb/cases/LSZH_h17.json",
+      "input_sha256": "63f5edec502a682f0de89d7e860635cc403533f983d594df780a356d5f05d4e9"
+    },
+    {
+      "case_id": "LSZH_h17",
+      "hour": 17,
+      "n": 14,
+      "cap": 4,
+      "lag": 2,
+      "input_path": "data/opdi_trb/cases/LSZH_h17.json",
+      "input_sha256": "63f5edec502a682f0de89d7e860635cc403533f983d594df780a356d5f05d4e9"
+    },
+    {
+      "case_id": "LSZH_h17",
+      "hour": 17,
+      "n": 14,
+      "cap": 2,
+      "lag": 2,
+      "input_path": "data/opdi_trb/cases/LSZH_h17.json",
+      "input_sha256": "63f5edec502a682f0de89d7e860635cc403533f983d594df780a356d5f05d4e9"
+    },
+    {
+      "case_id": "LSZH_h18",
+      "hour": 18,
+      "n": 19,
+      "cap": 19,
+      "lag": 2,
+      "input_path": "data/opdi_trb/cases/LSZH_h18.json",
+      "input_sha256": "d6a8e3d93587ecf98af0f0ee2dc1188852cfc45c3942dcb4ff0e53016ddf5ea4"
+    },
+    {
+      "case_id": "LSZH_h18",
+      "hour": 18,
+      "n": 19,
+      "cap": 5,
+      "lag": 2,
+      "input_path": "data/opdi_trb/cases/LSZH_h18.json",
+      "input_sha256": "d6a8e3d93587ecf98af0f0ee2dc1188852cfc45c3942dcb4ff0e53016ddf5ea4"
+    },
+    {
+      "case_id": "LSZH_h18",
+      "hour": 18,
+      "n": 19,
+      "cap": 3,
+      "lag": 2,
+      "input_path": "data/opdi_trb/cases/LSZH_h18.json",
+      "input_sha256": "d6a8e3d93587ecf98af0f0ee2dc1188852cfc45c3942dcb4ff0e53016ddf5ea4"
+    }
+  ],
+  "selection": "Hours, group size, travel time and range use training or calibration dates only; all later dates retained"
+}
