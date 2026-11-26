@@ -1,0 +1,29 @@
+{
+ "ranges": {
+  "narrow": {
+   "instances": 191,
+   "schedules": 6431,
+   "additive_mismatch": 0,
+   "assignment_mismatch": 0
+  },
+  "wide": {
+   "instances": 129,
+   "schedules": 6614,
+   "additive_mismatch": 4362,
+   "instances_with_mismatch": 123,
+   "pairs": 3027,
+   "complements": 361,
+   "substitutes": 187,
+   "instances_with_complements": 50
+  }
+ },
+ "example": {
+  "none": 7,
+  "best_single": 5,
+  "best_fixed": 4,
+  "adaptive": 3,
+  "full": 2,
+  "adaptive_share": 0.8,
+  "fixed_share": 0.6
+ }
+}

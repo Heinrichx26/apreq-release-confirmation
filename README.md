@@ -1,4 +1,4 @@
-# Confirming departure release times before pushback
+# Information deadlines and the value of release-time confirmations
 
 Code, derived inputs and saved results for the study of departure release-time
 confirmations under the Approval Request/Call for Release (APREQ/CFR) procedure.
@@ -27,6 +27,7 @@ program is solved by HiGHS through `scipy.optimize.milp`.
 - `src/trb_information_transfer_20261030/`: confirmations on later dates.
 - `src/trb_calibrated_20261030/scenario_mip.py`: direct scenario MIP (HiGHS).
 - `src/opdi_trb/`: Zurich event pairing, Zurich experiments, travel-time sensitivity and the MIP comparison.
+- `src/trb_theory_20261126/`: information-deadline check, value of confirmations (exact recursion, two-step lookahead, range index rule), exhaustive checks of the interval-range results and the adaptive-value instance.
 - `src/figures/`: figures drawn from saved results only.
 - `data/`: derived inputs; `results/`: saved outputs.
 
@@ -40,7 +41,14 @@ python src/opdi_trb/zurich_experiment.py chrono full
 python src/opdi_trb/zurich_experiment.py finite full
 python src/opdi_trb/mip_public.py full
 cd src/opdi_trb && python us_travel.py full
+python src/trb_theory_20261126/deadline_check.py
+python src/trb_theory_20261126/verify_interval_theorem.py
+python src/trb_theory_20261126/check_structure.py
+python src/trb_theory_20261126/interval_schedule.py smoke
+python src/trb_theory_20261126/interval_schedule.py full
+python src/trb_theory_20261126/summarize_value_capture.py
 python src/figures/plot_apreq_evidence.py
+python src/figures/plot_value_theory.py
 ```
 
 Each experiment has a smoke stage that runs a small subset before the full stage.
