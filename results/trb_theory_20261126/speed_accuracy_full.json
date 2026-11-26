@@ -1,0 +1,3716 @@
+{
+ "stage": "full",
+ "rows": [
+  {
+   "case_id": "e47196faedde",
+   "airport": "ATL",
+   "n": 8,
+   "cap": 8,
+   "lag": 6,
+   "cells": [
+    {
+     "delay": 1,
+     "accuracy": 0,
+     "none": 184,
+     "full": 48,
+     "exact": 113,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 1,
+     "none": 184,
+     "full": 48,
+     "exact": 180,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 2,
+     "none": 184,
+     "full": 48,
+     "exact": 183,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 0,
+     "none": 184,
+     "full": 48,
+     "exact": 184,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 1,
+     "none": 184,
+     "full": 48,
+     "exact": 184,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 2,
+     "none": 184,
+     "full": 48,
+     "exact": 184,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 0,
+     "none": 184,
+     "full": 48,
+     "exact": 184,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 1,
+     "none": 184,
+     "full": 48,
+     "exact": 184,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 2,
+     "none": 184,
+     "full": 48,
+     "exact": 184,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 0,
+     "none": 184,
+     "full": 48,
+     "exact": 184,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 1,
+     "none": 184,
+     "full": 48,
+     "exact": 184,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 2,
+     "none": 184,
+     "full": 48,
+     "exact": 184,
+     "resolved": true
+    }
+   ],
+   "seconds": 0.03817459987476468
+  },
+  {
+   "case_id": "e47196faedde",
+   "airport": "ATL",
+   "n": 8,
+   "cap": 2,
+   "lag": 6,
+   "cells": [
+    {
+     "delay": 1,
+     "accuracy": 0,
+     "none": 175,
+     "full": 48,
+     "exact": 66,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 1,
+     "none": 175,
+     "full": 48,
+     "exact": 175,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 2,
+     "none": 175,
+     "full": 48,
+     "exact": 175,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 0,
+     "none": 175,
+     "full": 48,
+     "exact": 92,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 1,
+     "none": 175,
+     "full": 48,
+     "exact": 175,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 2,
+     "none": 175,
+     "full": 48,
+     "exact": 175,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 0,
+     "none": 175,
+     "full": 48,
+     "exact": 128,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 1,
+     "none": 175,
+     "full": 48,
+     "exact": 175,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 2,
+     "none": 175,
+     "full": 48,
+     "exact": 175,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 0,
+     "none": 175,
+     "full": 48,
+     "exact": 175,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 1,
+     "none": 175,
+     "full": 48,
+     "exact": 175,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 2,
+     "none": 175,
+     "full": 48,
+     "exact": 175,
+     "resolved": true
+    }
+   ],
+   "seconds": 0.22078430000692606
+  },
+  {
+   "case_id": "e47196faedde",
+   "airport": "ATL",
+   "n": 8,
+   "cap": 1,
+   "lag": 6,
+   "cells": [
+    {
+     "delay": 1,
+     "accuracy": 0,
+     "none": 137,
+     "full": 51,
+     "exact": 57,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 1,
+     "none": 137,
+     "full": 51,
+     "exact": 119,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 2,
+     "none": 137,
+     "full": 51,
+     "exact": 137,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 0,
+     "none": 137,
+     "full": 51,
+     "exact": 65,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 1,
+     "none": 137,
+     "full": 51,
+     "exact": 119,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 2,
+     "none": 137,
+     "full": 51,
+     "exact": 137,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 0,
+     "none": 137,
+     "full": 51,
+     "exact": 76,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 1,
+     "none": 137,
+     "full": 51,
+     "exact": 137,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 2,
+     "none": 137,
+     "full": 51,
+     "exact": 137,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 0,
+     "none": 137,
+     "full": 51,
+     "exact": 88,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 1,
+     "none": 137,
+     "full": 51,
+     "exact": 137,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 2,
+     "none": 137,
+     "full": 51,
+     "exact": 137,
+     "resolved": true
+    }
+   ],
+   "seconds": 20.904887500219047
+  },
+  {
+   "case_id": "2500931767c1",
+   "airport": "ATL",
+   "n": 14,
+   "cap": 14,
+   "lag": 6,
+   "cells": [
+    {
+     "delay": 1,
+     "accuracy": 0,
+     "none": 303,
+     "full": 84,
+     "exact": 122,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 1,
+     "none": 303,
+     "full": 84,
+     "exact": 133,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 2,
+     "none": 303,
+     "full": 84,
+     "exact": 298,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 0,
+     "none": 303,
+     "full": 84,
+     "exact": 212,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 1,
+     "none": 303,
+     "full": 84,
+     "exact": 212,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 2,
+     "none": 303,
+     "full": 84,
+     "exact": 300,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 0,
+     "none": 303,
+     "full": 84,
+     "exact": 278,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 1,
+     "none": 303,
+     "full": 84,
+     "exact": 278,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 2,
+     "none": 303,
+     "full": 84,
+     "exact": 302,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 0,
+     "none": 303,
+     "full": 84,
+     "exact": 303,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 1,
+     "none": 303,
+     "full": 84,
+     "exact": 303,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 2,
+     "none": 303,
+     "full": 84,
+     "exact": 303,
+     "resolved": true
+    }
+   ],
+   "seconds": 0.9854891998693347
+  },
+  {
+   "case_id": "2500931767c1",
+   "airport": "ATL",
+   "n": 14,
+   "cap": 4,
+   "lag": 6,
+   "cells": [
+    {
+     "delay": 1,
+     "accuracy": 0,
+     "none": 298,
+     "full": 85,
+     "exact": 111,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 1,
+     "none": 298,
+     "full": 85,
+     "exact": 131,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 2,
+     "none": 298,
+     "full": 85,
+     "exact": 297,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 0,
+     "none": 298,
+     "full": 85,
+     "exact": 168,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 1,
+     "none": 298,
+     "full": 85,
+     "exact": 187,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 2,
+     "none": 298,
+     "full": 85,
+     "exact": 297,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 0,
+     "none": 298,
+     "full": 85,
+     "exact": 230,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 1,
+     "none": 298,
+     "full": 85,
+     "exact": 250,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 2,
+     "none": 298,
+     "full": 85,
+     "exact": 297,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 0,
+     "none": 298,
+     "full": 85,
+     "exact": 298,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 1,
+     "none": 298,
+     "full": 85,
+     "exact": 298,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 2,
+     "none": 298,
+     "full": 85,
+     "exact": 298,
+     "resolved": true
+    }
+   ],
+   "seconds": 0.9652652000077069
+  },
+  {
+   "case_id": "2500931767c1",
+   "airport": "ATL",
+   "n": 14,
+   "cap": 2,
+   "lag": 6,
+   "cells": [
+    {
+     "delay": 1,
+     "accuracy": 0,
+     "none": 275,
+     "full": 88,
+     "exact": 90,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 1,
+     "none": 275,
+     "full": 88,
+     "exact": 129,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 2,
+     "none": 275,
+     "full": 88,
+     "exact": 275,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 0,
+     "none": 275,
+     "full": 88,
+     "exact": 109,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 1,
+     "none": 275,
+     "full": 88,
+     "exact": 160,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 2,
+     "none": 275,
+     "full": 88,
+     "exact": 275,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 0,
+     "none": 275,
+     "full": 88,
+     "exact": 129,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 1,
+     "none": 275,
+     "full": 88,
+     "exact": 197,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 2,
+     "none": 275,
+     "full": 88,
+     "exact": 275,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 0,
+     "none": 275,
+     "full": 88,
+     "exact": 160,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 1,
+     "none": 275,
+     "full": 88,
+     "exact": 234,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 2,
+     "none": 275,
+     "full": 88,
+     "exact": 275,
+     "resolved": true
+    }
+   ],
+   "seconds": 8.716900400118902
+  },
+  {
+   "case_id": "7714c8238621",
+   "airport": "ATL",
+   "n": 8,
+   "cap": 8,
+   "lag": 6,
+   "cells": [
+    {
+     "delay": 1,
+     "accuracy": 0,
+     "none": 115,
+     "full": 48,
+     "exact": 70,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 1,
+     "none": 115,
+     "full": 48,
+     "exact": 109,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 2,
+     "none": 115,
+     "full": 48,
+     "exact": 115,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 0,
+     "none": 115,
+     "full": 48,
+     "exact": 115,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 1,
+     "none": 115,
+     "full": 48,
+     "exact": 115,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 2,
+     "none": 115,
+     "full": 48,
+     "exact": 115,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 0,
+     "none": 115,
+     "full": 48,
+     "exact": 115,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 1,
+     "none": 115,
+     "full": 48,
+     "exact": 115,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 2,
+     "none": 115,
+     "full": 48,
+     "exact": 115,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 0,
+     "none": 115,
+     "full": 48,
+     "exact": 115,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 1,
+     "none": 115,
+     "full": 48,
+     "exact": 115,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 2,
+     "none": 115,
+     "full": 48,
+     "exact": 115,
+     "resolved": true
+    }
+   ],
+   "seconds": 0.043425200041383505
+  },
+  {
+   "case_id": "7714c8238621",
+   "airport": "ATL",
+   "n": 8,
+   "cap": 2,
+   "lag": 6,
+   "cells": [
+    {
+     "delay": 1,
+     "accuracy": 0,
+     "none": 107,
+     "full": 50,
+     "exact": 55,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 1,
+     "none": 107,
+     "full": 50,
+     "exact": 99,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 2,
+     "none": 107,
+     "full": 50,
+     "exact": 107,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 0,
+     "none": 107,
+     "full": 50,
+     "exact": 68,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 1,
+     "none": 107,
+     "full": 50,
+     "exact": 102,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 2,
+     "none": 107,
+     "full": 50,
+     "exact": 107,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 0,
+     "none": 107,
+     "full": 50,
+     "exact": 83,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 1,
+     "none": 107,
+     "full": 50,
+     "exact": 107,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 2,
+     "none": 107,
+     "full": 50,
+     "exact": 107,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 0,
+     "none": 107,
+     "full": 50,
+     "exact": 107,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 1,
+     "none": 107,
+     "full": 50,
+     "exact": 107,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 2,
+     "none": 107,
+     "full": 50,
+     "exact": 107,
+     "resolved": true
+    }
+   ],
+   "seconds": 0.23310040007345378
+  },
+  {
+   "case_id": "7714c8238621",
+   "airport": "ATL",
+   "n": 8,
+   "cap": 1,
+   "lag": 6,
+   "cells": [
+    {
+     "delay": 1,
+     "accuracy": 0,
+     "none": 82,
+     "full": 50,
+     "exact": 50,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 1,
+     "none": 82,
+     "full": 50,
+     "exact": 82,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 2,
+     "none": 82,
+     "full": 50,
+     "exact": 82,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 0,
+     "none": 82,
+     "full": 50,
+     "exact": 54,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 1,
+     "none": 82,
+     "full": 50,
+     "exact": 82,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 2,
+     "none": 82,
+     "full": 50,
+     "exact": 82,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 0,
+     "none": 82,
+     "full": 50,
+     "exact": 59,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 1,
+     "none": 82,
+     "full": 50,
+     "exact": 82,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 2,
+     "none": 82,
+     "full": 50,
+     "exact": 82,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 0,
+     "none": 82,
+     "full": 50,
+     "exact": 64,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 1,
+     "none": 82,
+     "full": 50,
+     "exact": 82,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 2,
+     "none": 82,
+     "full": 50,
+     "exact": 82,
+     "resolved": true
+    }
+   ],
+   "seconds": 18.774202400119975
+  },
+  {
+   "case_id": "57836fd34a26",
+   "airport": "ATL",
+   "n": 2,
+   "cap": 2,
+   "lag": 6,
+   "cells": [
+    {
+     "delay": 1,
+     "accuracy": 0,
+     "none": 56,
+     "full": 12,
+     "exact": 56,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 1,
+     "none": 56,
+     "full": 12,
+     "exact": 56,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 2,
+     "none": 56,
+     "full": 12,
+     "exact": 56,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 0,
+     "none": 56,
+     "full": 12,
+     "exact": 56,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 1,
+     "none": 56,
+     "full": 12,
+     "exact": 56,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 2,
+     "none": 56,
+     "full": 12,
+     "exact": 56,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 0,
+     "none": 56,
+     "full": 12,
+     "exact": 56,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 1,
+     "none": 56,
+     "full": 12,
+     "exact": 56,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 2,
+     "none": 56,
+     "full": 12,
+     "exact": 56,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 0,
+     "none": 56,
+     "full": 12,
+     "exact": 56,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 1,
+     "none": 56,
+     "full": 12,
+     "exact": 56,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 2,
+     "none": 56,
+     "full": 12,
+     "exact": 56,
+     "resolved": true
+    }
+   ],
+   "seconds": 0.0010782000608742237
+  },
+  {
+   "case_id": "57836fd34a26",
+   "airport": "ATL",
+   "n": 2,
+   "cap": 1,
+   "lag": 6,
+   "cells": [
+    {
+     "delay": 1,
+     "accuracy": 0,
+     "none": 55,
+     "full": 13,
+     "exact": 28,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 1,
+     "none": 55,
+     "full": 13,
+     "exact": 55,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 2,
+     "none": 55,
+     "full": 13,
+     "exact": 55,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 0,
+     "none": 55,
+     "full": 13,
+     "exact": 55,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 1,
+     "none": 55,
+     "full": 13,
+     "exact": 55,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 2,
+     "none": 55,
+     "full": 13,
+     "exact": 55,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 0,
+     "none": 55,
+     "full": 13,
+     "exact": 55,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 1,
+     "none": 55,
+     "full": 13,
+     "exact": 55,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 2,
+     "none": 55,
+     "full": 13,
+     "exact": 55,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 0,
+     "none": 55,
+     "full": 13,
+     "exact": 55,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 1,
+     "none": 55,
+     "full": 13,
+     "exact": 55,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 2,
+     "none": 55,
+     "full": 13,
+     "exact": 55,
+     "resolved": true
+    }
+   ],
+   "seconds": 0.007497100159525871
+  },
+  {
+   "case_id": "5dc695ea48d3",
+   "airport": "CLT",
+   "n": 30,
+   "cap": 30,
+   "lag": 6,
+   "cells": [
+    {
+     "delay": 1,
+     "accuracy": 0,
+     "none": 309,
+     "full": 180,
+     "exact": 186,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 1,
+     "none": 309,
+     "full": 180,
+     "exact": 249,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 2,
+     "none": 309,
+     "full": 180,
+     "exact": 309,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 0,
+     "none": 309,
+     "full": 180,
+     "exact": 197,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 1,
+     "none": 309,
+     "full": 180,
+     "exact": 250,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 2,
+     "none": 309,
+     "full": 180,
+     "exact": 309,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 0,
+     "none": 309,
+     "full": 180,
+     "exact": 211,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 1,
+     "none": 309,
+     "full": 180,
+     "exact": 262,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 2,
+     "none": 309,
+     "full": 180,
+     "exact": 309,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 0,
+     "none": 309,
+     "full": 180,
+     "exact": 222,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 1,
+     "none": 309,
+     "full": 180,
+     "exact": 265,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 2,
+     "none": 309,
+     "full": 180,
+     "exact": 309,
+     "resolved": true
+    }
+   ],
+   "seconds": 38.405919099925086
+  },
+  {
+   "case_id": "5dc695ea48d3",
+   "airport": "CLT",
+   "n": 30,
+   "cap": 8,
+   "lag": 6,
+   "cells": [
+    {
+     "delay": 1,
+     "accuracy": 0,
+     "none": 309,
+     "full": 180,
+     "exact": 186,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 1,
+     "none": 309,
+     "full": 180,
+     "exact": 249,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 2,
+     "none": 309,
+     "full": 180,
+     "exact": 309,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 0,
+     "none": 309,
+     "full": 180,
+     "exact": 197,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 1,
+     "none": 309,
+     "full": 180,
+     "exact": 250,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 2,
+     "none": 309,
+     "full": 180,
+     "exact": 309,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 0,
+     "none": 309,
+     "full": 180,
+     "exact": 211,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 1,
+     "none": 309,
+     "full": 180,
+     "exact": 262,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 2,
+     "none": 309,
+     "full": 180,
+     "exact": 309,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 0,
+     "none": 309,
+     "full": 180,
+     "exact": 222,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 1,
+     "none": 309,
+     "full": 180,
+     "exact": 265,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 2,
+     "none": 309,
+     "full": 180,
+     "exact": 309,
+     "resolved": true
+    }
+   ],
+   "seconds": 38.402619699947536
+  },
+  {
+   "case_id": "5dc695ea48d3",
+   "airport": "CLT",
+   "n": 30,
+   "cap": 4,
+   "lag": 6,
+   "cells": [
+    {
+     "delay": 1,
+     "accuracy": 0,
+     "none": 309,
+     "full": 182,
+     "exact": 186,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 1,
+     "none": 309,
+     "full": 182,
+     "exact": 249,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 2,
+     "none": 309,
+     "full": 182,
+     "exact": 309,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 0,
+     "none": 309,
+     "full": 182,
+     "exact": 197,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 1,
+     "none": 309,
+     "full": 182,
+     "exact": 250,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 2,
+     "none": 309,
+     "full": 182,
+     "exact": 309,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 0,
+     "none": 309,
+     "full": 182,
+     "exact": 211,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 1,
+     "none": 309,
+     "full": 182,
+     "exact": 262,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 2,
+     "none": 309,
+     "full": 182,
+     "exact": 309,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 0,
+     "none": 309,
+     "full": 182,
+     "exact": 222,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 1,
+     "none": 309,
+     "full": 182,
+     "exact": 265,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 2,
+     "none": 309,
+     "full": 182,
+     "exact": 309,
+     "resolved": true
+    }
+   ],
+   "seconds": 38.7982192998752
+  },
+  {
+   "case_id": "d62a74f55d64",
+   "airport": "CLT",
+   "n": 23,
+   "cap": 23,
+   "lag": 6,
+   "cells": [
+    {
+     "delay": 1,
+     "accuracy": 0,
+     "none": 245,
+     "full": 138,
+     "exact": 146,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 1,
+     "none": 245,
+     "full": 138,
+     "exact": 210,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 2,
+     "none": 245,
+     "full": 138,
+     "exact": 245,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 0,
+     "none": 245,
+     "full": 138,
+     "exact": 154,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 1,
+     "none": 245,
+     "full": 138,
+     "exact": 212,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 2,
+     "none": 245,
+     "full": 138,
+     "exact": 245,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 0,
+     "none": 245,
+     "full": 138,
+     "exact": 167,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 1,
+     "none": 245,
+     "full": 138,
+     "exact": 214,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 2,
+     "none": 245,
+     "full": 138,
+     "exact": 245,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 0,
+     "none": 245,
+     "full": 138,
+     "exact": 184,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 1,
+     "none": 245,
+     "full": 138,
+     "exact": 214,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 2,
+     "none": 245,
+     "full": 138,
+     "exact": 245,
+     "resolved": true
+    }
+   ],
+   "seconds": 37.86782990000211
+  },
+  {
+   "case_id": "d62a74f55d64",
+   "airport": "CLT",
+   "n": 23,
+   "cap": 6,
+   "lag": 6,
+   "cells": [
+    {
+     "delay": 1,
+     "accuracy": 0,
+     "none": 245,
+     "full": 138,
+     "exact": 146,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 1,
+     "none": 245,
+     "full": 138,
+     "exact": 210,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 2,
+     "none": 245,
+     "full": 138,
+     "exact": 245,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 0,
+     "none": 245,
+     "full": 138,
+     "exact": 154,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 1,
+     "none": 245,
+     "full": 138,
+     "exact": 212,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 2,
+     "none": 245,
+     "full": 138,
+     "exact": 245,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 0,
+     "none": 245,
+     "full": 138,
+     "exact": 167,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 1,
+     "none": 245,
+     "full": 138,
+     "exact": 214,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 2,
+     "none": 245,
+     "full": 138,
+     "exact": 245,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 0,
+     "none": 245,
+     "full": 138,
+     "exact": 184,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 1,
+     "none": 245,
+     "full": 138,
+     "exact": 214,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 2,
+     "none": 245,
+     "full": 138,
+     "exact": 245,
+     "resolved": true
+    }
+   ],
+   "seconds": 38.61815959983505
+  },
+  {
+   "case_id": "d62a74f55d64",
+   "airport": "CLT",
+   "n": 23,
+   "cap": 3,
+   "lag": 6,
+   "cells": [
+    {
+     "delay": 1,
+     "accuracy": 0,
+     "none": 243,
+     "full": 141,
+     "exact": 145,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 1,
+     "none": 243,
+     "full": 141,
+     "exact": 209,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 2,
+     "none": 243,
+     "full": 141,
+     "exact": 243,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 0,
+     "none": 243,
+     "full": 141,
+     "exact": 153,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 1,
+     "none": 243,
+     "full": 141,
+     "exact": 210,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 2,
+     "none": 243,
+     "full": 141,
+     "exact": 243,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 0,
+     "none": 243,
+     "full": 141,
+     "exact": 166,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 1,
+     "none": 243,
+     "full": 141,
+     "exact": 212,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 2,
+     "none": 243,
+     "full": 141,
+     "exact": 243,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 0,
+     "none": 243,
+     "full": 141,
+     "exact": 183,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 1,
+     "none": 243,
+     "full": 141,
+     "exact": 213,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 2,
+     "none": 243,
+     "full": 141,
+     "exact": 243,
+     "resolved": true
+    }
+   ],
+   "seconds": 36.21309279999696
+  },
+  {
+   "case_id": "bebc30863cfd",
+   "airport": "CLT",
+   "n": 26,
+   "cap": 26,
+   "lag": 6,
+   "cells": [
+    {
+     "delay": 1,
+     "accuracy": 0,
+     "none": 346,
+     "full": 156,
+     "exact": 169,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 1,
+     "none": 346,
+     "full": 156,
+     "exact": 329,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 2,
+     "none": 346,
+     "full": 156,
+     "exact": 346,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 0,
+     "none": 346,
+     "full": 156,
+     "exact": 190,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 1,
+     "none": 346,
+     "full": 156,
+     "exact": 329,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 2,
+     "none": 346,
+     "full": 156,
+     "exact": 346,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 0,
+     "none": 346,
+     "full": 156,
+     "exact": 202,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 1,
+     "none": 346,
+     "full": 156,
+     "exact": 329,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 2,
+     "none": 346,
+     "full": 156,
+     "exact": 346,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 0,
+     "none": 346,
+     "full": 156,
+     "exact": 247,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 1,
+     "none": 346,
+     "full": 156,
+     "exact": 330,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 2,
+     "none": 346,
+     "full": 156,
+     "exact": 346,
+     "resolved": true
+    }
+   ],
+   "seconds": 31.037544699851424
+  },
+  {
+   "case_id": "bebc30863cfd",
+   "airport": "CLT",
+   "n": 26,
+   "cap": 7,
+   "lag": 6,
+   "cells": [
+    {
+     "delay": 1,
+     "accuracy": 0,
+     "none": 346,
+     "full": 156,
+     "exact": 169,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 1,
+     "none": 346,
+     "full": 156,
+     "exact": 329,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 2,
+     "none": 346,
+     "full": 156,
+     "exact": 346,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 0,
+     "none": 346,
+     "full": 156,
+     "exact": 190,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 1,
+     "none": 346,
+     "full": 156,
+     "exact": 329,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 2,
+     "none": 346,
+     "full": 156,
+     "exact": 346,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 0,
+     "none": 346,
+     "full": 156,
+     "exact": 202,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 1,
+     "none": 346,
+     "full": 156,
+     "exact": 329,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 2,
+     "none": 346,
+     "full": 156,
+     "exact": 346,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 0,
+     "none": 346,
+     "full": 156,
+     "exact": 247,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 1,
+     "none": 346,
+     "full": 156,
+     "exact": 330,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 2,
+     "none": 346,
+     "full": 156,
+     "exact": 346,
+     "resolved": true
+    }
+   ],
+   "seconds": 31.005119499983266
+  },
+  {
+   "case_id": "bebc30863cfd",
+   "airport": "CLT",
+   "n": 26,
+   "cap": 4,
+   "lag": 6,
+   "cells": [
+    {
+     "delay": 1,
+     "accuracy": 0,
+     "none": 346,
+     "full": 156,
+     "exact": 169,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 1,
+     "none": 346,
+     "full": 156,
+     "exact": 329,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 2,
+     "none": 346,
+     "full": 156,
+     "exact": 346,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 0,
+     "none": 346,
+     "full": 156,
+     "exact": 190,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 1,
+     "none": 346,
+     "full": 156,
+     "exact": 329,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 2,
+     "none": 346,
+     "full": 156,
+     "exact": 346,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 0,
+     "none": 346,
+     "full": 156,
+     "exact": 202,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 1,
+     "none": 346,
+     "full": 156,
+     "exact": 329,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 2,
+     "none": 346,
+     "full": 156,
+     "exact": 346,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 0,
+     "none": 346,
+     "full": 156,
+     "exact": 247,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 1,
+     "none": 346,
+     "full": 156,
+     "exact": 330,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 2,
+     "none": 346,
+     "full": 156,
+     "exact": 346,
+     "resolved": true
+    }
+   ],
+   "seconds": 30.973714499967173
+  },
+  {
+   "case_id": "f2f1f6edd2fd",
+   "airport": "CLT",
+   "n": 25,
+   "cap": 25,
+   "lag": 6,
+   "cells": [
+    {
+     "delay": 1,
+     "accuracy": 0,
+     "none": 226,
+     "full": 150,
+     "exact": 164,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 1,
+     "none": 226,
+     "full": 150,
+     "exact": 216,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 2,
+     "none": 226,
+     "full": 150,
+     "exact": 226,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 0,
+     "none": 226,
+     "full": 150,
+     "exact": 170,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 1,
+     "none": 226,
+     "full": 150,
+     "exact": 217,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 2,
+     "none": 226,
+     "full": 150,
+     "exact": 226,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 0,
+     "none": 226,
+     "full": 150,
+     "exact": 181,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 1,
+     "none": 226,
+     "full": 150,
+     "exact": 218,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 2,
+     "none": 226,
+     "full": 150,
+     "exact": 226,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 0,
+     "none": 226,
+     "full": 150,
+     "exact": 183,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 1,
+     "none": 226,
+     "full": 150,
+     "exact": 218,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 2,
+     "none": 226,
+     "full": 150,
+     "exact": 226,
+     "resolved": true
+    }
+   ],
+   "seconds": 32.00998520012945
+  },
+  {
+   "case_id": "f2f1f6edd2fd",
+   "airport": "CLT",
+   "n": 25,
+   "cap": 7,
+   "lag": 6,
+   "cells": [
+    {
+     "delay": 1,
+     "accuracy": 0,
+     "none": 226,
+     "full": 150,
+     "exact": 164,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 1,
+     "none": 226,
+     "full": 150,
+     "exact": 216,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 2,
+     "none": 226,
+     "full": 150,
+     "exact": 226,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 0,
+     "none": 226,
+     "full": 150,
+     "exact": 170,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 1,
+     "none": 226,
+     "full": 150,
+     "exact": 217,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 2,
+     "none": 226,
+     "full": 150,
+     "exact": 226,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 0,
+     "none": 226,
+     "full": 150,
+     "exact": 181,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 1,
+     "none": 226,
+     "full": 150,
+     "exact": 218,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 2,
+     "none": 226,
+     "full": 150,
+     "exact": 226,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 0,
+     "none": 226,
+     "full": 150,
+     "exact": 183,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 1,
+     "none": 226,
+     "full": 150,
+     "exact": 218,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 2,
+     "none": 226,
+     "full": 150,
+     "exact": 226,
+     "resolved": true
+    }
+   ],
+   "seconds": 32.017865099944174
+  },
+  {
+   "case_id": "f2f1f6edd2fd",
+   "airport": "CLT",
+   "n": 25,
+   "cap": 4,
+   "lag": 6,
+   "cells": [
+    {
+     "delay": 1,
+     "accuracy": 0,
+     "none": 226,
+     "full": 150,
+     "exact": 164,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 1,
+     "none": 226,
+     "full": 150,
+     "exact": 216,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 2,
+     "none": 226,
+     "full": 150,
+     "exact": 226,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 0,
+     "none": 226,
+     "full": 150,
+     "exact": 170,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 1,
+     "none": 226,
+     "full": 150,
+     "exact": 217,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 2,
+     "none": 226,
+     "full": 150,
+     "exact": 226,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 0,
+     "none": 226,
+     "full": 150,
+     "exact": 181,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 1,
+     "none": 226,
+     "full": 150,
+     "exact": 218,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 2,
+     "none": 226,
+     "full": 150,
+     "exact": 226,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 0,
+     "none": 226,
+     "full": 150,
+     "exact": 183,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 1,
+     "none": 226,
+     "full": 150,
+     "exact": 218,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 2,
+     "none": 226,
+     "full": 150,
+     "exact": 226,
+     "resolved": true
+    }
+   ],
+   "seconds": 32.00980279990472
+  },
+  {
+   "case_id": "3a31270085c5",
+   "airport": "CLT",
+   "n": 8,
+   "cap": 8,
+   "lag": 6,
+   "cells": [
+    {
+     "delay": 1,
+     "accuracy": 0,
+     "none": 133,
+     "full": 48,
+     "exact": 64,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 1,
+     "none": 133,
+     "full": 48,
+     "exact": 129,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 2,
+     "none": 133,
+     "full": 48,
+     "exact": 133,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 0,
+     "none": 133,
+     "full": 48,
+     "exact": 68,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 1,
+     "none": 133,
+     "full": 48,
+     "exact": 129,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 2,
+     "none": 133,
+     "full": 48,
+     "exact": 133,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 0,
+     "none": 133,
+     "full": 48,
+     "exact": 81,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 1,
+     "none": 133,
+     "full": 48,
+     "exact": 132,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 2,
+     "none": 133,
+     "full": 48,
+     "exact": 133,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 0,
+     "none": 133,
+     "full": 48,
+     "exact": 111,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 1,
+     "none": 133,
+     "full": 48,
+     "exact": 132,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 2,
+     "none": 133,
+     "full": 48,
+     "exact": 133,
+     "resolved": true
+    }
+   ],
+   "seconds": 1.8378024999983609
+  },
+  {
+   "case_id": "3a31270085c5",
+   "airport": "CLT",
+   "n": 8,
+   "cap": 2,
+   "lag": 6,
+   "cells": [
+    {
+     "delay": 1,
+     "accuracy": 0,
+     "none": 133,
+     "full": 51,
+     "exact": 61,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 1,
+     "none": 133,
+     "full": 51,
+     "exact": 127,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 2,
+     "none": 133,
+     "full": 51,
+     "exact": 133,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 0,
+     "none": 133,
+     "full": 51,
+     "exact": 68,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 1,
+     "none": 133,
+     "full": 51,
+     "exact": 129,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 2,
+     "none": 133,
+     "full": 51,
+     "exact": 133,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 0,
+     "none": 133,
+     "full": 51,
+     "exact": 93,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 1,
+     "none": 133,
+     "full": 51,
+     "exact": 131,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 2,
+     "none": 133,
+     "full": 51,
+     "exact": 133,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 0,
+     "none": 133,
+     "full": 51,
+     "exact": 111,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 1,
+     "none": 133,
+     "full": 51,
+     "exact": 132,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 2,
+     "none": 133,
+     "full": 51,
+     "exact": 133,
+     "resolved": true
+    }
+   ],
+   "seconds": 1.7511221000459045
+  },
+  {
+   "case_id": "3a31270085c5",
+   "airport": "CLT",
+   "n": 8,
+   "cap": 1,
+   "lag": 6,
+   "cells": [
+    {
+     "delay": 1,
+     "accuracy": 0,
+     "none": 122,
+     "full": 59,
+     "exact": 61,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 1,
+     "none": 122,
+     "full": 59,
+     "exact": 122,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 2,
+     "none": 122,
+     "full": 59,
+     "exact": 122,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 0,
+     "none": 122,
+     "full": 59,
+     "exact": 65,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 1,
+     "none": 122,
+     "full": 59,
+     "exact": 122,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 2,
+     "none": 122,
+     "full": 59,
+     "exact": 122,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 0,
+     "none": 122,
+     "full": 59,
+     "exact": 71,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 1,
+     "none": 122,
+     "full": 59,
+     "exact": 122,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 2,
+     "none": 122,
+     "full": 59,
+     "exact": 122,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 0,
+     "none": 122,
+     "full": 59,
+     "exact": 87,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 1,
+     "none": 122,
+     "full": 59,
+     "exact": 122,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 2,
+     "none": 122,
+     "full": 59,
+     "exact": 122,
+     "resolved": true
+    }
+   ],
+   "seconds": 12.640768600162119
+  },
+  {
+   "case_id": "14b4e0ec6786",
+   "airport": "DFW",
+   "n": 8,
+   "cap": 8,
+   "lag": 6,
+   "cells": [
+    {
+     "delay": 1,
+     "accuracy": 0,
+     "none": 174,
+     "full": 48,
+     "exact": 101,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 1,
+     "none": 174,
+     "full": 48,
+     "exact": 167,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 2,
+     "none": 174,
+     "full": 48,
+     "exact": 174,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 0,
+     "none": 174,
+     "full": 48,
+     "exact": 136,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 1,
+     "none": 174,
+     "full": 48,
+     "exact": 170,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 2,
+     "none": 174,
+     "full": 48,
+     "exact": 174,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 0,
+     "none": 174,
+     "full": 48,
+     "exact": 174,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 1,
+     "none": 174,
+     "full": 48,
+     "exact": 174,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 2,
+     "none": 174,
+     "full": 48,
+     "exact": 174,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 0,
+     "none": 174,
+     "full": 48,
+     "exact": 174,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 1,
+     "none": 174,
+     "full": 48,
+     "exact": 174,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 2,
+     "none": 174,
+     "full": 48,
+     "exact": 174,
+     "resolved": true
+    }
+   ],
+   "seconds": 0.5553558999672532
+  },
+  {
+   "case_id": "14b4e0ec6786",
+   "airport": "DFW",
+   "n": 8,
+   "cap": 2,
+   "lag": 6,
+   "cells": [
+    {
+     "delay": 1,
+     "accuracy": 0,
+     "none": 168,
+     "full": 51,
+     "exact": 71,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 1,
+     "none": 168,
+     "full": 51,
+     "exact": 165,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 2,
+     "none": 168,
+     "full": 51,
+     "exact": 166,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 0,
+     "none": 168,
+     "full": 51,
+     "exact": 99,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 1,
+     "none": 168,
+     "full": 51,
+     "exact": 165,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 2,
+     "none": 168,
+     "full": 51,
+     "exact": 166,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 0,
+     "none": 168,
+     "full": 51,
+     "exact": 132,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 1,
+     "none": 168,
+     "full": 51,
+     "exact": 166,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 2,
+     "none": 168,
+     "full": 51,
+     "exact": 168,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 0,
+     "none": 168,
+     "full": 51,
+     "exact": 168,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 1,
+     "none": 168,
+     "full": 51,
+     "exact": 168,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 2,
+     "none": 168,
+     "full": 51,
+     "exact": 168,
+     "resolved": true
+    }
+   ],
+   "seconds": 1.2504243000876158
+  },
+  {
+   "case_id": "14b4e0ec6786",
+   "airport": "DFW",
+   "n": 8,
+   "cap": 1,
+   "lag": 6,
+   "cells": [
+    {
+     "delay": 1,
+     "accuracy": 0,
+     "none": 152,
+     "full": 55,
+     "exact": 70,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 1,
+     "none": 152,
+     "full": 55,
+     "exact": 152,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 2,
+     "none": 152,
+     "full": 55,
+     "exact": 152,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 0,
+     "none": 152,
+     "full": 55,
+     "exact": 82,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 1,
+     "none": 152,
+     "full": 55,
+     "exact": 152,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 2,
+     "none": 152,
+     "full": 55,
+     "exact": 152,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 0,
+     "none": 152,
+     "full": 55,
+     "exact": 95,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 1,
+     "none": 152,
+     "full": 55,
+     "exact": 152,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 2,
+     "none": 152,
+     "full": 55,
+     "exact": 152,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 0,
+     "none": 152,
+     "full": 55,
+     "exact": 109,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 1,
+     "none": 152,
+     "full": 55,
+     "exact": 152,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 2,
+     "none": 152,
+     "full": 55,
+     "exact": 152,
+     "resolved": true
+    }
+   ],
+   "seconds": 15.97587880003266
+  },
+  {
+   "case_id": "84a42fc6d14e",
+   "airport": "DFW",
+   "n": 16,
+   "cap": 16,
+   "lag": 6,
+   "cells": [
+    {
+     "delay": 1,
+     "accuracy": 0,
+     "none": 275,
+     "full": 96,
+     "exact": 105,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 1,
+     "none": 275,
+     "full": 96,
+     "exact": 236,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 2,
+     "none": 275,
+     "full": 96,
+     "exact": 275,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 0,
+     "none": 275,
+     "full": 96,
+     "exact": 120,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 1,
+     "none": 275,
+     "full": 96,
+     "exact": 240,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 2,
+     "none": 275,
+     "full": 96,
+     "exact": 275,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 0,
+     "none": 275,
+     "full": 96,
+     "exact": 164,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 1,
+     "none": 275,
+     "full": 96,
+     "exact": 243,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 2,
+     "none": 275,
+     "full": 96,
+     "exact": 275,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 0,
+     "none": 275,
+     "full": 96,
+     "exact": 196,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 1,
+     "none": 275,
+     "full": 96,
+     "exact": 250,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 2,
+     "none": 275,
+     "full": 96,
+     "exact": 275,
+     "resolved": true
+    }
+   ],
+   "seconds": 30.239341699983925
+  },
+  {
+   "case_id": "84a42fc6d14e",
+   "airport": "DFW",
+   "n": 16,
+   "cap": 4,
+   "lag": 6,
+   "cells": [
+    {
+     "delay": 1,
+     "accuracy": 0,
+     "none": 275,
+     "full": 96,
+     "exact": 105,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 1,
+     "none": 275,
+     "full": 96,
+     "exact": 236,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 2,
+     "none": 275,
+     "full": 96,
+     "exact": 275,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 0,
+     "none": 275,
+     "full": 96,
+     "exact": 120,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 1,
+     "none": 275,
+     "full": 96,
+     "exact": 240,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 2,
+     "none": 275,
+     "full": 96,
+     "exact": 275,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 0,
+     "none": 275,
+     "full": 96,
+     "exact": 164,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 1,
+     "none": 275,
+     "full": 96,
+     "exact": 243,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 2,
+     "none": 275,
+     "full": 96,
+     "exact": 275,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 0,
+     "none": 275,
+     "full": 96,
+     "exact": 196,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 1,
+     "none": 275,
+     "full": 96,
+     "exact": 250,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 2,
+     "none": 275,
+     "full": 96,
+     "exact": 275,
+     "resolved": true
+    }
+   ],
+   "seconds": 30.078715899959207
+  },
+  {
+   "case_id": "84a42fc6d14e",
+   "airport": "DFW",
+   "n": 16,
+   "cap": 2,
+   "lag": 6,
+   "cells": [
+    {
+     "delay": 1,
+     "accuracy": 0,
+     "none": 241,
+     "full": 105,
+     "exact": 105,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 1,
+     "none": 241,
+     "full": 105,
+     "exact": 236,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 2,
+     "none": 241,
+     "full": 105,
+     "exact": 241,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 0,
+     "none": 241,
+     "full": 105,
+     "exact": 109,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 1,
+     "none": 241,
+     "full": 105,
+     "exact": 237,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 2,
+     "none": 241,
+     "full": 105,
+     "exact": 241,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 0,
+     "none": 241,
+     "full": 105,
+     "exact": 118,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 1,
+     "none": 241,
+     "full": 105,
+     "exact": 238,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 2,
+     "none": 241,
+     "full": 105,
+     "exact": 241,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 0,
+     "none": 241,
+     "full": 105,
+     "exact": 145,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 1,
+     "none": 241,
+     "full": 105,
+     "exact": 238,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 2,
+     "none": 241,
+     "full": 105,
+     "exact": 241,
+     "resolved": true
+    }
+   ],
+   "seconds": 29.798671199940145
+  },
+  {
+   "case_id": "d6f04b7939b5",
+   "airport": "DFW",
+   "n": 19,
+   "cap": 19,
+   "lag": 6,
+   "cells": [
+    {
+     "delay": 1,
+     "accuracy": 0,
+     "none": 282,
+     "full": 114,
+     "exact": 119,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 1,
+     "none": 282,
+     "full": 114,
+     "exact": 231,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 2,
+     "none": 282,
+     "full": 114,
+     "exact": 282,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 0,
+     "none": 282,
+     "full": 114,
+     "exact": 126,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 1,
+     "none": 282,
+     "full": 114,
+     "exact": 231,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 2,
+     "none": 282,
+     "full": 114,
+     "exact": 282,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 0,
+     "none": 282,
+     "full": 114,
+     "exact": 145,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 1,
+     "none": 282,
+     "full": 114,
+     "exact": 247,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 2,
+     "none": 282,
+     "full": 114,
+     "exact": 282,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 0,
+     "none": 282,
+     "full": 114,
+     "exact": 166,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 1,
+     "none": 282,
+     "full": 114,
+     "exact": 282,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 2,
+     "none": 282,
+     "full": 114,
+     "exact": 282,
+     "resolved": true
+    }
+   ],
+   "seconds": 30.60047350008972
+  },
+  {
+   "case_id": "d6f04b7939b5",
+   "airport": "DFW",
+   "n": 19,
+   "cap": 5,
+   "lag": 6,
+   "cells": [
+    {
+     "delay": 1,
+     "accuracy": 0,
+     "none": 282,
+     "full": 114,
+     "exact": 119,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 1,
+     "none": 282,
+     "full": 114,
+     "exact": 231,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 2,
+     "none": 282,
+     "full": 114,
+     "exact": 282,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 0,
+     "none": 282,
+     "full": 114,
+     "exact": 126,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 1,
+     "none": 282,
+     "full": 114,
+     "exact": 231,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 2,
+     "none": 282,
+     "full": 114,
+     "exact": 282,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 0,
+     "none": 282,
+     "full": 114,
+     "exact": 145,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 1,
+     "none": 282,
+     "full": 114,
+     "exact": 247,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 2,
+     "none": 282,
+     "full": 114,
+     "exact": 282,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 0,
+     "none": 282,
+     "full": 114,
+     "exact": 166,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 1,
+     "none": 282,
+     "full": 114,
+     "exact": 282,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 2,
+     "none": 282,
+     "full": 114,
+     "exact": 282,
+     "resolved": true
+    }
+   ],
+   "seconds": 30.615719800116494
+  },
+  {
+   "case_id": "d6f04b7939b5",
+   "airport": "DFW",
+   "n": 19,
+   "cap": 3,
+   "lag": 6,
+   "cells": [
+    {
+     "delay": 1,
+     "accuracy": 0,
+     "none": 282,
+     "full": 117,
+     "exact": 121,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 1,
+     "none": 282,
+     "full": 117,
+     "exact": 231,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "accuracy": 2,
+     "none": 282,
+     "full": 117,
+     "exact": 282,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 0,
+     "none": 282,
+     "full": 117,
+     "exact": 126,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 1,
+     "none": 282,
+     "full": 117,
+     "exact": 231,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "accuracy": 2,
+     "none": 282,
+     "full": 117,
+     "exact": 282,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 0,
+     "none": 282,
+     "full": 117,
+     "exact": 145,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 1,
+     "none": 282,
+     "full": 117,
+     "exact": 247,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "accuracy": 2,
+     "none": 282,
+     "full": 117,
+     "exact": 282,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 0,
+     "none": 282,
+     "full": 117,
+     "exact": 166,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 1,
+     "none": 282,
+     "full": 117,
+     "exact": 282,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "accuracy": 2,
+     "none": 282,
+     "full": 117,
+     "exact": 282,
+     "resolved": true
+    }
+   ],
+   "seconds": 30.035957999993116
+  }
+ ],
+ "seconds": 119.94520710012875
+}

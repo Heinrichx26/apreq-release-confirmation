@@ -44,5 +44,14 @@
    "increasing_marginal": 15,
    "second_exceeds_first": 6
   }
+ },
+ "timing": {
+  "instances": 201,
+  "values": 2487,
+  "early_differs": 0,
+  "later_gains": 0,
+  "after_positive": 0,
+  "accuracy_gains": 0,
+  "covered_positive": 0
  }
 }

@@ -1,0 +1,1152 @@
+{
+ "stage": "smoke",
+ "rows": [
+  {
+   "case_id": "ba4b56769712",
+   "airport": "ATL",
+   "hour": 12,
+   "sector": "north",
+   "n": 2,
+   "cap": 2,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/ATL/ba4b56769712.json",
+   "kind": "policy",
+   "gamma": 0,
+   "none": 42,
+   "full": 12,
+   "lookahead2": 42,
+   "budget": 0,
+   "exact": 42,
+   "exact_requests": 0,
+   "index": 42,
+   "index_requests": 0,
+   "resolved": true,
+   "seconds": 0.028941400116309524
+  },
+  {
+   "case_id": "ba4b56769712",
+   "airport": "ATL",
+   "hour": 12,
+   "sector": "north",
+   "n": 2,
+   "cap": 2,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/ATL/ba4b56769712.json",
+   "kind": "policy",
+   "gamma": 1,
+   "none": 42,
+   "full": 12,
+   "lookahead2": 42,
+   "budget": 0,
+   "exact": 42,
+   "exact_requests": 0,
+   "index": 42,
+   "index_requests": 0,
+   "resolved": true,
+   "seconds": 0.0263457999099046
+  },
+  {
+   "case_id": "24b933863a1f",
+   "airport": "CLT",
+   "hour": 10,
+   "sector": "north",
+   "n": 11,
+   "cap": 2,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/CLT/24b933863a1f.json",
+   "kind": "policy",
+   "gamma": 0,
+   "none": 157,
+   "full": 66,
+   "lookahead2": 73,
+   "budget": 4,
+   "exact": 73,
+   "exact_requests": 4,
+   "index": 73,
+   "index_requests": 4,
+   "resolved": true,
+   "seconds": 0.12051669997163117
+  },
+  {
+   "case_id": "24b933863a1f",
+   "airport": "CLT",
+   "hour": 10,
+   "sector": "north",
+   "n": 11,
+   "cap": 2,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/CLT/24b933863a1f.json",
+   "kind": "policy",
+   "gamma": 1,
+   "none": 157,
+   "full": 66,
+   "lookahead2": 91,
+   "budget": 7,
+   "exact": 88,
+   "exact_requests": 7,
+   "index": 97,
+   "index_requests": 7,
+   "resolved": true,
+   "seconds": 1.3800377000588924
+  },
+  {
+   "case_id": "24b933863a1f",
+   "airport": "CLT",
+   "hour": 10,
+   "sector": "north",
+   "n": 11,
+   "cap": 11,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/CLT/24b933863a1f.json",
+   "kind": "policy",
+   "gamma": 0,
+   "none": 157,
+   "full": 66,
+   "lookahead2": 73,
+   "budget": 4,
+   "exact": 73,
+   "exact_requests": 4,
+   "index": 73,
+   "index_requests": 4,
+   "resolved": true,
+   "seconds": 0.11789690004661679
+  },
+  {
+   "case_id": "24b933863a1f",
+   "airport": "CLT",
+   "hour": 10,
+   "sector": "north",
+   "n": 11,
+   "cap": 11,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/CLT/24b933863a1f.json",
+   "kind": "policy",
+   "gamma": 1,
+   "none": 157,
+   "full": 66,
+   "lookahead2": 91,
+   "budget": 7,
+   "exact": 88,
+   "exact_requests": 7,
+   "index": 97,
+   "index_requests": 7,
+   "resolved": true,
+   "seconds": 1.3847388001158834
+  },
+  {
+   "case_id": "ba4b56769712",
+   "airport": "ATL",
+   "hour": 12,
+   "sector": "north",
+   "n": 2,
+   "cap": 2,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/ATL/ba4b56769712.json",
+   "kind": "chart",
+   "cells": [
+    {
+     "delay": 1,
+     "requests": 1,
+     "accuracy": "shared1",
+     "none": 42,
+     "full": 12,
+     "exact": 42,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 2,
+     "accuracy": "shared1",
+     "none": 42,
+     "full": 12,
+     "exact": 42,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 3,
+     "accuracy": "shared1",
+     "none": 42,
+     "full": 12,
+     "exact": 42,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 4,
+     "accuracy": "shared1",
+     "none": 42,
+     "full": 12,
+     "exact": 42,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 5,
+     "accuracy": "shared1",
+     "none": 42,
+     "full": 12,
+     "exact": 42,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 6,
+     "accuracy": "shared1",
+     "none": 42,
+     "full": 12,
+     "exact": 42,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 4,
+     "accuracy": 0,
+     "none": 42,
+     "full": 12,
+     "exact": 42,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 4,
+     "accuracy": 1,
+     "none": 42,
+     "full": 12,
+     "exact": 42,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 4,
+     "accuracy": 2,
+     "none": 42,
+     "full": 12,
+     "exact": 42,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 1,
+     "accuracy": "shared1",
+     "none": 42,
+     "full": 12,
+     "exact": 42,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 2,
+     "accuracy": "shared1",
+     "none": 42,
+     "full": 12,
+     "exact": 42,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 3,
+     "accuracy": "shared1",
+     "none": 42,
+     "full": 12,
+     "exact": 42,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 4,
+     "accuracy": "shared1",
+     "none": 42,
+     "full": 12,
+     "exact": 42,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 5,
+     "accuracy": "shared1",
+     "none": 42,
+     "full": 12,
+     "exact": 42,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 6,
+     "accuracy": "shared1",
+     "none": 42,
+     "full": 12,
+     "exact": 42,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 4,
+     "accuracy": 0,
+     "none": 42,
+     "full": 12,
+     "exact": 42,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 4,
+     "accuracy": 1,
+     "none": 42,
+     "full": 12,
+     "exact": 42,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 4,
+     "accuracy": 2,
+     "none": 42,
+     "full": 12,
+     "exact": 42,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 1,
+     "accuracy": "shared1",
+     "none": 42,
+     "full": 12,
+     "exact": 42,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 2,
+     "accuracy": "shared1",
+     "none": 42,
+     "full": 12,
+     "exact": 42,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 3,
+     "accuracy": "shared1",
+     "none": 42,
+     "full": 12,
+     "exact": 42,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 4,
+     "accuracy": "shared1",
+     "none": 42,
+     "full": 12,
+     "exact": 42,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 5,
+     "accuracy": "shared1",
+     "none": 42,
+     "full": 12,
+     "exact": 42,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 6,
+     "accuracy": "shared1",
+     "none": 42,
+     "full": 12,
+     "exact": 42,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 4,
+     "accuracy": 0,
+     "none": 42,
+     "full": 12,
+     "exact": 42,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 4,
+     "accuracy": 1,
+     "none": 42,
+     "full": 12,
+     "exact": 42,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 4,
+     "accuracy": 2,
+     "none": 42,
+     "full": 12,
+     "exact": 42,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 1,
+     "accuracy": "shared1",
+     "none": 42,
+     "full": 12,
+     "exact": 42,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 2,
+     "accuracy": "shared1",
+     "none": 42,
+     "full": 12,
+     "exact": 42,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 3,
+     "accuracy": "shared1",
+     "none": 42,
+     "full": 12,
+     "exact": 42,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 4,
+     "accuracy": "shared1",
+     "none": 42,
+     "full": 12,
+     "exact": 42,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 5,
+     "accuracy": "shared1",
+     "none": 42,
+     "full": 12,
+     "exact": 42,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 6,
+     "accuracy": "shared1",
+     "none": 42,
+     "full": 12,
+     "exact": 42,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 4,
+     "accuracy": 0,
+     "none": 42,
+     "full": 12,
+     "exact": 42,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 4,
+     "accuracy": 1,
+     "none": 42,
+     "full": 12,
+     "exact": 42,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 4,
+     "accuracy": 2,
+     "none": 42,
+     "full": 12,
+     "exact": 42,
+     "resolved": true
+    }
+   ],
+   "seconds": 0.0029511000029742718
+  },
+  {
+   "case_id": "24b933863a1f",
+   "airport": "CLT",
+   "hour": 10,
+   "sector": "north",
+   "n": 11,
+   "cap": 2,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/CLT/24b933863a1f.json",
+   "kind": "chart",
+   "cells": [
+    {
+     "delay": 1,
+     "requests": 1,
+     "accuracy": "shared1",
+     "none": 157,
+     "full": 66,
+     "exact": 157,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 2,
+     "accuracy": "shared1",
+     "none": 157,
+     "full": 66,
+     "exact": 128,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 3,
+     "accuracy": "shared1",
+     "none": 157,
+     "full": 66,
+     "exact": 118,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 4,
+     "accuracy": "shared1",
+     "none": 157,
+     "full": 66,
+     "exact": 97,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 5,
+     "accuracy": "shared1",
+     "none": 157,
+     "full": 66,
+     "exact": 91,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 6,
+     "accuracy": "shared1",
+     "none": 157,
+     "full": 66,
+     "exact": 89,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 4,
+     "accuracy": 0,
+     "none": 157,
+     "full": 66,
+     "exact": 73,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 4,
+     "accuracy": 1,
+     "none": 157,
+     "full": 66,
+     "exact": 157,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 4,
+     "accuracy": 2,
+     "none": 157,
+     "full": 66,
+     "exact": 157,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 1,
+     "accuracy": "shared1",
+     "none": 157,
+     "full": 66,
+     "exact": 157,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 2,
+     "accuracy": "shared1",
+     "none": 157,
+     "full": 66,
+     "exact": 129,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 3,
+     "accuracy": "shared1",
+     "none": 157,
+     "full": 66,
+     "exact": 122,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 4,
+     "accuracy": "shared1",
+     "none": 157,
+     "full": 66,
+     "exact": 103,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 5,
+     "accuracy": "shared1",
+     "none": 157,
+     "full": 66,
+     "exact": 99,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 6,
+     "accuracy": "shared1",
+     "none": 157,
+     "full": 66,
+     "exact": 98,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 4,
+     "accuracy": 0,
+     "none": 157,
+     "full": 66,
+     "exact": 81,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 4,
+     "accuracy": 1,
+     "none": 157,
+     "full": 66,
+     "exact": 157,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 4,
+     "accuracy": 2,
+     "none": 157,
+     "full": 66,
+     "exact": 157,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 1,
+     "accuracy": "shared1",
+     "none": 157,
+     "full": 66,
+     "exact": 157,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 2,
+     "accuracy": "shared1",
+     "none": 157,
+     "full": 66,
+     "exact": 131,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 3,
+     "accuracy": "shared1",
+     "none": 157,
+     "full": 66,
+     "exact": 127,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 4,
+     "accuracy": "shared1",
+     "none": 157,
+     "full": 66,
+     "exact": 113,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 5,
+     "accuracy": "shared1",
+     "none": 157,
+     "full": 66,
+     "exact": 113,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 6,
+     "accuracy": "shared1",
+     "none": 157,
+     "full": 66,
+     "exact": 113,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 4,
+     "accuracy": 0,
+     "none": 157,
+     "full": 66,
+     "exact": 91,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 4,
+     "accuracy": 1,
+     "none": 157,
+     "full": 66,
+     "exact": 157,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 4,
+     "accuracy": 2,
+     "none": 157,
+     "full": 66,
+     "exact": 157,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 1,
+     "accuracy": "shared1",
+     "none": 157,
+     "full": 66,
+     "exact": 157,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 2,
+     "accuracy": "shared1",
+     "none": 157,
+     "full": 66,
+     "exact": 131,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 3,
+     "accuracy": "shared1",
+     "none": 157,
+     "full": 66,
+     "exact": 131,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 4,
+     "accuracy": "shared1",
+     "none": 157,
+     "full": 66,
+     "exact": 131,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 5,
+     "accuracy": "shared1",
+     "none": 157,
+     "full": 66,
+     "exact": 131,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 6,
+     "accuracy": "shared1",
+     "none": 157,
+     "full": 66,
+     "exact": 131,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 4,
+     "accuracy": 0,
+     "none": 157,
+     "full": 66,
+     "exact": 113,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 4,
+     "accuracy": 1,
+     "none": 157,
+     "full": 66,
+     "exact": 157,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 4,
+     "accuracy": 2,
+     "none": 157,
+     "full": 66,
+     "exact": 157,
+     "resolved": true
+    }
+   ],
+   "seconds": 49.979065499966964
+  },
+  {
+   "case_id": "24b933863a1f",
+   "airport": "CLT",
+   "hour": 10,
+   "sector": "north",
+   "n": 11,
+   "cap": 11,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/CLT/24b933863a1f.json",
+   "kind": "chart",
+   "cells": [
+    {
+     "delay": 1,
+     "requests": 1,
+     "accuracy": "shared1",
+     "none": 157,
+     "full": 66,
+     "exact": 157,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 2,
+     "accuracy": "shared1",
+     "none": 157,
+     "full": 66,
+     "exact": 128,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 3,
+     "accuracy": "shared1",
+     "none": 157,
+     "full": 66,
+     "exact": 118,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 4,
+     "accuracy": "shared1",
+     "none": 157,
+     "full": 66,
+     "exact": 97,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 5,
+     "accuracy": "shared1",
+     "none": 157,
+     "full": 66,
+     "exact": 91,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 6,
+     "accuracy": "shared1",
+     "none": 157,
+     "full": 66,
+     "exact": 89,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 4,
+     "accuracy": 0,
+     "none": 157,
+     "full": 66,
+     "exact": 73,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 4,
+     "accuracy": 1,
+     "none": 157,
+     "full": 66,
+     "exact": 157,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 4,
+     "accuracy": 2,
+     "none": 157,
+     "full": 66,
+     "exact": 157,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 1,
+     "accuracy": "shared1",
+     "none": 157,
+     "full": 66,
+     "exact": 157,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 2,
+     "accuracy": "shared1",
+     "none": 157,
+     "full": 66,
+     "exact": 129,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 3,
+     "accuracy": "shared1",
+     "none": 157,
+     "full": 66,
+     "exact": 122,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 4,
+     "accuracy": "shared1",
+     "none": 157,
+     "full": 66,
+     "exact": 103,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 5,
+     "accuracy": "shared1",
+     "none": 157,
+     "full": 66,
+     "exact": 99,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 6,
+     "accuracy": "shared1",
+     "none": 157,
+     "full": 66,
+     "exact": 98,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 4,
+     "accuracy": 0,
+     "none": 157,
+     "full": 66,
+     "exact": 81,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 4,
+     "accuracy": 1,
+     "none": 157,
+     "full": 66,
+     "exact": 157,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 4,
+     "accuracy": 2,
+     "none": 157,
+     "full": 66,
+     "exact": 157,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 1,
+     "accuracy": "shared1",
+     "none": 157,
+     "full": 66,
+     "exact": 157,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 2,
+     "accuracy": "shared1",
+     "none": 157,
+     "full": 66,
+     "exact": 131,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 3,
+     "accuracy": "shared1",
+     "none": 157,
+     "full": 66,
+     "exact": 127,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 4,
+     "accuracy": "shared1",
+     "none": 157,
+     "full": 66,
+     "exact": 113,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 5,
+     "accuracy": "shared1",
+     "none": 157,
+     "full": 66,
+     "exact": 113,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 6,
+     "accuracy": "shared1",
+     "none": 157,
+     "full": 66,
+     "exact": 113,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 4,
+     "accuracy": 0,
+     "none": 157,
+     "full": 66,
+     "exact": 91,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 4,
+     "accuracy": 1,
+     "none": 157,
+     "full": 66,
+     "exact": 157,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 4,
+     "accuracy": 2,
+     "none": 157,
+     "full": 66,
+     "exact": 157,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 1,
+     "accuracy": "shared1",
+     "none": 157,
+     "full": 66,
+     "exact": 157,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 2,
+     "accuracy": "shared1",
+     "none": 157,
+     "full": 66,
+     "exact": 131,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 3,
+     "accuracy": "shared1",
+     "none": 157,
+     "full": 66,
+     "exact": 131,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 4,
+     "accuracy": "shared1",
+     "none": 157,
+     "full": 66,
+     "exact": 131,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 5,
+     "accuracy": "shared1",
+     "none": 157,
+     "full": 66,
+     "exact": 131,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 6,
+     "accuracy": "shared1",
+     "none": 157,
+     "full": 66,
+     "exact": 131,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 4,
+     "accuracy": 0,
+     "none": 157,
+     "full": 66,
+     "exact": 113,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 4,
+     "accuracy": 1,
+     "none": 157,
+     "full": 66,
+     "exact": 157,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 4,
+     "accuracy": 2,
+     "none": 157,
+     "full": 66,
+     "exact": 157,
+     "resolved": true
+    }
+   ],
+   "seconds": 50.20466289995238
+  }
+ ],
+ "seconds": 50.39038769993931
+}

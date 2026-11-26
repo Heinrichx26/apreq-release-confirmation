@@ -28,6 +28,8 @@ program is solved by HiGHS through `scipy.optimize.milp`.
 - `src/trb_calibrated_20261030/scenario_mip.py`: direct scenario MIP (HiGHS).
 - `src/opdi_trb/`: Zurich event pairing, Zurich experiments, travel-time sensitivity and the MIP comparison.
 - `src/trb_theory_20261126/`: information-deadline check, value of confirmations (exact recursion, two-step lookahead, range index rule), exhaustive checks of the interval-range results, inexact answers, returns to request number and the adaptive-value instance, and the answer-time and request-number chart.
+- `src/trb_theory_20261126/speed_accuracy.py`: exact recursion by answer time and per-answer accuracy.
+- `src/trb_flow_20261126/`: directional departure flows (four 90-degree destination-bearing sectors), deadline checks, policy comparison, answer-time, request-number and accuracy analysis. `build_flows.py` reads the MrAirspace Q1 2025 detailed archive placed at `data/independent_adsb/raw/2025_Q1_detailed_github.parquet`; the derived departures and calendars are included in `data/trb_flow_20261126/`.
 - `src/figures/`: figures drawn from saved results only.
 - `data/`: derived inputs; `results/`: saved outputs.
 
@@ -50,6 +52,12 @@ python src/trb_theory_20261126/summarize_value_capture.py
 python src/trb_theory_20261126/design_chart.py smoke
 python src/trb_theory_20261126/design_chart.py full
 python src/trb_theory_20261126/summarize_design_chart.py
+python src/trb_theory_20261126/speed_accuracy.py smoke
+python src/trb_theory_20261126/speed_accuracy.py full
+python src/trb_theory_20261126/summarize_speed_accuracy.py
+python src/trb_flow_20261126/flow_experiment.py smoke
+python src/trb_flow_20261126/flow_experiment.py full
+python src/trb_flow_20261126/summarize_flows.py
 python src/figures/plot_apreq_evidence.py
 python src/figures/plot_value_theory.py
 python src/figures/plot_design_chart.py

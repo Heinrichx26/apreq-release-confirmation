@@ -208,6 +208,75 @@ def inexact(seed=5, trials=250):
     return rec
 
 
+def worst_case(lo, hi, lag, arrive, gamma, last):
+    """Worst-case excess by enumeration; arrive maps interval -> answer decision,
+    gamma maps interval -> accuracy bound of its answer."""
+    from itertools import product
+    worst = None
+    for c in product(*[range(lo[x], hi[x]+1) for x in range(len(lo))]):
+        ys = [range(max(0, c[x]-gamma[x]), c[x]+gamma[x]+1) if x in arrive else [c[x]]
+              for x in range(len(lo))]
+        for y in product(*ys):
+            released, total = None, 0
+            for t in range(last+1):
+                a = 0
+                for x in range(t+lag+1):
+                    if x+1 <= t:
+                        a += c[x]
+                    elif x in arrive and arrive[x] <= t:
+                        a += min(hi[x], y[x]+gamma[x])
+                    else:
+                        a += hi[x]
+                released = a if released is None else max(released, a)
+                total += released-sum(c[:t+lag+1])
+            worst = total if worst is None else max(worst, total)
+    return worst
+
+
+def timing(seed=23, trials=400):
+    """Corollary 1(a) for general ranges: value of one answer versus arrival and accuracy."""
+    rng = random.Random(seed)
+    rec = dict(instances=0, values=0, early_differs=0, later_gains=0, after_positive=0,
+               accuracy_gains=0, covered_positive=0)
+    for _ in range(trials):
+        h, lag = rng.randint(5, 6), rng.randint(1, 2)
+        lo = [rng.randint(0, 2) for _ in range(h)]
+        hi = [a+rng.choice([0, 1, 2, 3]) for a in lo]
+        last = h-1-lag
+        cand = [x for x in range(lag, last+1) if hi[x] > lo[x]]
+        if not cand or sum(hi[x] > lo[x] for x in range(h)) > 4:
+            continue
+        x = rng.choice(cand)
+        others = {}
+        rest = [j for j in range(h) if j != x and hi[j] > lo[j]]
+        if rest and rng.random() < 0.6:
+            j = rng.choice(rest)
+            others[j] = rng.randint(max(0, j-lag-1), j)
+        g0 = {j: 0 for j in others}
+        base = worst_case(lo, hi, lag, others, g0, last)
+        rec['instances'] += 1
+        w = hi[x]-lo[x]
+        table = {}
+        for gamma in (0, 1, 2):
+            for a in range(max(0, x-lag-2), x+2):
+                arr = dict(others); arr[x] = a
+                gm = dict(g0); gm[x] = gamma
+                table[gamma, a] = base-worst_case(lo, hi, lag, arr, gm, last)
+                rec['values'] += 1
+        for gamma in (0, 1, 2):
+            arrivals = sorted(a for g, a in table if g == gamma)
+            early = [table[gamma, a] for a in arrivals if a <= x-lag]
+            rec['early_differs'] += len(set(early)) > 1
+            for a, b in zip(arrivals, arrivals[1:]):
+                rec['later_gains'] += table[gamma, b] > table[gamma, a]
+            rec['after_positive'] += sum(table[gamma, a] != 0 for a in arrivals if a > x)
+            if 2*gamma >= w:
+                rec['covered_positive'] += sum(table[gamma, a] != 0 for a in arrivals)
+        for a in {a for _, a in table}:
+            rec['accuracy_gains'] += (table[1, a] > table[0, a]) + (table[2, a] > table[1, a])
+    return rec
+
+
 def returns(seed=17, trials=600):
     """Concave returns under narrow ranges; increasing returns under bursty ranges."""
     rng = random.Random(seed)
@@ -281,7 +350,8 @@ def example():
 
 
 def main():
-    out = dict(ranges=ranges(), example=example(), inexact=inexact(), returns=returns())
+    out = dict(ranges=ranges(), example=example(), inexact=inexact(), returns=returns(),
+               timing=timing())
     OUT.mkdir(parents=True, exist_ok=True)
     (OUT/'structure_check.json').write_text(json.dumps(out, indent=1), encoding='utf-8')
     print(json.dumps(out, indent=1))

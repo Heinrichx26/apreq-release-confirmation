@@ -1,0 +1,2078 @@
+{
+ "groups": [
+  {
+   "airport": "ATL",
+   "hour": 10,
+   "sector": "north",
+   "n": 0,
+   "share": 0.18920837770678026
+  },
+  {
+   "airport": "ATL",
+   "hour": 10,
+   "sector": "east",
+   "n": 0,
+   "share": 0.26198083067092653
+  },
+  {
+   "airport": "ATL",
+   "hour": 10,
+   "sector": "south",
+   "n": 0,
+   "share": 0.23784167554135605
+  },
+  {
+   "airport": "ATL",
+   "hour": 10,
+   "sector": "west",
+   "n": 0,
+   "share": 0.3109691160809372
+  },
+  {
+   "airport": "ATL",
+   "hour": 12,
+   "sector": "north",
+   "n": 2,
+   "share": 0.23049434187016082
+  },
+  {
+   "airport": "ATL",
+   "hour": 12,
+   "sector": "east",
+   "n": 2,
+   "share": 0.26384752829064917
+  },
+  {
+   "airport": "ATL",
+   "hour": 12,
+   "sector": "south",
+   "n": 1,
+   "share": 0.22930315664085765
+  },
+  {
+   "airport": "ATL",
+   "hour": 12,
+   "sector": "west",
+   "n": 2,
+   "share": 0.27635497319833235
+  },
+  {
+   "airport": "ATL",
+   "hour": 14,
+   "sector": "north",
+   "n": 3,
+   "share": 0.2446743761412051
+  },
+  {
+   "airport": "ATL",
+   "hour": 14,
+   "sector": "east",
+   "n": 1,
+   "share": 0.16737674984783932
+  },
+  {
+   "airport": "ATL",
+   "hour": 14,
+   "sector": "south",
+   "n": 4,
+   "share": 0.2684114424832623
+  },
+  {
+   "airport": "ATL",
+   "hour": 14,
+   "sector": "west",
+   "n": 6,
+   "share": 0.31953743152769326
+  },
+  {
+   "airport": "ATL",
+   "hour": 16,
+   "sector": "north",
+   "n": 2,
+   "share": 0.23902167871039467
+  },
+  {
+   "airport": "ATL",
+   "hour": 16,
+   "sector": "east",
+   "n": 1,
+   "share": 0.24180100055586437
+  },
+  {
+   "airport": "ATL",
+   "hour": 16,
+   "sector": "south",
+   "n": 4,
+   "share": 0.18565869927737633
+  },
+  {
+   "airport": "ATL",
+   "hour": 16,
+   "sector": "west",
+   "n": 0,
+   "share": 0.33351862145636463
+  },
+  {
+   "airport": "ATL",
+   "hour": 18,
+   "sector": "north",
+   "n": 0,
+   "share": 0.23631680618158404
+  },
+  {
+   "airport": "ATL",
+   "hour": 18,
+   "sector": "east",
+   "n": 0,
+   "share": 0.2163554410817772
+  },
+  {
+   "airport": "ATL",
+   "hour": 18,
+   "sector": "south",
+   "n": 1,
+   "share": 0.24404378622021894
+  },
+  {
+   "airport": "ATL",
+   "hour": 18,
+   "sector": "west",
+   "n": 1,
+   "share": 0.3032839665164198
+  },
+  {
+   "airport": "CLT",
+   "hour": 10,
+   "sector": "north",
+   "n": 11,
+   "share": 0.34231378763866877
+  },
+  {
+   "airport": "CLT",
+   "hour": 10,
+   "sector": "east",
+   "n": 1,
+   "share": 0.09746434231378764
+  },
+  {
+   "airport": "CLT",
+   "hour": 10,
+   "sector": "south",
+   "n": 4,
+   "share": 0.26465927099841524
+  },
+  {
+   "airport": "CLT",
+   "hour": 10,
+   "sector": "west",
+   "n": 7,
+   "share": 0.29556259904912835
+  },
+  {
+   "airport": "CLT",
+   "hour": 12,
+   "sector": "north",
+   "n": 7,
+   "share": 0.2957089552238806
+  },
+  {
+   "airport": "CLT",
+   "hour": 12,
+   "sector": "east",
+   "n": 0,
+   "share": 0.05970149253731343
+  },
+  {
+   "airport": "CLT",
+   "hour": 12,
+   "sector": "south",
+   "n": 6,
+   "share": 0.3246268656716418
+  },
+  {
+   "airport": "CLT",
+   "hour": 12,
+   "sector": "west",
+   "n": 5,
+   "share": 0.3199626865671642
+  },
+  {
+   "airport": "CLT",
+   "hour": 14,
+   "sector": "north",
+   "n": 5,
+   "share": 0.3423076923076923
+  },
+  {
+   "airport": "CLT",
+   "hour": 14,
+   "sector": "east",
+   "n": 3,
+   "share": 0.175
+  },
+  {
+   "airport": "CLT",
+   "hour": 14,
+   "sector": "south",
+   "n": 4,
+   "share": 0.20865384615384616
+  },
+  {
+   "airport": "CLT",
+   "hour": 14,
+   "sector": "west",
+   "n": 6,
+   "share": 0.27403846153846156
+  },
+  {
+   "airport": "CLT",
+   "hour": 16,
+   "sector": "north",
+   "n": 7,
+   "share": 0.306966618287373
+  },
+  {
+   "airport": "CLT",
+   "hour": 16,
+   "sector": "east",
+   "n": 2,
+   "share": 0.1204644412191582
+  },
+  {
+   "airport": "CLT",
+   "hour": 16,
+   "sector": "south",
+   "n": 6,
+   "share": 0.20101596516690856
+  },
+  {
+   "airport": "CLT",
+   "hour": 16,
+   "sector": "west",
+   "n": 8,
+   "share": 0.37155297532656023
+  },
+  {
+   "airport": "CLT",
+   "hour": 18,
+   "sector": "north",
+   "n": 4,
+   "share": 0.356448476992871
+  },
+  {
+   "airport": "CLT",
+   "hour": 18,
+   "sector": "east",
+   "n": 2,
+   "share": 0.12443292287751134
+  },
+  {
+   "airport": "CLT",
+   "hour": 18,
+   "sector": "south",
+   "n": 1,
+   "share": 0.169799092676604
+  },
+  {
+   "airport": "CLT",
+   "hour": 18,
+   "sector": "west",
+   "n": 1,
+   "share": 0.3493195074530136
+  },
+  {
+   "airport": "DFW",
+   "hour": 10,
+   "sector": "north",
+   "n": 0,
+   "share": 0.22200546234881
+  },
+  {
+   "airport": "DFW",
+   "hour": 10,
+   "sector": "east",
+   "n": 0,
+   "share": 0.2879438158408115
+  },
+  {
+   "airport": "DFW",
+   "hour": 10,
+   "sector": "south",
+   "n": 0,
+   "share": 0.24931720639875146
+  },
+  {
+   "airport": "DFW",
+   "hour": 10,
+   "sector": "west",
+   "n": 1,
+   "share": 0.240733515411627
+  },
+  {
+   "airport": "DFW",
+   "hour": 12,
+   "sector": "north",
+   "n": 0,
+   "share": 0.19441723800195887
+  },
+  {
+   "airport": "DFW",
+   "hour": 12,
+   "sector": "east",
+   "n": 0,
+   "share": 0.3952007835455436
+  },
+  {
+   "airport": "DFW",
+   "hour": 12,
+   "sector": "south",
+   "n": 0,
+   "share": 0.1890303623898139
+  },
+  {
+   "airport": "DFW",
+   "hour": 12,
+   "sector": "west",
+   "n": 0,
+   "share": 0.22135161606268364
+  },
+  {
+   "airport": "DFW",
+   "hour": 14,
+   "sector": "north",
+   "n": 1,
+   "share": 0.22908093278463648
+  },
+  {
+   "airport": "DFW",
+   "hour": 14,
+   "sector": "east",
+   "n": 2,
+   "share": 0.3662551440329218
+  },
+  {
+   "airport": "DFW",
+   "hour": 14,
+   "sector": "south",
+   "n": 5,
+   "share": 0.1803840877914952
+  },
+  {
+   "airport": "DFW",
+   "hour": 14,
+   "sector": "west",
+   "n": 0,
+   "share": 0.2242798353909465
+  },
+  {
+   "airport": "DFW",
+   "hour": 16,
+   "sector": "north",
+   "n": 2,
+   "share": 0.17457180500658762
+  },
+  {
+   "airport": "DFW",
+   "hour": 16,
+   "sector": "east",
+   "n": 10,
+   "share": 0.3965744400527009
+  },
+  {
+   "airport": "DFW",
+   "hour": 16,
+   "sector": "south",
+   "n": 2,
+   "share": 0.1844532279314888
+  },
+  {
+   "airport": "DFW",
+   "hour": 16,
+   "sector": "west",
+   "n": 1,
+   "share": 0.24440052700922266
+  },
+  {
+   "airport": "DFW",
+   "hour": 18,
+   "sector": "north",
+   "n": 5,
+   "share": 0.21076573161485973
+  },
+  {
+   "airport": "DFW",
+   "hour": 18,
+   "sector": "east",
+   "n": 8,
+   "share": 0.4404852160727824
+  },
+  {
+   "airport": "DFW",
+   "hour": 18,
+   "sector": "south",
+   "n": 2,
+   "share": 0.11296436694465505
+  },
+  {
+   "airport": "DFW",
+   "hour": 18,
+   "sector": "west",
+   "n": 2,
+   "share": 0.2357846853677028
+  }
+ ],
+ "jobs": [
+  {
+   "case_id": "ba4b56769712",
+   "airport": "ATL",
+   "hour": 12,
+   "sector": "north",
+   "n": 2,
+   "cap": 2,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/ATL/ba4b56769712.json"
+  },
+  {
+   "case_id": "ba4b56769712",
+   "airport": "ATL",
+   "hour": 12,
+   "sector": "north",
+   "n": 2,
+   "cap": 2,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/ATL/ba4b56769712.json"
+  },
+  {
+   "case_id": "ba4b56769712",
+   "airport": "ATL",
+   "hour": 12,
+   "sector": "north",
+   "n": 2,
+   "cap": 1,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/ATL/ba4b56769712.json"
+  },
+  {
+   "case_id": "ba4b56769712",
+   "airport": "ATL",
+   "hour": 12,
+   "sector": "north",
+   "n": 2,
+   "cap": 1,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/ATL/ba4b56769712.json"
+  },
+  {
+   "case_id": "9e9696d78b45",
+   "airport": "ATL",
+   "hour": 12,
+   "sector": "east",
+   "n": 2,
+   "cap": 2,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/ATL/9e9696d78b45.json"
+  },
+  {
+   "case_id": "9e9696d78b45",
+   "airport": "ATL",
+   "hour": 12,
+   "sector": "east",
+   "n": 2,
+   "cap": 2,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/ATL/9e9696d78b45.json"
+  },
+  {
+   "case_id": "9e9696d78b45",
+   "airport": "ATL",
+   "hour": 12,
+   "sector": "east",
+   "n": 2,
+   "cap": 1,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/ATL/9e9696d78b45.json"
+  },
+  {
+   "case_id": "9e9696d78b45",
+   "airport": "ATL",
+   "hour": 12,
+   "sector": "east",
+   "n": 2,
+   "cap": 1,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/ATL/9e9696d78b45.json"
+  },
+  {
+   "case_id": "4f0cdce74ea4",
+   "airport": "ATL",
+   "hour": 12,
+   "sector": "west",
+   "n": 2,
+   "cap": 2,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/ATL/4f0cdce74ea4.json"
+  },
+  {
+   "case_id": "4f0cdce74ea4",
+   "airport": "ATL",
+   "hour": 12,
+   "sector": "west",
+   "n": 2,
+   "cap": 2,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/ATL/4f0cdce74ea4.json"
+  },
+  {
+   "case_id": "4f0cdce74ea4",
+   "airport": "ATL",
+   "hour": 12,
+   "sector": "west",
+   "n": 2,
+   "cap": 1,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/ATL/4f0cdce74ea4.json"
+  },
+  {
+   "case_id": "4f0cdce74ea4",
+   "airport": "ATL",
+   "hour": 12,
+   "sector": "west",
+   "n": 2,
+   "cap": 1,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/ATL/4f0cdce74ea4.json"
+  },
+  {
+   "case_id": "ec1b3a30c420",
+   "airport": "ATL",
+   "hour": 14,
+   "sector": "north",
+   "n": 3,
+   "cap": 3,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/ATL/ec1b3a30c420.json"
+  },
+  {
+   "case_id": "ec1b3a30c420",
+   "airport": "ATL",
+   "hour": 14,
+   "sector": "north",
+   "n": 3,
+   "cap": 3,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/ATL/ec1b3a30c420.json"
+  },
+  {
+   "case_id": "ec1b3a30c420",
+   "airport": "ATL",
+   "hour": 14,
+   "sector": "north",
+   "n": 3,
+   "cap": 1,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/ATL/ec1b3a30c420.json"
+  },
+  {
+   "case_id": "ec1b3a30c420",
+   "airport": "ATL",
+   "hour": 14,
+   "sector": "north",
+   "n": 3,
+   "cap": 1,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/ATL/ec1b3a30c420.json"
+  },
+  {
+   "case_id": "58aba3505717",
+   "airport": "ATL",
+   "hour": 14,
+   "sector": "south",
+   "n": 4,
+   "cap": 4,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/ATL/58aba3505717.json"
+  },
+  {
+   "case_id": "58aba3505717",
+   "airport": "ATL",
+   "hour": 14,
+   "sector": "south",
+   "n": 4,
+   "cap": 4,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/ATL/58aba3505717.json"
+  },
+  {
+   "case_id": "58aba3505717",
+   "airport": "ATL",
+   "hour": 14,
+   "sector": "south",
+   "n": 4,
+   "cap": 1,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/ATL/58aba3505717.json"
+  },
+  {
+   "case_id": "58aba3505717",
+   "airport": "ATL",
+   "hour": 14,
+   "sector": "south",
+   "n": 4,
+   "cap": 1,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/ATL/58aba3505717.json"
+  },
+  {
+   "case_id": "d9742a1681f1",
+   "airport": "ATL",
+   "hour": 14,
+   "sector": "west",
+   "n": 6,
+   "cap": 6,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/ATL/d9742a1681f1.json"
+  },
+  {
+   "case_id": "d9742a1681f1",
+   "airport": "ATL",
+   "hour": 14,
+   "sector": "west",
+   "n": 6,
+   "cap": 6,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/ATL/d9742a1681f1.json"
+  },
+  {
+   "case_id": "d9742a1681f1",
+   "airport": "ATL",
+   "hour": 14,
+   "sector": "west",
+   "n": 6,
+   "cap": 2,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/ATL/d9742a1681f1.json"
+  },
+  {
+   "case_id": "d9742a1681f1",
+   "airport": "ATL",
+   "hour": 14,
+   "sector": "west",
+   "n": 6,
+   "cap": 2,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/ATL/d9742a1681f1.json"
+  },
+  {
+   "case_id": "d9742a1681f1",
+   "airport": "ATL",
+   "hour": 14,
+   "sector": "west",
+   "n": 6,
+   "cap": 1,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/ATL/d9742a1681f1.json"
+  },
+  {
+   "case_id": "d9742a1681f1",
+   "airport": "ATL",
+   "hour": 14,
+   "sector": "west",
+   "n": 6,
+   "cap": 1,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/ATL/d9742a1681f1.json"
+  },
+  {
+   "case_id": "345674ef36fd",
+   "airport": "ATL",
+   "hour": 16,
+   "sector": "north",
+   "n": 2,
+   "cap": 2,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/ATL/345674ef36fd.json"
+  },
+  {
+   "case_id": "345674ef36fd",
+   "airport": "ATL",
+   "hour": 16,
+   "sector": "north",
+   "n": 2,
+   "cap": 2,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/ATL/345674ef36fd.json"
+  },
+  {
+   "case_id": "345674ef36fd",
+   "airport": "ATL",
+   "hour": 16,
+   "sector": "north",
+   "n": 2,
+   "cap": 1,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/ATL/345674ef36fd.json"
+  },
+  {
+   "case_id": "345674ef36fd",
+   "airport": "ATL",
+   "hour": 16,
+   "sector": "north",
+   "n": 2,
+   "cap": 1,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/ATL/345674ef36fd.json"
+  },
+  {
+   "case_id": "c199d1fc672a",
+   "airport": "ATL",
+   "hour": 16,
+   "sector": "south",
+   "n": 4,
+   "cap": 4,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/ATL/c199d1fc672a.json"
+  },
+  {
+   "case_id": "c199d1fc672a",
+   "airport": "ATL",
+   "hour": 16,
+   "sector": "south",
+   "n": 4,
+   "cap": 4,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/ATL/c199d1fc672a.json"
+  },
+  {
+   "case_id": "c199d1fc672a",
+   "airport": "ATL",
+   "hour": 16,
+   "sector": "south",
+   "n": 4,
+   "cap": 1,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/ATL/c199d1fc672a.json"
+  },
+  {
+   "case_id": "c199d1fc672a",
+   "airport": "ATL",
+   "hour": 16,
+   "sector": "south",
+   "n": 4,
+   "cap": 1,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/ATL/c199d1fc672a.json"
+  },
+  {
+   "case_id": "24b933863a1f",
+   "airport": "CLT",
+   "hour": 10,
+   "sector": "north",
+   "n": 11,
+   "cap": 11,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/CLT/24b933863a1f.json"
+  },
+  {
+   "case_id": "24b933863a1f",
+   "airport": "CLT",
+   "hour": 10,
+   "sector": "north",
+   "n": 11,
+   "cap": 11,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/CLT/24b933863a1f.json"
+  },
+  {
+   "case_id": "24b933863a1f",
+   "airport": "CLT",
+   "hour": 10,
+   "sector": "north",
+   "n": 11,
+   "cap": 3,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/CLT/24b933863a1f.json"
+  },
+  {
+   "case_id": "24b933863a1f",
+   "airport": "CLT",
+   "hour": 10,
+   "sector": "north",
+   "n": 11,
+   "cap": 3,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/CLT/24b933863a1f.json"
+  },
+  {
+   "case_id": "24b933863a1f",
+   "airport": "CLT",
+   "hour": 10,
+   "sector": "north",
+   "n": 11,
+   "cap": 2,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/CLT/24b933863a1f.json"
+  },
+  {
+   "case_id": "24b933863a1f",
+   "airport": "CLT",
+   "hour": 10,
+   "sector": "north",
+   "n": 11,
+   "cap": 2,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/CLT/24b933863a1f.json"
+  },
+  {
+   "case_id": "0bdb160f94a4",
+   "airport": "CLT",
+   "hour": 10,
+   "sector": "south",
+   "n": 4,
+   "cap": 4,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/CLT/0bdb160f94a4.json"
+  },
+  {
+   "case_id": "0bdb160f94a4",
+   "airport": "CLT",
+   "hour": 10,
+   "sector": "south",
+   "n": 4,
+   "cap": 4,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/CLT/0bdb160f94a4.json"
+  },
+  {
+   "case_id": "0bdb160f94a4",
+   "airport": "CLT",
+   "hour": 10,
+   "sector": "south",
+   "n": 4,
+   "cap": 1,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/CLT/0bdb160f94a4.json"
+  },
+  {
+   "case_id": "0bdb160f94a4",
+   "airport": "CLT",
+   "hour": 10,
+   "sector": "south",
+   "n": 4,
+   "cap": 1,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/CLT/0bdb160f94a4.json"
+  },
+  {
+   "case_id": "ba4b91aaf8a7",
+   "airport": "CLT",
+   "hour": 10,
+   "sector": "west",
+   "n": 7,
+   "cap": 7,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/CLT/ba4b91aaf8a7.json"
+  },
+  {
+   "case_id": "ba4b91aaf8a7",
+   "airport": "CLT",
+   "hour": 10,
+   "sector": "west",
+   "n": 7,
+   "cap": 7,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/CLT/ba4b91aaf8a7.json"
+  },
+  {
+   "case_id": "ba4b91aaf8a7",
+   "airport": "CLT",
+   "hour": 10,
+   "sector": "west",
+   "n": 7,
+   "cap": 2,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/CLT/ba4b91aaf8a7.json"
+  },
+  {
+   "case_id": "ba4b91aaf8a7",
+   "airport": "CLT",
+   "hour": 10,
+   "sector": "west",
+   "n": 7,
+   "cap": 2,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/CLT/ba4b91aaf8a7.json"
+  },
+  {
+   "case_id": "ba4b91aaf8a7",
+   "airport": "CLT",
+   "hour": 10,
+   "sector": "west",
+   "n": 7,
+   "cap": 1,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/CLT/ba4b91aaf8a7.json"
+  },
+  {
+   "case_id": "ba4b91aaf8a7",
+   "airport": "CLT",
+   "hour": 10,
+   "sector": "west",
+   "n": 7,
+   "cap": 1,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/CLT/ba4b91aaf8a7.json"
+  },
+  {
+   "case_id": "229b5cd6a223",
+   "airport": "CLT",
+   "hour": 12,
+   "sector": "north",
+   "n": 7,
+   "cap": 7,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/CLT/229b5cd6a223.json"
+  },
+  {
+   "case_id": "229b5cd6a223",
+   "airport": "CLT",
+   "hour": 12,
+   "sector": "north",
+   "n": 7,
+   "cap": 7,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/CLT/229b5cd6a223.json"
+  },
+  {
+   "case_id": "229b5cd6a223",
+   "airport": "CLT",
+   "hour": 12,
+   "sector": "north",
+   "n": 7,
+   "cap": 2,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/CLT/229b5cd6a223.json"
+  },
+  {
+   "case_id": "229b5cd6a223",
+   "airport": "CLT",
+   "hour": 12,
+   "sector": "north",
+   "n": 7,
+   "cap": 2,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/CLT/229b5cd6a223.json"
+  },
+  {
+   "case_id": "229b5cd6a223",
+   "airport": "CLT",
+   "hour": 12,
+   "sector": "north",
+   "n": 7,
+   "cap": 1,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/CLT/229b5cd6a223.json"
+  },
+  {
+   "case_id": "229b5cd6a223",
+   "airport": "CLT",
+   "hour": 12,
+   "sector": "north",
+   "n": 7,
+   "cap": 1,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/CLT/229b5cd6a223.json"
+  },
+  {
+   "case_id": "cc08d635dbea",
+   "airport": "CLT",
+   "hour": 12,
+   "sector": "south",
+   "n": 6,
+   "cap": 6,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/CLT/cc08d635dbea.json"
+  },
+  {
+   "case_id": "cc08d635dbea",
+   "airport": "CLT",
+   "hour": 12,
+   "sector": "south",
+   "n": 6,
+   "cap": 6,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/CLT/cc08d635dbea.json"
+  },
+  {
+   "case_id": "cc08d635dbea",
+   "airport": "CLT",
+   "hour": 12,
+   "sector": "south",
+   "n": 6,
+   "cap": 2,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/CLT/cc08d635dbea.json"
+  },
+  {
+   "case_id": "cc08d635dbea",
+   "airport": "CLT",
+   "hour": 12,
+   "sector": "south",
+   "n": 6,
+   "cap": 2,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/CLT/cc08d635dbea.json"
+  },
+  {
+   "case_id": "cc08d635dbea",
+   "airport": "CLT",
+   "hour": 12,
+   "sector": "south",
+   "n": 6,
+   "cap": 1,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/CLT/cc08d635dbea.json"
+  },
+  {
+   "case_id": "cc08d635dbea",
+   "airport": "CLT",
+   "hour": 12,
+   "sector": "south",
+   "n": 6,
+   "cap": 1,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/CLT/cc08d635dbea.json"
+  },
+  {
+   "case_id": "c503b8f87996",
+   "airport": "CLT",
+   "hour": 12,
+   "sector": "west",
+   "n": 5,
+   "cap": 5,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/CLT/c503b8f87996.json"
+  },
+  {
+   "case_id": "c503b8f87996",
+   "airport": "CLT",
+   "hour": 12,
+   "sector": "west",
+   "n": 5,
+   "cap": 5,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/CLT/c503b8f87996.json"
+  },
+  {
+   "case_id": "c503b8f87996",
+   "airport": "CLT",
+   "hour": 12,
+   "sector": "west",
+   "n": 5,
+   "cap": 2,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/CLT/c503b8f87996.json"
+  },
+  {
+   "case_id": "c503b8f87996",
+   "airport": "CLT",
+   "hour": 12,
+   "sector": "west",
+   "n": 5,
+   "cap": 2,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/CLT/c503b8f87996.json"
+  },
+  {
+   "case_id": "c503b8f87996",
+   "airport": "CLT",
+   "hour": 12,
+   "sector": "west",
+   "n": 5,
+   "cap": 1,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/CLT/c503b8f87996.json"
+  },
+  {
+   "case_id": "c503b8f87996",
+   "airport": "CLT",
+   "hour": 12,
+   "sector": "west",
+   "n": 5,
+   "cap": 1,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/CLT/c503b8f87996.json"
+  },
+  {
+   "case_id": "9da6f2c8d9c9",
+   "airport": "CLT",
+   "hour": 14,
+   "sector": "north",
+   "n": 5,
+   "cap": 5,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/CLT/9da6f2c8d9c9.json"
+  },
+  {
+   "case_id": "9da6f2c8d9c9",
+   "airport": "CLT",
+   "hour": 14,
+   "sector": "north",
+   "n": 5,
+   "cap": 5,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/CLT/9da6f2c8d9c9.json"
+  },
+  {
+   "case_id": "9da6f2c8d9c9",
+   "airport": "CLT",
+   "hour": 14,
+   "sector": "north",
+   "n": 5,
+   "cap": 2,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/CLT/9da6f2c8d9c9.json"
+  },
+  {
+   "case_id": "9da6f2c8d9c9",
+   "airport": "CLT",
+   "hour": 14,
+   "sector": "north",
+   "n": 5,
+   "cap": 2,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/CLT/9da6f2c8d9c9.json"
+  },
+  {
+   "case_id": "9da6f2c8d9c9",
+   "airport": "CLT",
+   "hour": 14,
+   "sector": "north",
+   "n": 5,
+   "cap": 1,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/CLT/9da6f2c8d9c9.json"
+  },
+  {
+   "case_id": "9da6f2c8d9c9",
+   "airport": "CLT",
+   "hour": 14,
+   "sector": "north",
+   "n": 5,
+   "cap": 1,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/CLT/9da6f2c8d9c9.json"
+  },
+  {
+   "case_id": "41cc78beadaf",
+   "airport": "CLT",
+   "hour": 14,
+   "sector": "east",
+   "n": 3,
+   "cap": 3,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/CLT/41cc78beadaf.json"
+  },
+  {
+   "case_id": "41cc78beadaf",
+   "airport": "CLT",
+   "hour": 14,
+   "sector": "east",
+   "n": 3,
+   "cap": 3,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/CLT/41cc78beadaf.json"
+  },
+  {
+   "case_id": "41cc78beadaf",
+   "airport": "CLT",
+   "hour": 14,
+   "sector": "east",
+   "n": 3,
+   "cap": 1,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/CLT/41cc78beadaf.json"
+  },
+  {
+   "case_id": "41cc78beadaf",
+   "airport": "CLT",
+   "hour": 14,
+   "sector": "east",
+   "n": 3,
+   "cap": 1,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/CLT/41cc78beadaf.json"
+  },
+  {
+   "case_id": "400e4411aea3",
+   "airport": "CLT",
+   "hour": 14,
+   "sector": "south",
+   "n": 4,
+   "cap": 4,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/CLT/400e4411aea3.json"
+  },
+  {
+   "case_id": "400e4411aea3",
+   "airport": "CLT",
+   "hour": 14,
+   "sector": "south",
+   "n": 4,
+   "cap": 4,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/CLT/400e4411aea3.json"
+  },
+  {
+   "case_id": "400e4411aea3",
+   "airport": "CLT",
+   "hour": 14,
+   "sector": "south",
+   "n": 4,
+   "cap": 1,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/CLT/400e4411aea3.json"
+  },
+  {
+   "case_id": "400e4411aea3",
+   "airport": "CLT",
+   "hour": 14,
+   "sector": "south",
+   "n": 4,
+   "cap": 1,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/CLT/400e4411aea3.json"
+  },
+  {
+   "case_id": "be844f392c59",
+   "airport": "CLT",
+   "hour": 14,
+   "sector": "west",
+   "n": 6,
+   "cap": 6,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/CLT/be844f392c59.json"
+  },
+  {
+   "case_id": "be844f392c59",
+   "airport": "CLT",
+   "hour": 14,
+   "sector": "west",
+   "n": 6,
+   "cap": 6,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/CLT/be844f392c59.json"
+  },
+  {
+   "case_id": "be844f392c59",
+   "airport": "CLT",
+   "hour": 14,
+   "sector": "west",
+   "n": 6,
+   "cap": 2,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/CLT/be844f392c59.json"
+  },
+  {
+   "case_id": "be844f392c59",
+   "airport": "CLT",
+   "hour": 14,
+   "sector": "west",
+   "n": 6,
+   "cap": 2,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/CLT/be844f392c59.json"
+  },
+  {
+   "case_id": "be844f392c59",
+   "airport": "CLT",
+   "hour": 14,
+   "sector": "west",
+   "n": 6,
+   "cap": 1,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/CLT/be844f392c59.json"
+  },
+  {
+   "case_id": "be844f392c59",
+   "airport": "CLT",
+   "hour": 14,
+   "sector": "west",
+   "n": 6,
+   "cap": 1,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/CLT/be844f392c59.json"
+  },
+  {
+   "case_id": "e2cee7a3054f",
+   "airport": "CLT",
+   "hour": 16,
+   "sector": "north",
+   "n": 7,
+   "cap": 7,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/CLT/e2cee7a3054f.json"
+  },
+  {
+   "case_id": "e2cee7a3054f",
+   "airport": "CLT",
+   "hour": 16,
+   "sector": "north",
+   "n": 7,
+   "cap": 7,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/CLT/e2cee7a3054f.json"
+  },
+  {
+   "case_id": "e2cee7a3054f",
+   "airport": "CLT",
+   "hour": 16,
+   "sector": "north",
+   "n": 7,
+   "cap": 2,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/CLT/e2cee7a3054f.json"
+  },
+  {
+   "case_id": "e2cee7a3054f",
+   "airport": "CLT",
+   "hour": 16,
+   "sector": "north",
+   "n": 7,
+   "cap": 2,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/CLT/e2cee7a3054f.json"
+  },
+  {
+   "case_id": "e2cee7a3054f",
+   "airport": "CLT",
+   "hour": 16,
+   "sector": "north",
+   "n": 7,
+   "cap": 1,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/CLT/e2cee7a3054f.json"
+  },
+  {
+   "case_id": "e2cee7a3054f",
+   "airport": "CLT",
+   "hour": 16,
+   "sector": "north",
+   "n": 7,
+   "cap": 1,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/CLT/e2cee7a3054f.json"
+  },
+  {
+   "case_id": "32ca14b9478a",
+   "airport": "CLT",
+   "hour": 16,
+   "sector": "east",
+   "n": 2,
+   "cap": 2,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/CLT/32ca14b9478a.json"
+  },
+  {
+   "case_id": "32ca14b9478a",
+   "airport": "CLT",
+   "hour": 16,
+   "sector": "east",
+   "n": 2,
+   "cap": 2,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/CLT/32ca14b9478a.json"
+  },
+  {
+   "case_id": "32ca14b9478a",
+   "airport": "CLT",
+   "hour": 16,
+   "sector": "east",
+   "n": 2,
+   "cap": 1,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/CLT/32ca14b9478a.json"
+  },
+  {
+   "case_id": "32ca14b9478a",
+   "airport": "CLT",
+   "hour": 16,
+   "sector": "east",
+   "n": 2,
+   "cap": 1,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/CLT/32ca14b9478a.json"
+  },
+  {
+   "case_id": "95bdf40809c1",
+   "airport": "CLT",
+   "hour": 16,
+   "sector": "south",
+   "n": 6,
+   "cap": 6,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/CLT/95bdf40809c1.json"
+  },
+  {
+   "case_id": "95bdf40809c1",
+   "airport": "CLT",
+   "hour": 16,
+   "sector": "south",
+   "n": 6,
+   "cap": 6,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/CLT/95bdf40809c1.json"
+  },
+  {
+   "case_id": "95bdf40809c1",
+   "airport": "CLT",
+   "hour": 16,
+   "sector": "south",
+   "n": 6,
+   "cap": 2,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/CLT/95bdf40809c1.json"
+  },
+  {
+   "case_id": "95bdf40809c1",
+   "airport": "CLT",
+   "hour": 16,
+   "sector": "south",
+   "n": 6,
+   "cap": 2,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/CLT/95bdf40809c1.json"
+  },
+  {
+   "case_id": "95bdf40809c1",
+   "airport": "CLT",
+   "hour": 16,
+   "sector": "south",
+   "n": 6,
+   "cap": 1,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/CLT/95bdf40809c1.json"
+  },
+  {
+   "case_id": "95bdf40809c1",
+   "airport": "CLT",
+   "hour": 16,
+   "sector": "south",
+   "n": 6,
+   "cap": 1,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/CLT/95bdf40809c1.json"
+  },
+  {
+   "case_id": "ad360b4792dc",
+   "airport": "CLT",
+   "hour": 16,
+   "sector": "west",
+   "n": 8,
+   "cap": 8,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/CLT/ad360b4792dc.json"
+  },
+  {
+   "case_id": "ad360b4792dc",
+   "airport": "CLT",
+   "hour": 16,
+   "sector": "west",
+   "n": 8,
+   "cap": 8,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/CLT/ad360b4792dc.json"
+  },
+  {
+   "case_id": "ad360b4792dc",
+   "airport": "CLT",
+   "hour": 16,
+   "sector": "west",
+   "n": 8,
+   "cap": 2,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/CLT/ad360b4792dc.json"
+  },
+  {
+   "case_id": "ad360b4792dc",
+   "airport": "CLT",
+   "hour": 16,
+   "sector": "west",
+   "n": 8,
+   "cap": 2,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/CLT/ad360b4792dc.json"
+  },
+  {
+   "case_id": "ad360b4792dc",
+   "airport": "CLT",
+   "hour": 16,
+   "sector": "west",
+   "n": 8,
+   "cap": 1,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/CLT/ad360b4792dc.json"
+  },
+  {
+   "case_id": "ad360b4792dc",
+   "airport": "CLT",
+   "hour": 16,
+   "sector": "west",
+   "n": 8,
+   "cap": 1,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/CLT/ad360b4792dc.json"
+  },
+  {
+   "case_id": "4fe1cf53ea28",
+   "airport": "CLT",
+   "hour": 18,
+   "sector": "north",
+   "n": 4,
+   "cap": 4,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/CLT/4fe1cf53ea28.json"
+  },
+  {
+   "case_id": "4fe1cf53ea28",
+   "airport": "CLT",
+   "hour": 18,
+   "sector": "north",
+   "n": 4,
+   "cap": 4,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/CLT/4fe1cf53ea28.json"
+  },
+  {
+   "case_id": "4fe1cf53ea28",
+   "airport": "CLT",
+   "hour": 18,
+   "sector": "north",
+   "n": 4,
+   "cap": 1,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/CLT/4fe1cf53ea28.json"
+  },
+  {
+   "case_id": "4fe1cf53ea28",
+   "airport": "CLT",
+   "hour": 18,
+   "sector": "north",
+   "n": 4,
+   "cap": 1,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/CLT/4fe1cf53ea28.json"
+  },
+  {
+   "case_id": "c73054dea1c4",
+   "airport": "CLT",
+   "hour": 18,
+   "sector": "east",
+   "n": 2,
+   "cap": 2,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/CLT/c73054dea1c4.json"
+  },
+  {
+   "case_id": "c73054dea1c4",
+   "airport": "CLT",
+   "hour": 18,
+   "sector": "east",
+   "n": 2,
+   "cap": 2,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/CLT/c73054dea1c4.json"
+  },
+  {
+   "case_id": "c73054dea1c4",
+   "airport": "CLT",
+   "hour": 18,
+   "sector": "east",
+   "n": 2,
+   "cap": 1,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/CLT/c73054dea1c4.json"
+  },
+  {
+   "case_id": "c73054dea1c4",
+   "airport": "CLT",
+   "hour": 18,
+   "sector": "east",
+   "n": 2,
+   "cap": 1,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/CLT/c73054dea1c4.json"
+  },
+  {
+   "case_id": "bbb977d6fc5d",
+   "airport": "DFW",
+   "hour": 14,
+   "sector": "east",
+   "n": 2,
+   "cap": 2,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/DFW/bbb977d6fc5d.json"
+  },
+  {
+   "case_id": "bbb977d6fc5d",
+   "airport": "DFW",
+   "hour": 14,
+   "sector": "east",
+   "n": 2,
+   "cap": 2,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/DFW/bbb977d6fc5d.json"
+  },
+  {
+   "case_id": "bbb977d6fc5d",
+   "airport": "DFW",
+   "hour": 14,
+   "sector": "east",
+   "n": 2,
+   "cap": 1,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/DFW/bbb977d6fc5d.json"
+  },
+  {
+   "case_id": "bbb977d6fc5d",
+   "airport": "DFW",
+   "hour": 14,
+   "sector": "east",
+   "n": 2,
+   "cap": 1,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/DFW/bbb977d6fc5d.json"
+  },
+  {
+   "case_id": "cd08bc08e48e",
+   "airport": "DFW",
+   "hour": 14,
+   "sector": "south",
+   "n": 5,
+   "cap": 5,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/DFW/cd08bc08e48e.json"
+  },
+  {
+   "case_id": "cd08bc08e48e",
+   "airport": "DFW",
+   "hour": 14,
+   "sector": "south",
+   "n": 5,
+   "cap": 5,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/DFW/cd08bc08e48e.json"
+  },
+  {
+   "case_id": "cd08bc08e48e",
+   "airport": "DFW",
+   "hour": 14,
+   "sector": "south",
+   "n": 5,
+   "cap": 2,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/DFW/cd08bc08e48e.json"
+  },
+  {
+   "case_id": "cd08bc08e48e",
+   "airport": "DFW",
+   "hour": 14,
+   "sector": "south",
+   "n": 5,
+   "cap": 2,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/DFW/cd08bc08e48e.json"
+  },
+  {
+   "case_id": "cd08bc08e48e",
+   "airport": "DFW",
+   "hour": 14,
+   "sector": "south",
+   "n": 5,
+   "cap": 1,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/DFW/cd08bc08e48e.json"
+  },
+  {
+   "case_id": "cd08bc08e48e",
+   "airport": "DFW",
+   "hour": 14,
+   "sector": "south",
+   "n": 5,
+   "cap": 1,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/DFW/cd08bc08e48e.json"
+  },
+  {
+   "case_id": "c11bec6c7a14",
+   "airport": "DFW",
+   "hour": 16,
+   "sector": "north",
+   "n": 2,
+   "cap": 2,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/DFW/c11bec6c7a14.json"
+  },
+  {
+   "case_id": "c11bec6c7a14",
+   "airport": "DFW",
+   "hour": 16,
+   "sector": "north",
+   "n": 2,
+   "cap": 2,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/DFW/c11bec6c7a14.json"
+  },
+  {
+   "case_id": "c11bec6c7a14",
+   "airport": "DFW",
+   "hour": 16,
+   "sector": "north",
+   "n": 2,
+   "cap": 1,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/DFW/c11bec6c7a14.json"
+  },
+  {
+   "case_id": "c11bec6c7a14",
+   "airport": "DFW",
+   "hour": 16,
+   "sector": "north",
+   "n": 2,
+   "cap": 1,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/DFW/c11bec6c7a14.json"
+  },
+  {
+   "case_id": "71705ddd89e3",
+   "airport": "DFW",
+   "hour": 16,
+   "sector": "east",
+   "n": 10,
+   "cap": 10,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/DFW/71705ddd89e3.json"
+  },
+  {
+   "case_id": "71705ddd89e3",
+   "airport": "DFW",
+   "hour": 16,
+   "sector": "east",
+   "n": 10,
+   "cap": 10,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/DFW/71705ddd89e3.json"
+  },
+  {
+   "case_id": "71705ddd89e3",
+   "airport": "DFW",
+   "hour": 16,
+   "sector": "east",
+   "n": 10,
+   "cap": 3,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/DFW/71705ddd89e3.json"
+  },
+  {
+   "case_id": "71705ddd89e3",
+   "airport": "DFW",
+   "hour": 16,
+   "sector": "east",
+   "n": 10,
+   "cap": 3,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/DFW/71705ddd89e3.json"
+  },
+  {
+   "case_id": "71705ddd89e3",
+   "airport": "DFW",
+   "hour": 16,
+   "sector": "east",
+   "n": 10,
+   "cap": 2,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/DFW/71705ddd89e3.json"
+  },
+  {
+   "case_id": "71705ddd89e3",
+   "airport": "DFW",
+   "hour": 16,
+   "sector": "east",
+   "n": 10,
+   "cap": 2,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/DFW/71705ddd89e3.json"
+  },
+  {
+   "case_id": "258942a355de",
+   "airport": "DFW",
+   "hour": 16,
+   "sector": "south",
+   "n": 2,
+   "cap": 2,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/DFW/258942a355de.json"
+  },
+  {
+   "case_id": "258942a355de",
+   "airport": "DFW",
+   "hour": 16,
+   "sector": "south",
+   "n": 2,
+   "cap": 2,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/DFW/258942a355de.json"
+  },
+  {
+   "case_id": "258942a355de",
+   "airport": "DFW",
+   "hour": 16,
+   "sector": "south",
+   "n": 2,
+   "cap": 1,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/DFW/258942a355de.json"
+  },
+  {
+   "case_id": "258942a355de",
+   "airport": "DFW",
+   "hour": 16,
+   "sector": "south",
+   "n": 2,
+   "cap": 1,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/DFW/258942a355de.json"
+  },
+  {
+   "case_id": "d909095d79d6",
+   "airport": "DFW",
+   "hour": 18,
+   "sector": "north",
+   "n": 5,
+   "cap": 5,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/DFW/d909095d79d6.json"
+  },
+  {
+   "case_id": "d909095d79d6",
+   "airport": "DFW",
+   "hour": 18,
+   "sector": "north",
+   "n": 5,
+   "cap": 5,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/DFW/d909095d79d6.json"
+  },
+  {
+   "case_id": "d909095d79d6",
+   "airport": "DFW",
+   "hour": 18,
+   "sector": "north",
+   "n": 5,
+   "cap": 2,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/DFW/d909095d79d6.json"
+  },
+  {
+   "case_id": "d909095d79d6",
+   "airport": "DFW",
+   "hour": 18,
+   "sector": "north",
+   "n": 5,
+   "cap": 2,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/DFW/d909095d79d6.json"
+  },
+  {
+   "case_id": "d909095d79d6",
+   "airport": "DFW",
+   "hour": 18,
+   "sector": "north",
+   "n": 5,
+   "cap": 1,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/DFW/d909095d79d6.json"
+  },
+  {
+   "case_id": "d909095d79d6",
+   "airport": "DFW",
+   "hour": 18,
+   "sector": "north",
+   "n": 5,
+   "cap": 1,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/DFW/d909095d79d6.json"
+  },
+  {
+   "case_id": "a00cf87fd475",
+   "airport": "DFW",
+   "hour": 18,
+   "sector": "east",
+   "n": 8,
+   "cap": 8,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/DFW/a00cf87fd475.json"
+  },
+  {
+   "case_id": "a00cf87fd475",
+   "airport": "DFW",
+   "hour": 18,
+   "sector": "east",
+   "n": 8,
+   "cap": 8,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/DFW/a00cf87fd475.json"
+  },
+  {
+   "case_id": "a00cf87fd475",
+   "airport": "DFW",
+   "hour": 18,
+   "sector": "east",
+   "n": 8,
+   "cap": 2,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/DFW/a00cf87fd475.json"
+  },
+  {
+   "case_id": "a00cf87fd475",
+   "airport": "DFW",
+   "hour": 18,
+   "sector": "east",
+   "n": 8,
+   "cap": 2,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/DFW/a00cf87fd475.json"
+  },
+  {
+   "case_id": "a00cf87fd475",
+   "airport": "DFW",
+   "hour": 18,
+   "sector": "east",
+   "n": 8,
+   "cap": 1,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/DFW/a00cf87fd475.json"
+  },
+  {
+   "case_id": "a00cf87fd475",
+   "airport": "DFW",
+   "hour": 18,
+   "sector": "east",
+   "n": 8,
+   "cap": 1,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/DFW/a00cf87fd475.json"
+  },
+  {
+   "case_id": "11041b6524c5",
+   "airport": "DFW",
+   "hour": 18,
+   "sector": "south",
+   "n": 2,
+   "cap": 2,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/DFW/11041b6524c5.json"
+  },
+  {
+   "case_id": "11041b6524c5",
+   "airport": "DFW",
+   "hour": 18,
+   "sector": "south",
+   "n": 2,
+   "cap": 2,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/DFW/11041b6524c5.json"
+  },
+  {
+   "case_id": "11041b6524c5",
+   "airport": "DFW",
+   "hour": 18,
+   "sector": "south",
+   "n": 2,
+   "cap": 1,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/DFW/11041b6524c5.json"
+  },
+  {
+   "case_id": "11041b6524c5",
+   "airport": "DFW",
+   "hour": 18,
+   "sector": "south",
+   "n": 2,
+   "cap": 1,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/DFW/11041b6524c5.json"
+  },
+  {
+   "case_id": "7e54ae4bf79b",
+   "airport": "DFW",
+   "hour": 18,
+   "sector": "west",
+   "n": 2,
+   "cap": 2,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/DFW/7e54ae4bf79b.json"
+  },
+  {
+   "case_id": "7e54ae4bf79b",
+   "airport": "DFW",
+   "hour": 18,
+   "sector": "west",
+   "n": 2,
+   "cap": 2,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/DFW/7e54ae4bf79b.json"
+  },
+  {
+   "case_id": "7e54ae4bf79b",
+   "airport": "DFW",
+   "hour": 18,
+   "sector": "west",
+   "n": 2,
+   "cap": 1,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/DFW/7e54ae4bf79b.json"
+  },
+  {
+   "case_id": "7e54ae4bf79b",
+   "airport": "DFW",
+   "hour": 18,
+   "sector": "west",
+   "n": 2,
+   "cap": 1,
+   "delay": 2,
+   "input_path": "data/trb_flow_20261126/cases/DFW/7e54ae4bf79b.json"
+  }
+ ],
+ "smoke": [
+  {
+   "case_id": "ba4b56769712",
+   "airport": "ATL",
+   "hour": 12,
+   "sector": "north",
+   "n": 2,
+   "cap": 2,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/ATL/ba4b56769712.json"
+  },
+  {
+   "case_id": "ba4b56769712",
+   "airport": "ATL",
+   "hour": 12,
+   "sector": "north",
+   "n": 2,
+   "cap": 1,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/ATL/ba4b56769712.json"
+  },
+  {
+   "case_id": "9e9696d78b45",
+   "airport": "ATL",
+   "hour": 12,
+   "sector": "east",
+   "n": 2,
+   "cap": 2,
+   "delay": 1,
+   "input_path": "data/trb_flow_20261126/cases/ATL/9e9696d78b45.json"
+  }
+ ]
+}
