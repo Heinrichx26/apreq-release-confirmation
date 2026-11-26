@@ -128,6 +128,126 @@ CAL = [[0, 0, 0, 0, 0, 2, 0], [0, 0, 0, 0, 2, 0, 0], [0, 0, 0, 1, 0, 1, 0], [0, 
 N, LAG, DELAY, LEAD, Q = 2, 1, 1, 3, 2
 
 
+def residual_widths(lo, hi, combo, delay, gamma):
+    """Width left after each answer, in the worst case for an error of at most gamma."""
+    w = [b-a for a, b in zip(lo, hi)]
+    for _, j in combo:
+        w[j] = min(w[j], 2*gamma)
+    return w
+
+
+def inexact_excess(lo, hi, lag, combo, delay, gamma, c, y, last):
+    """Post-release excess when answers y_j satisfy |y_j - c_j| <= gamma."""
+    arrive = {j: r+delay for r, j in combo}
+    released, total = None, 0
+    for t in range(last+1):
+        a = 0
+        for x in range(t+lag+1):
+            if x+1 <= t:
+                a += c[x]
+            elif x in arrive and arrive[x] <= t:
+                a += min(hi[x], y[x]+gamma)
+            else:
+                a += hi[x]
+        released = a if released is None else max(released, a)
+        total += released-sum(c[:t+lag+1])
+    return total
+
+
+def formula(lo, hi, lag, combo, delay, gamma, last):
+    """Equation for the worst-case excess with residual widths after answers."""
+    arrive = {j: r+delay for r, j in combo}
+    res = residual_widths(lo, hi, combo, delay, gamma)
+    total = 0
+    for t in range(last+1):
+        best = None
+        for tau in range(t+1):
+            w = sum((res[x] if x in arrive and arrive[x] <= tau else hi[x]-lo[x])
+                    for x in range(tau, tau+lag+1))
+            v = w-sum(lo[x] for x in range(tau+lag+1, t+lag+1))
+            best = v if best is None else max(best, v)
+        total += best
+    return total
+
+
+def inexact(seed=5, trials=250):
+    """Worst case over counts and answers equals the residual-width equation."""
+    from itertools import product
+    rng = random.Random(seed)
+    rec = dict(instances=0, schedules=0, mismatch=0, worst_not_lowest=0, single_value_checks=0,
+               single_value_mismatch=0)
+    for _ in range(trials):
+        h, lag, delay, gamma = rng.randint(5, 6), rng.randint(1, 2), 1, rng.randint(0, 1)
+        narrow = rng.random() < 0.5
+        lo = [rng.randint(3, 4) if narrow else rng.randint(0, 1) for _ in range(h)]
+        hi = [a+rng.choice([0, 1, 2] if not narrow else [0, 1]) for a in lo]
+        uncertain = [x for x in range(h) if hi[x] > lo[x]]
+        if not uncertain or len(uncertain) > 4:
+            continue
+        last = h-1-lag
+        rec['instances'] += 1
+        for combo in schedules(lag+delay, delay, 2, uncertain):
+            worst, at_lowest = None, None
+            for c in product(*[range(lo[x], hi[x]+1) for x in range(h)]):
+                ys = [range(max(0, c[x]-gamma), c[x]+gamma+1) if x in dict((j, r) for r, j in combo)
+                      else [c[x]] for x in range(h)]
+                for y in product(*ys):
+                    v = inexact_excess(lo, hi, lag, combo, delay, gamma, c, y, last)
+                    worst = v if worst is None else max(worst, v)
+                    if list(c) == lo:
+                        at_lowest = v if at_lowest is None else max(at_lowest, v)
+            rec['schedules'] += 1
+            rec['mismatch'] += worst != formula(lo, hi, lag, combo, delay, gamma, last)
+            rec['worst_not_lowest'] += worst != at_lowest
+            if narrow and len(combo) == 1 and 2*max(b-a for a, b in zip(lo, hi)) <= min(lo):
+                r, j = combo[0]
+                none = formula(lo, hi, lag, (), delay, gamma, last)
+                pred = max(0, hi[j]-lo[j]-2*gamma)*effective(j, r+delay, lag, last)
+                rec['single_value_checks'] += 1
+                rec['single_value_mismatch'] += none-worst != pred
+    return rec
+
+
+def returns(seed=17, trials=600):
+    """Concave returns under narrow ranges; increasing returns under bursty ranges."""
+    rng = random.Random(seed)
+    narrow = dict(instances=0, concavity_violations=0)
+    bursty = dict(instances=0, increasing_marginal=0, second_exceeds_first=0)
+    for trial in range(trials):
+        h, lag, delay = rng.randint(7, 9), rng.randint(1, 3), 1
+        lead = lag+delay+rng.randint(0, 2)
+        if trial % 2 == 0:
+            lo = [rng.randint(4, 6) for _ in range(h)]
+            hi = [a+rng.choice([0, 1, 2]) for a in lo]
+        else:
+            lo = [0]*h
+            hi = [rng.choice([0, 0, 1, 2, 3]) for _ in range(h)]
+        uncertain = [x for x in range(h) if hi[x] > lo[x]]
+        if len(uncertain) < 3 or len(uncertain) > 6:
+            continue
+        last = h-1-lag
+        if trial % 2 == 0:
+            if 2*max(b-a for a, b in zip(lo, hi)) > min(lo):
+                continue
+            v = [assignment(lo, hi, lag, lead, delay, q, uncertain, last) if q else 0
+                 for q in range(0, 5)]
+            narrow['instances'] += 1
+            narrow['concavity_violations'] += any(v[q+1]-v[q] > v[q]-v[q-1] for q in range(1, 4))
+        else:
+            base = excess(lo, hi, lag, [x+1 for x in range(h)], lo, last)
+            best = [0]*4
+            for combo in schedules(lead, delay, 3, uncertain):
+                k = len(combo)
+                best[k] = max(best[k], base-excess(lo, hi, lag, known_of(h, combo, delay), lo, last))
+            for k in range(1, 4):
+                best[k] = max(best[k], best[k-1])
+            bursty['instances'] += 1
+            bursty['increasing_marginal'] += any(best[q+1]-best[q] > best[q]-best[q-1]
+                                                 for q in range(1, 3))
+            bursty['second_exceeds_first'] += best[2]-best[1] > best[1]
+    return dict(narrow=narrow, bursty=bursty)
+
+
 def example():
     p = prepare(CAL, N, (2,)*7, LAG)
     h, bounds, refs, paths = p['h'], p['bounds'], p['refs'], p['paths']
@@ -161,7 +281,7 @@ def example():
 
 
 def main():
-    out = dict(ranges=ranges(), example=example())
+    out = dict(ranges=ranges(), example=example(), inexact=inexact(), returns=returns())
     OUT.mkdir(parents=True, exist_ok=True)
     (OUT/'structure_check.json').write_text(json.dumps(out, indent=1), encoding='utf-8')
     print(json.dumps(out, indent=1))

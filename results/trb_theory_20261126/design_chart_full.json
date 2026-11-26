@@ -1,0 +1,7111 @@
+{
+ "stage": "full",
+ "rows": [
+  {
+   "case_id": "e47196faedde",
+   "airport": "ATL",
+   "n": 8,
+   "cap": 8,
+   "lag": 6,
+   "slot_minutes": 2,
+   "cells": [
+    {
+     "delay": 1,
+     "requests": 1,
+     "none": 184,
+     "full": 48,
+     "exact": 180,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 2,
+     "none": 184,
+     "full": 48,
+     "exact": 113,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 3,
+     "none": 184,
+     "full": 48,
+     "exact": 113,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 4,
+     "none": 184,
+     "full": 48,
+     "exact": 113,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 5,
+     "none": 184,
+     "full": 48,
+     "exact": 113,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 6,
+     "none": 184,
+     "full": 48,
+     "exact": 113,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 1,
+     "none": 184,
+     "full": 48,
+     "exact": 184,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 2,
+     "none": 184,
+     "full": 48,
+     "exact": 184,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 3,
+     "none": 184,
+     "full": 48,
+     "exact": 184,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 4,
+     "none": 184,
+     "full": 48,
+     "exact": 184,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 5,
+     "none": 184,
+     "full": 48,
+     "exact": 184,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 6,
+     "none": 184,
+     "full": 48,
+     "exact": 184,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 1,
+     "none": 184,
+     "full": 48,
+     "exact": 184,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 2,
+     "none": 184,
+     "full": 48,
+     "exact": 184,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 3,
+     "none": 184,
+     "full": 48,
+     "exact": 184,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 4,
+     "none": 184,
+     "full": 48,
+     "exact": 184,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 5,
+     "none": 184,
+     "full": 48,
+     "exact": 184,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 6,
+     "none": 184,
+     "full": 48,
+     "exact": 184,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 1,
+     "none": 184,
+     "full": 48,
+     "exact": 184,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 2,
+     "none": 184,
+     "full": 48,
+     "exact": 184,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 3,
+     "none": 184,
+     "full": 48,
+     "exact": 184,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 4,
+     "none": 184,
+     "full": 48,
+     "exact": 184,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 5,
+     "none": 184,
+     "full": 48,
+     "exact": 184,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 6,
+     "none": 184,
+     "full": 48,
+     "exact": 184,
+     "resolved": true
+    }
+   ],
+   "seconds": 0.05801849998533726
+  },
+  {
+   "case_id": "e47196faedde",
+   "airport": "ATL",
+   "n": 8,
+   "cap": 2,
+   "lag": 6,
+   "slot_minutes": 2,
+   "cells": [
+    {
+     "delay": 1,
+     "requests": 1,
+     "none": 175,
+     "full": 48,
+     "exact": 175,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 2,
+     "none": 175,
+     "full": 48,
+     "exact": 92,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 3,
+     "none": 175,
+     "full": 48,
+     "exact": 92,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 4,
+     "none": 175,
+     "full": 48,
+     "exact": 92,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 5,
+     "none": 175,
+     "full": 48,
+     "exact": 92,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 6,
+     "none": 175,
+     "full": 48,
+     "exact": 92,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 1,
+     "none": 175,
+     "full": 48,
+     "exact": 175,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 2,
+     "none": 175,
+     "full": 48,
+     "exact": 128,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 3,
+     "none": 175,
+     "full": 48,
+     "exact": 128,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 4,
+     "none": 175,
+     "full": 48,
+     "exact": 128,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 5,
+     "none": 175,
+     "full": 48,
+     "exact": 128,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 6,
+     "none": 175,
+     "full": 48,
+     "exact": 128,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 1,
+     "none": 175,
+     "full": 48,
+     "exact": 175,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 2,
+     "none": 175,
+     "full": 48,
+     "exact": 175,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 3,
+     "none": 175,
+     "full": 48,
+     "exact": 175,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 4,
+     "none": 175,
+     "full": 48,
+     "exact": 175,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 5,
+     "none": 175,
+     "full": 48,
+     "exact": 175,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 6,
+     "none": 175,
+     "full": 48,
+     "exact": 175,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 1,
+     "none": 175,
+     "full": 48,
+     "exact": 175,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 2,
+     "none": 175,
+     "full": 48,
+     "exact": 175,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 3,
+     "none": 175,
+     "full": 48,
+     "exact": 175,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 4,
+     "none": 175,
+     "full": 48,
+     "exact": 175,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 5,
+     "none": 175,
+     "full": 48,
+     "exact": 175,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 6,
+     "none": 175,
+     "full": 48,
+     "exact": 175,
+     "resolved": true
+    }
+   ],
+   "seconds": 0.6018970001023263
+  },
+  {
+   "case_id": "e47196faedde",
+   "airport": "ATL",
+   "n": 8,
+   "cap": 1,
+   "lag": 6,
+   "slot_minutes": 2,
+   "cells": [
+    {
+     "delay": 1,
+     "requests": 1,
+     "none": 137,
+     "full": 51,
+     "exact": 137,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 2,
+     "none": 137,
+     "full": 51,
+     "exact": 65,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 3,
+     "none": 137,
+     "full": 51,
+     "exact": 65,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 4,
+     "none": 137,
+     "full": 51,
+     "exact": 65,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 5,
+     "none": 137,
+     "full": 51,
+     "exact": 65,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 6,
+     "none": 137,
+     "full": 51,
+     "exact": 65,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 1,
+     "none": 137,
+     "full": 51,
+     "exact": 137,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 2,
+     "none": 137,
+     "full": 51,
+     "exact": 76,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 3,
+     "none": 137,
+     "full": 51,
+     "exact": 76,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 4,
+     "none": 137,
+     "full": 51,
+     "exact": 76,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 5,
+     "none": 137,
+     "full": 51,
+     "exact": 76,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 6,
+     "none": 137,
+     "full": 51,
+     "exact": 76,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 1,
+     "none": 137,
+     "full": 51,
+     "exact": 137,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 2,
+     "none": 137,
+     "full": 51,
+     "exact": 88,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 3,
+     "none": 137,
+     "full": 51,
+     "exact": 88,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 4,
+     "none": 137,
+     "full": 51,
+     "exact": 88,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 5,
+     "none": 137,
+     "full": 51,
+     "exact": 88,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 6,
+     "none": 137,
+     "full": 51,
+     "exact": 88,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 1,
+     "none": 137,
+     "full": 51,
+     "exact": 137,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 2,
+     "none": 137,
+     "full": 51,
+     "exact": 103,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 3,
+     "none": 137,
+     "full": 51,
+     "exact": 103,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 4,
+     "none": 137,
+     "full": 51,
+     "exact": 103,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 5,
+     "none": 137,
+     "full": 51,
+     "exact": 103,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 6,
+     "none": 137,
+     "full": 51,
+     "exact": 103,
+     "resolved": true
+    }
+   ],
+   "seconds": 21.41661459999159
+  },
+  {
+   "case_id": "2500931767c1",
+   "airport": "ATL",
+   "n": 14,
+   "cap": 14,
+   "lag": 6,
+   "slot_minutes": 2,
+   "cells": [
+    {
+     "delay": 1,
+     "requests": 1,
+     "none": 303,
+     "full": 84,
+     "exact": 289,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 2,
+     "none": 303,
+     "full": 84,
+     "exact": 122,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 3,
+     "none": 303,
+     "full": 84,
+     "exact": 122,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 4,
+     "none": 303,
+     "full": 84,
+     "exact": 122,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 5,
+     "none": 303,
+     "full": 84,
+     "exact": 122,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 6,
+     "none": 303,
+     "full": 84,
+     "exact": 122,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 1,
+     "none": 303,
+     "full": 84,
+     "exact": 296,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 2,
+     "none": 303,
+     "full": 84,
+     "exact": 212,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 3,
+     "none": 303,
+     "full": 84,
+     "exact": 212,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 4,
+     "none": 303,
+     "full": 84,
+     "exact": 212,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 5,
+     "none": 303,
+     "full": 84,
+     "exact": 212,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 6,
+     "none": 303,
+     "full": 84,
+     "exact": 212,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 1,
+     "none": 303,
+     "full": 84,
+     "exact": 301,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 2,
+     "none": 303,
+     "full": 84,
+     "exact": 278,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 3,
+     "none": 303,
+     "full": 84,
+     "exact": 278,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 4,
+     "none": 303,
+     "full": 84,
+     "exact": 278,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 5,
+     "none": 303,
+     "full": 84,
+     "exact": 278,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 6,
+     "none": 303,
+     "full": 84,
+     "exact": 278,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 1,
+     "none": 303,
+     "full": 84,
+     "exact": 303,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 2,
+     "none": 303,
+     "full": 84,
+     "exact": 303,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 3,
+     "none": 303,
+     "full": 84,
+     "exact": 303,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 4,
+     "none": 303,
+     "full": 84,
+     "exact": 303,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 5,
+     "none": 303,
+     "full": 84,
+     "exact": 303,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 6,
+     "none": 303,
+     "full": 84,
+     "exact": 303,
+     "resolved": true
+    }
+   ],
+   "seconds": 0.9166060001589358
+  },
+  {
+   "case_id": "2500931767c1",
+   "airport": "ATL",
+   "n": 14,
+   "cap": 4,
+   "lag": 6,
+   "slot_minutes": 2,
+   "cells": [
+    {
+     "delay": 1,
+     "requests": 1,
+     "none": 298,
+     "full": 85,
+     "exact": 287,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 2,
+     "none": 298,
+     "full": 85,
+     "exact": 111,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 3,
+     "none": 298,
+     "full": 85,
+     "exact": 111,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 4,
+     "none": 298,
+     "full": 85,
+     "exact": 111,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 5,
+     "none": 298,
+     "full": 85,
+     "exact": 111,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 6,
+     "none": 298,
+     "full": 85,
+     "exact": 111,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 1,
+     "none": 298,
+     "full": 85,
+     "exact": 291,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 2,
+     "none": 298,
+     "full": 85,
+     "exact": 168,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 3,
+     "none": 298,
+     "full": 85,
+     "exact": 168,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 4,
+     "none": 298,
+     "full": 85,
+     "exact": 168,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 5,
+     "none": 298,
+     "full": 85,
+     "exact": 168,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 6,
+     "none": 298,
+     "full": 85,
+     "exact": 168,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 1,
+     "none": 298,
+     "full": 85,
+     "exact": 294,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 2,
+     "none": 298,
+     "full": 85,
+     "exact": 230,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 3,
+     "none": 298,
+     "full": 85,
+     "exact": 230,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 4,
+     "none": 298,
+     "full": 85,
+     "exact": 230,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 5,
+     "none": 298,
+     "full": 85,
+     "exact": 230,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 6,
+     "none": 298,
+     "full": 85,
+     "exact": 230,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 1,
+     "none": 298,
+     "full": 85,
+     "exact": 298,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 2,
+     "none": 298,
+     "full": 85,
+     "exact": 298,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 3,
+     "none": 298,
+     "full": 85,
+     "exact": 298,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 4,
+     "none": 298,
+     "full": 85,
+     "exact": 298,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 5,
+     "none": 298,
+     "full": 85,
+     "exact": 298,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 6,
+     "none": 298,
+     "full": 85,
+     "exact": 298,
+     "resolved": true
+    }
+   ],
+   "seconds": 1.0309939999133348
+  },
+  {
+   "case_id": "2500931767c1",
+   "airport": "ATL",
+   "n": 14,
+   "cap": 2,
+   "lag": 6,
+   "slot_minutes": 2,
+   "cells": [
+    {
+     "delay": 1,
+     "requests": 1,
+     "none": 275,
+     "full": 88,
+     "exact": 275,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 2,
+     "none": 275,
+     "full": 88,
+     "exact": 109,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 3,
+     "none": 275,
+     "full": 88,
+     "exact": 109,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 4,
+     "none": 275,
+     "full": 88,
+     "exact": 109,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 5,
+     "none": 275,
+     "full": 88,
+     "exact": 109,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 6,
+     "none": 275,
+     "full": 88,
+     "exact": 109,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 1,
+     "none": 275,
+     "full": 88,
+     "exact": 275,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 2,
+     "none": 275,
+     "full": 88,
+     "exact": 129,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 3,
+     "none": 275,
+     "full": 88,
+     "exact": 129,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 4,
+     "none": 275,
+     "full": 88,
+     "exact": 129,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 5,
+     "none": 275,
+     "full": 88,
+     "exact": 129,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 6,
+     "none": 275,
+     "full": 88,
+     "exact": 129,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 1,
+     "none": 275,
+     "full": 88,
+     "exact": 275,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 2,
+     "none": 275,
+     "full": 88,
+     "exact": 160,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 3,
+     "none": 275,
+     "full": 88,
+     "exact": 160,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 4,
+     "none": 275,
+     "full": 88,
+     "exact": 160,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 5,
+     "none": 275,
+     "full": 88,
+     "exact": 160,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 6,
+     "none": 275,
+     "full": 88,
+     "exact": 160,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 1,
+     "none": 275,
+     "full": 88,
+     "exact": 275,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 2,
+     "none": 275,
+     "full": 88,
+     "exact": 197,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 3,
+     "none": 275,
+     "full": 88,
+     "exact": 197,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 4,
+     "none": 275,
+     "full": 88,
+     "exact": 197,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 5,
+     "none": 275,
+     "full": 88,
+     "exact": 197,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 6,
+     "none": 275,
+     "full": 88,
+     "exact": 197,
+     "resolved": true
+    }
+   ],
+   "seconds": 9.54190169996582
+  },
+  {
+   "case_id": "7714c8238621",
+   "airport": "ATL",
+   "n": 8,
+   "cap": 8,
+   "lag": 6,
+   "slot_minutes": 2,
+   "cells": [
+    {
+     "delay": 1,
+     "requests": 1,
+     "none": 115,
+     "full": 48,
+     "exact": 113,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 2,
+     "none": 115,
+     "full": 48,
+     "exact": 106,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 3,
+     "none": 115,
+     "full": 48,
+     "exact": 87,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 4,
+     "none": 115,
+     "full": 48,
+     "exact": 87,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 5,
+     "none": 115,
+     "full": 48,
+     "exact": 87,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 6,
+     "none": 115,
+     "full": 48,
+     "exact": 87,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 1,
+     "none": 115,
+     "full": 48,
+     "exact": 115,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 2,
+     "none": 115,
+     "full": 48,
+     "exact": 115,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 3,
+     "none": 115,
+     "full": 48,
+     "exact": 115,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 4,
+     "none": 115,
+     "full": 48,
+     "exact": 115,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 5,
+     "none": 115,
+     "full": 48,
+     "exact": 115,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 6,
+     "none": 115,
+     "full": 48,
+     "exact": 115,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 1,
+     "none": 115,
+     "full": 48,
+     "exact": 115,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 2,
+     "none": 115,
+     "full": 48,
+     "exact": 115,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 3,
+     "none": 115,
+     "full": 48,
+     "exact": 115,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 4,
+     "none": 115,
+     "full": 48,
+     "exact": 115,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 5,
+     "none": 115,
+     "full": 48,
+     "exact": 115,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 6,
+     "none": 115,
+     "full": 48,
+     "exact": 115,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 1,
+     "none": 115,
+     "full": 48,
+     "exact": 115,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 2,
+     "none": 115,
+     "full": 48,
+     "exact": 115,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 3,
+     "none": 115,
+     "full": 48,
+     "exact": 115,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 4,
+     "none": 115,
+     "full": 48,
+     "exact": 115,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 5,
+     "none": 115,
+     "full": 48,
+     "exact": 115,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 6,
+     "none": 115,
+     "full": 48,
+     "exact": 115,
+     "resolved": true
+    }
+   ],
+   "seconds": 0.058517899829894304
+  },
+  {
+   "case_id": "7714c8238621",
+   "airport": "ATL",
+   "n": 8,
+   "cap": 2,
+   "lag": 6,
+   "slot_minutes": 2,
+   "cells": [
+    {
+     "delay": 1,
+     "requests": 1,
+     "none": 107,
+     "full": 50,
+     "exact": 107,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 2,
+     "none": 107,
+     "full": 50,
+     "exact": 99,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 3,
+     "none": 107,
+     "full": 50,
+     "exact": 68,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 4,
+     "none": 107,
+     "full": 50,
+     "exact": 68,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 5,
+     "none": 107,
+     "full": 50,
+     "exact": 68,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 6,
+     "none": 107,
+     "full": 50,
+     "exact": 68,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 1,
+     "none": 107,
+     "full": 50,
+     "exact": 107,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 2,
+     "none": 107,
+     "full": 50,
+     "exact": 102,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 3,
+     "none": 107,
+     "full": 50,
+     "exact": 83,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 4,
+     "none": 107,
+     "full": 50,
+     "exact": 83,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 5,
+     "none": 107,
+     "full": 50,
+     "exact": 83,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 6,
+     "none": 107,
+     "full": 50,
+     "exact": 83,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 1,
+     "none": 107,
+     "full": 50,
+     "exact": 107,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 2,
+     "none": 107,
+     "full": 50,
+     "exact": 107,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 3,
+     "none": 107,
+     "full": 50,
+     "exact": 107,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 4,
+     "none": 107,
+     "full": 50,
+     "exact": 107,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 5,
+     "none": 107,
+     "full": 50,
+     "exact": 107,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 6,
+     "none": 107,
+     "full": 50,
+     "exact": 107,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 1,
+     "none": 107,
+     "full": 50,
+     "exact": 107,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 2,
+     "none": 107,
+     "full": 50,
+     "exact": 107,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 3,
+     "none": 107,
+     "full": 50,
+     "exact": 107,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 4,
+     "none": 107,
+     "full": 50,
+     "exact": 107,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 5,
+     "none": 107,
+     "full": 50,
+     "exact": 107,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 6,
+     "none": 107,
+     "full": 50,
+     "exact": 107,
+     "resolved": true
+    }
+   ],
+   "seconds": 0.4175954000093043
+  },
+  {
+   "case_id": "7714c8238621",
+   "airport": "ATL",
+   "n": 8,
+   "cap": 1,
+   "lag": 6,
+   "slot_minutes": 2,
+   "cells": [
+    {
+     "delay": 1,
+     "requests": 1,
+     "none": 82,
+     "full": 50,
+     "exact": 82,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 2,
+     "none": 82,
+     "full": 50,
+     "exact": 82,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 3,
+     "none": 82,
+     "full": 50,
+     "exact": 59,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 4,
+     "none": 82,
+     "full": 50,
+     "exact": 59,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 5,
+     "none": 82,
+     "full": 50,
+     "exact": 59,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 6,
+     "none": 82,
+     "full": 50,
+     "exact": 59,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 1,
+     "none": 82,
+     "full": 50,
+     "exact": 82,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 2,
+     "none": 82,
+     "full": 50,
+     "exact": 82,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 3,
+     "none": 82,
+     "full": 50,
+     "exact": 64,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 4,
+     "none": 82,
+     "full": 50,
+     "exact": 64,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 5,
+     "none": 82,
+     "full": 50,
+     "exact": 64,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 6,
+     "none": 82,
+     "full": 50,
+     "exact": 64,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 1,
+     "none": 82,
+     "full": 50,
+     "exact": 82,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 2,
+     "none": 82,
+     "full": 50,
+     "exact": 82,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 3,
+     "none": 82,
+     "full": 50,
+     "exact": 69,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 4,
+     "none": 82,
+     "full": 50,
+     "exact": 69,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 5,
+     "none": 82,
+     "full": 50,
+     "exact": 69,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 6,
+     "none": 82,
+     "full": 50,
+     "exact": 69,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 1,
+     "none": 82,
+     "full": 50,
+     "exact": 82,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 2,
+     "none": 82,
+     "full": 50,
+     "exact": 82,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 3,
+     "none": 82,
+     "full": 50,
+     "exact": 74,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 4,
+     "none": 82,
+     "full": 50,
+     "exact": 74,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 5,
+     "none": 82,
+     "full": 50,
+     "exact": 74,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 6,
+     "none": 82,
+     "full": 50,
+     "exact": 74,
+     "resolved": true
+    }
+   ],
+   "seconds": 15.58311940007843
+  },
+  {
+   "case_id": "57836fd34a26",
+   "airport": "ATL",
+   "n": 2,
+   "cap": 2,
+   "lag": 6,
+   "slot_minutes": 2,
+   "cells": [
+    {
+     "delay": 1,
+     "requests": 1,
+     "none": 56,
+     "full": 12,
+     "exact": 56,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 2,
+     "none": 56,
+     "full": 12,
+     "exact": 56,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 3,
+     "none": 56,
+     "full": 12,
+     "exact": 56,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 4,
+     "none": 56,
+     "full": 12,
+     "exact": 56,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 5,
+     "none": 56,
+     "full": 12,
+     "exact": 56,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 6,
+     "none": 56,
+     "full": 12,
+     "exact": 56,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 1,
+     "none": 56,
+     "full": 12,
+     "exact": 56,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 2,
+     "none": 56,
+     "full": 12,
+     "exact": 56,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 3,
+     "none": 56,
+     "full": 12,
+     "exact": 56,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 4,
+     "none": 56,
+     "full": 12,
+     "exact": 56,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 5,
+     "none": 56,
+     "full": 12,
+     "exact": 56,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 6,
+     "none": 56,
+     "full": 12,
+     "exact": 56,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 1,
+     "none": 56,
+     "full": 12,
+     "exact": 56,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 2,
+     "none": 56,
+     "full": 12,
+     "exact": 56,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 3,
+     "none": 56,
+     "full": 12,
+     "exact": 56,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 4,
+     "none": 56,
+     "full": 12,
+     "exact": 56,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 5,
+     "none": 56,
+     "full": 12,
+     "exact": 56,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 6,
+     "none": 56,
+     "full": 12,
+     "exact": 56,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 1,
+     "none": 56,
+     "full": 12,
+     "exact": 56,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 2,
+     "none": 56,
+     "full": 12,
+     "exact": 56,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 3,
+     "none": 56,
+     "full": 12,
+     "exact": 56,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 4,
+     "none": 56,
+     "full": 12,
+     "exact": 56,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 5,
+     "none": 56,
+     "full": 12,
+     "exact": 56,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 6,
+     "none": 56,
+     "full": 12,
+     "exact": 56,
+     "resolved": true
+    }
+   ],
+   "seconds": 0.0017268999945372343
+  },
+  {
+   "case_id": "57836fd34a26",
+   "airport": "ATL",
+   "n": 2,
+   "cap": 1,
+   "lag": 6,
+   "slot_minutes": 2,
+   "cells": [
+    {
+     "delay": 1,
+     "requests": 1,
+     "none": 55,
+     "full": 13,
+     "exact": 55,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 2,
+     "none": 55,
+     "full": 13,
+     "exact": 55,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 3,
+     "none": 55,
+     "full": 13,
+     "exact": 55,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 4,
+     "none": 55,
+     "full": 13,
+     "exact": 55,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 5,
+     "none": 55,
+     "full": 13,
+     "exact": 55,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 6,
+     "none": 55,
+     "full": 13,
+     "exact": 55,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 1,
+     "none": 55,
+     "full": 13,
+     "exact": 55,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 2,
+     "none": 55,
+     "full": 13,
+     "exact": 55,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 3,
+     "none": 55,
+     "full": 13,
+     "exact": 55,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 4,
+     "none": 55,
+     "full": 13,
+     "exact": 55,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 5,
+     "none": 55,
+     "full": 13,
+     "exact": 55,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 6,
+     "none": 55,
+     "full": 13,
+     "exact": 55,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 1,
+     "none": 55,
+     "full": 13,
+     "exact": 55,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 2,
+     "none": 55,
+     "full": 13,
+     "exact": 55,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 3,
+     "none": 55,
+     "full": 13,
+     "exact": 55,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 4,
+     "none": 55,
+     "full": 13,
+     "exact": 55,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 5,
+     "none": 55,
+     "full": 13,
+     "exact": 55,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 6,
+     "none": 55,
+     "full": 13,
+     "exact": 55,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 1,
+     "none": 55,
+     "full": 13,
+     "exact": 55,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 2,
+     "none": 55,
+     "full": 13,
+     "exact": 55,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 3,
+     "none": 55,
+     "full": 13,
+     "exact": 55,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 4,
+     "none": 55,
+     "full": 13,
+     "exact": 55,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 5,
+     "none": 55,
+     "full": 13,
+     "exact": 55,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 6,
+     "none": 55,
+     "full": 13,
+     "exact": 55,
+     "resolved": true
+    }
+   ],
+   "seconds": 0.014060900080949068
+  },
+  {
+   "case_id": "5dc695ea48d3",
+   "airport": "CLT",
+   "n": 30,
+   "cap": 30,
+   "lag": 6,
+   "slot_minutes": 2,
+   "cells": [
+    {
+     "delay": 1,
+     "requests": 1,
+     "none": 309,
+     "full": 180,
+     "exact": 264,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 2,
+     "none": 309,
+     "full": 180,
+     "exact": 243,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 3,
+     "none": 309,
+     "full": 180,
+     "exact": 211,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 4,
+     "none": 309,
+     "full": 180,
+     "exact": 203,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 5,
+     "none": 309,
+     "full": 180,
+     "exact": 199,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 6,
+     "none": 309,
+     "full": 180,
+     "exact": 199,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 1,
+     "none": 309,
+     "full": 180,
+     "exact": 264,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 2,
+     "none": 309,
+     "full": 180,
+     "exact": 250,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 3,
+     "none": 309,
+     "full": 180,
+     "exact": 227,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 4,
+     "none": 309,
+     "full": 180,
+     "exact": 211,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 5,
+     "none": 309,
+     "full": 180,
+     "exact": 211,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 6,
+     "none": 309,
+     "full": 180,
+     "exact": 211,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 1,
+     "none": 309,
+     "full": 180,
+     "exact": 264,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 2,
+     "none": 309,
+     "full": 180,
+     "exact": 254,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 3,
+     "none": 309,
+     "full": 180,
+     "exact": 233,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 4,
+     "none": 309,
+     "full": 180,
+     "exact": 222,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 5,
+     "none": 309,
+     "full": 180,
+     "exact": 222,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 6,
+     "none": 309,
+     "full": 180,
+     "exact": 222,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 1,
+     "none": 309,
+     "full": 180,
+     "exact": 266,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 2,
+     "none": 309,
+     "full": 180,
+     "exact": 257,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 3,
+     "none": 309,
+     "full": 180,
+     "exact": 242,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 4,
+     "none": 309,
+     "full": 180,
+     "exact": 242,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 5,
+     "none": 309,
+     "full": 180,
+     "exact": 242,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 6,
+     "none": 309,
+     "full": 180,
+     "exact": 242,
+     "resolved": true
+    }
+   ],
+   "seconds": 50.39855349995196
+  },
+  {
+   "case_id": "5dc695ea48d3",
+   "airport": "CLT",
+   "n": 30,
+   "cap": 8,
+   "lag": 6,
+   "slot_minutes": 2,
+   "cells": [
+    {
+     "delay": 1,
+     "requests": 1,
+     "none": 309,
+     "full": 180,
+     "exact": 264,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 2,
+     "none": 309,
+     "full": 180,
+     "exact": 243,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 3,
+     "none": 309,
+     "full": 180,
+     "exact": 211,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 4,
+     "none": 309,
+     "full": 180,
+     "exact": 203,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 5,
+     "none": 309,
+     "full": 180,
+     "exact": 199,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 6,
+     "none": 309,
+     "full": 180,
+     "exact": 199,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 1,
+     "none": 309,
+     "full": 180,
+     "exact": 264,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 2,
+     "none": 309,
+     "full": 180,
+     "exact": 250,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 3,
+     "none": 309,
+     "full": 180,
+     "exact": 227,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 4,
+     "none": 309,
+     "full": 180,
+     "exact": 211,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 5,
+     "none": 309,
+     "full": 180,
+     "exact": 211,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 6,
+     "none": 309,
+     "full": 180,
+     "exact": 211,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 1,
+     "none": 309,
+     "full": 180,
+     "exact": 264,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 2,
+     "none": 309,
+     "full": 180,
+     "exact": 254,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 3,
+     "none": 309,
+     "full": 180,
+     "exact": 233,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 4,
+     "none": 309,
+     "full": 180,
+     "exact": 222,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 5,
+     "none": 309,
+     "full": 180,
+     "exact": 222,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 6,
+     "none": 309,
+     "full": 180,
+     "exact": 222,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 1,
+     "none": 309,
+     "full": 180,
+     "exact": 266,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 2,
+     "none": 309,
+     "full": 180,
+     "exact": 257,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 3,
+     "none": 309,
+     "full": 180,
+     "exact": 242,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 4,
+     "none": 309,
+     "full": 180,
+     "exact": 242,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 5,
+     "none": 309,
+     "full": 180,
+     "exact": 242,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 6,
+     "none": 309,
+     "full": 180,
+     "exact": 242,
+     "resolved": true
+    }
+   ],
+   "seconds": 49.96639399998821
+  },
+  {
+   "case_id": "5dc695ea48d3",
+   "airport": "CLT",
+   "n": 30,
+   "cap": 4,
+   "lag": 6,
+   "slot_minutes": 2,
+   "cells": [
+    {
+     "delay": 1,
+     "requests": 1,
+     "none": 309,
+     "full": 182,
+     "exact": 264,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 2,
+     "none": 309,
+     "full": 182,
+     "exact": 243,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 3,
+     "none": 309,
+     "full": 182,
+     "exact": 211,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 4,
+     "none": 309,
+     "full": 182,
+     "exact": 203,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 5,
+     "none": 309,
+     "full": 182,
+     "exact": 199,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 6,
+     "none": 309,
+     "full": 182,
+     "exact": 199,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 1,
+     "none": 309,
+     "full": 182,
+     "exact": 264,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 2,
+     "none": 309,
+     "full": 182,
+     "exact": 250,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 3,
+     "none": 309,
+     "full": 182,
+     "exact": 227,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 4,
+     "none": 309,
+     "full": 182,
+     "exact": 211,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 5,
+     "none": 309,
+     "full": 182,
+     "exact": 211,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 6,
+     "none": 309,
+     "full": 182,
+     "exact": 211,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 1,
+     "none": 309,
+     "full": 182,
+     "exact": 264,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 2,
+     "none": 309,
+     "full": 182,
+     "exact": 254,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 3,
+     "none": 309,
+     "full": 182,
+     "exact": 233,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 4,
+     "none": 309,
+     "full": 182,
+     "exact": 222,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 5,
+     "none": 309,
+     "full": 182,
+     "exact": 222,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 6,
+     "none": 309,
+     "full": 182,
+     "exact": 222,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 1,
+     "none": 309,
+     "full": 182,
+     "exact": 266,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 2,
+     "none": 309,
+     "full": 182,
+     "exact": 257,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 3,
+     "none": 309,
+     "full": 182,
+     "exact": 242,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 4,
+     "none": 309,
+     "full": 182,
+     "exact": 242,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 5,
+     "none": 309,
+     "full": 182,
+     "exact": 242,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 6,
+     "none": 309,
+     "full": 182,
+     "exact": 242,
+     "resolved": true
+    }
+   ],
+   "seconds": 51.46730609983206
+  },
+  {
+   "case_id": "d62a74f55d64",
+   "airport": "CLT",
+   "n": 23,
+   "cap": 23,
+   "lag": 6,
+   "slot_minutes": 2,
+   "cells": [
+    {
+     "delay": 1,
+     "requests": 1,
+     "none": 245,
+     "full": 138,
+     "exact": 234,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 2,
+     "none": 245,
+     "full": 138,
+     "exact": 201,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 3,
+     "none": 245,
+     "full": 138,
+     "exact": 175,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 4,
+     "none": 245,
+     "full": 138,
+     "exact": 158,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 5,
+     "none": 245,
+     "full": 138,
+     "exact": 156,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 6,
+     "none": 245,
+     "full": 138,
+     "exact": 156,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 1,
+     "none": 245,
+     "full": 138,
+     "exact": 235,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 2,
+     "none": 245,
+     "full": 138,
+     "exact": 202,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 3,
+     "none": 245,
+     "full": 138,
+     "exact": 189,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 4,
+     "none": 245,
+     "full": 138,
+     "exact": 168,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 5,
+     "none": 245,
+     "full": 138,
+     "exact": 167,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 6,
+     "none": 245,
+     "full": 138,
+     "exact": 167,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 1,
+     "none": 245,
+     "full": 138,
+     "exact": 235,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 2,
+     "none": 245,
+     "full": 138,
+     "exact": 203,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 3,
+     "none": 245,
+     "full": 138,
+     "exact": 196,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 4,
+     "none": 245,
+     "full": 138,
+     "exact": 186,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 5,
+     "none": 245,
+     "full": 138,
+     "exact": 184,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 6,
+     "none": 245,
+     "full": 138,
+     "exact": 184,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 1,
+     "none": 245,
+     "full": 138,
+     "exact": 235,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 2,
+     "none": 245,
+     "full": 138,
+     "exact": 204,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 3,
+     "none": 245,
+     "full": 138,
+     "exact": 203,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 4,
+     "none": 245,
+     "full": 138,
+     "exact": 197,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 5,
+     "none": 245,
+     "full": 138,
+     "exact": 197,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 6,
+     "none": 245,
+     "full": 138,
+     "exact": 197,
+     "resolved": true
+    }
+   ],
+   "seconds": 52.84380630007945
+  },
+  {
+   "case_id": "d62a74f55d64",
+   "airport": "CLT",
+   "n": 23,
+   "cap": 6,
+   "lag": 6,
+   "slot_minutes": 2,
+   "cells": [
+    {
+     "delay": 1,
+     "requests": 1,
+     "none": 245,
+     "full": 138,
+     "exact": 234,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 2,
+     "none": 245,
+     "full": 138,
+     "exact": 201,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 3,
+     "none": 245,
+     "full": 138,
+     "exact": 175,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 4,
+     "none": 245,
+     "full": 138,
+     "exact": 158,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 5,
+     "none": 245,
+     "full": 138,
+     "exact": 156,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 6,
+     "none": 245,
+     "full": 138,
+     "exact": 156,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 1,
+     "none": 245,
+     "full": 138,
+     "exact": 235,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 2,
+     "none": 245,
+     "full": 138,
+     "exact": 202,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 3,
+     "none": 245,
+     "full": 138,
+     "exact": 189,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 4,
+     "none": 245,
+     "full": 138,
+     "exact": 168,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 5,
+     "none": 245,
+     "full": 138,
+     "exact": 167,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 6,
+     "none": 245,
+     "full": 138,
+     "exact": 167,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 1,
+     "none": 245,
+     "full": 138,
+     "exact": 235,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 2,
+     "none": 245,
+     "full": 138,
+     "exact": 203,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 3,
+     "none": 245,
+     "full": 138,
+     "exact": 196,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 4,
+     "none": 245,
+     "full": 138,
+     "exact": 186,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 5,
+     "none": 245,
+     "full": 138,
+     "exact": 184,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 6,
+     "none": 245,
+     "full": 138,
+     "exact": 184,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 1,
+     "none": 245,
+     "full": 138,
+     "exact": 235,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 2,
+     "none": 245,
+     "full": 138,
+     "exact": 204,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 3,
+     "none": 245,
+     "full": 138,
+     "exact": 203,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 4,
+     "none": 245,
+     "full": 138,
+     "exact": 197,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 5,
+     "none": 245,
+     "full": 138,
+     "exact": 197,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 6,
+     "none": 245,
+     "full": 138,
+     "exact": 197,
+     "resolved": true
+    }
+   ],
+   "seconds": 52.946263700025156
+  },
+  {
+   "case_id": "d62a74f55d64",
+   "airport": "CLT",
+   "n": 23,
+   "cap": 3,
+   "lag": 6,
+   "slot_minutes": 2,
+   "cells": [
+    {
+     "delay": 1,
+     "requests": 1,
+     "none": 243,
+     "full": 141,
+     "exact": 233,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 2,
+     "none": 243,
+     "full": 141,
+     "exact": 200,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 3,
+     "none": 243,
+     "full": 141,
+     "exact": 173,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 4,
+     "none": 243,
+     "full": 141,
+     "exact": 155,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 5,
+     "none": 243,
+     "full": 141,
+     "exact": 152,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 6,
+     "none": 243,
+     "full": 141,
+     "exact": 152,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 1,
+     "none": 243,
+     "full": 141,
+     "exact": 233,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 2,
+     "none": 243,
+     "full": 141,
+     "exact": 201,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 3,
+     "none": 243,
+     "full": 141,
+     "exact": 190,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 4,
+     "none": 243,
+     "full": 141,
+     "exact": 167,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 5,
+     "none": 243,
+     "full": 141,
+     "exact": 165,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 6,
+     "none": 243,
+     "full": 141,
+     "exact": 165,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 1,
+     "none": 243,
+     "full": 141,
+     "exact": 233,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 2,
+     "none": 243,
+     "full": 141,
+     "exact": 202,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 3,
+     "none": 243,
+     "full": 141,
+     "exact": 197,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 4,
+     "none": 243,
+     "full": 141,
+     "exact": 185,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 5,
+     "none": 243,
+     "full": 141,
+     "exact": 179,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 6,
+     "none": 243,
+     "full": 141,
+     "exact": 179,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 1,
+     "none": 243,
+     "full": 141,
+     "exact": 233,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 2,
+     "none": 243,
+     "full": 141,
+     "exact": 202,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 3,
+     "none": 243,
+     "full": 141,
+     "exact": 201,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 4,
+     "none": 243,
+     "full": 141,
+     "exact": 198,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 5,
+     "none": 243,
+     "full": 141,
+     "exact": 195,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 6,
+     "none": 243,
+     "full": 141,
+     "exact": 195,
+     "resolved": true
+    }
+   ],
+   "seconds": 53.030575500102714
+  },
+  {
+   "case_id": "bebc30863cfd",
+   "airport": "CLT",
+   "n": 26,
+   "cap": 26,
+   "lag": 6,
+   "slot_minutes": 2,
+   "cells": [
+    {
+     "delay": 1,
+     "requests": 1,
+     "none": 346,
+     "full": 156,
+     "exact": 329,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 2,
+     "none": 346,
+     "full": 156,
+     "exact": 245,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 3,
+     "none": 346,
+     "full": 156,
+     "exact": 218,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 4,
+     "none": 346,
+     "full": 156,
+     "exact": 190,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 5,
+     "none": 346,
+     "full": 156,
+     "exact": 190,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 6,
+     "none": 346,
+     "full": 156,
+     "exact": 190,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 1,
+     "none": 346,
+     "full": 156,
+     "exact": 329,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 2,
+     "none": 346,
+     "full": 156,
+     "exact": 247,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 3,
+     "none": 346,
+     "full": 156,
+     "exact": 222,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 4,
+     "none": 346,
+     "full": 156,
+     "exact": 202,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 5,
+     "none": 346,
+     "full": 156,
+     "exact": 202,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 6,
+     "none": 346,
+     "full": 156,
+     "exact": 202,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 1,
+     "none": 346,
+     "full": 156,
+     "exact": 329,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 2,
+     "none": 346,
+     "full": 156,
+     "exact": 252,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 3,
+     "none": 346,
+     "full": 156,
+     "exact": 231,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 4,
+     "none": 346,
+     "full": 156,
+     "exact": 231,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 5,
+     "none": 346,
+     "full": 156,
+     "exact": 231,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 6,
+     "none": 346,
+     "full": 156,
+     "exact": 231,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 1,
+     "none": 346,
+     "full": 156,
+     "exact": 330,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 2,
+     "none": 346,
+     "full": 156,
+     "exact": 279,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 3,
+     "none": 346,
+     "full": 156,
+     "exact": 279,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 4,
+     "none": 346,
+     "full": 156,
+     "exact": 279,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 5,
+     "none": 346,
+     "full": 156,
+     "exact": 279,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 6,
+     "none": 346,
+     "full": 156,
+     "exact": 279,
+     "resolved": true
+    }
+   ],
+   "seconds": 48.476875900058076
+  },
+  {
+   "case_id": "bebc30863cfd",
+   "airport": "CLT",
+   "n": 26,
+   "cap": 7,
+   "lag": 6,
+   "slot_minutes": 2,
+   "cells": [
+    {
+     "delay": 1,
+     "requests": 1,
+     "none": 346,
+     "full": 156,
+     "exact": 329,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 2,
+     "none": 346,
+     "full": 156,
+     "exact": 245,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 3,
+     "none": 346,
+     "full": 156,
+     "exact": 218,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 4,
+     "none": 346,
+     "full": 156,
+     "exact": 190,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 5,
+     "none": 346,
+     "full": 156,
+     "exact": 190,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 6,
+     "none": 346,
+     "full": 156,
+     "exact": 190,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 1,
+     "none": 346,
+     "full": 156,
+     "exact": 329,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 2,
+     "none": 346,
+     "full": 156,
+     "exact": 247,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 3,
+     "none": 346,
+     "full": 156,
+     "exact": 222,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 4,
+     "none": 346,
+     "full": 156,
+     "exact": 202,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 5,
+     "none": 346,
+     "full": 156,
+     "exact": 202,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 6,
+     "none": 346,
+     "full": 156,
+     "exact": 202,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 1,
+     "none": 346,
+     "full": 156,
+     "exact": 329,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 2,
+     "none": 346,
+     "full": 156,
+     "exact": 252,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 3,
+     "none": 346,
+     "full": 156,
+     "exact": 231,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 4,
+     "none": 346,
+     "full": 156,
+     "exact": 231,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 5,
+     "none": 346,
+     "full": 156,
+     "exact": 231,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 6,
+     "none": 346,
+     "full": 156,
+     "exact": 231,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 1,
+     "none": 346,
+     "full": 156,
+     "exact": 330,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 2,
+     "none": 346,
+     "full": 156,
+     "exact": 279,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 3,
+     "none": 346,
+     "full": 156,
+     "exact": 279,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 4,
+     "none": 346,
+     "full": 156,
+     "exact": 279,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 5,
+     "none": 346,
+     "full": 156,
+     "exact": 279,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 6,
+     "none": 346,
+     "full": 156,
+     "exact": 279,
+     "resolved": true
+    }
+   ],
+   "seconds": 48.645904399920255
+  },
+  {
+   "case_id": "bebc30863cfd",
+   "airport": "CLT",
+   "n": 26,
+   "cap": 4,
+   "lag": 6,
+   "slot_minutes": 2,
+   "cells": [
+    {
+     "delay": 1,
+     "requests": 1,
+     "none": 346,
+     "full": 156,
+     "exact": 329,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 2,
+     "none": 346,
+     "full": 156,
+     "exact": 245,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 3,
+     "none": 346,
+     "full": 156,
+     "exact": 218,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 4,
+     "none": 346,
+     "full": 156,
+     "exact": 190,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 5,
+     "none": 346,
+     "full": 156,
+     "exact": 190,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 6,
+     "none": 346,
+     "full": 156,
+     "exact": 190,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 1,
+     "none": 346,
+     "full": 156,
+     "exact": 329,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 2,
+     "none": 346,
+     "full": 156,
+     "exact": 247,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 3,
+     "none": 346,
+     "full": 156,
+     "exact": 222,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 4,
+     "none": 346,
+     "full": 156,
+     "exact": 202,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 5,
+     "none": 346,
+     "full": 156,
+     "exact": 202,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 6,
+     "none": 346,
+     "full": 156,
+     "exact": 202,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 1,
+     "none": 346,
+     "full": 156,
+     "exact": 329,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 2,
+     "none": 346,
+     "full": 156,
+     "exact": 252,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 3,
+     "none": 346,
+     "full": 156,
+     "exact": 231,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 4,
+     "none": 346,
+     "full": 156,
+     "exact": 231,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 5,
+     "none": 346,
+     "full": 156,
+     "exact": 231,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 6,
+     "none": 346,
+     "full": 156,
+     "exact": 231,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 1,
+     "none": 346,
+     "full": 156,
+     "exact": 330,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 2,
+     "none": 346,
+     "full": 156,
+     "exact": 279,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 3,
+     "none": 346,
+     "full": 156,
+     "exact": 279,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 4,
+     "none": 346,
+     "full": 156,
+     "exact": 279,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 5,
+     "none": 346,
+     "full": 156,
+     "exact": 279,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 6,
+     "none": 346,
+     "full": 156,
+     "exact": 279,
+     "resolved": true
+    }
+   ],
+   "seconds": 48.64675489999354
+  },
+  {
+   "case_id": "f2f1f6edd2fd",
+   "airport": "CLT",
+   "n": 25,
+   "cap": 25,
+   "lag": 6,
+   "slot_minutes": 2,
+   "cells": [
+    {
+     "delay": 1,
+     "requests": 1,
+     "none": 226,
+     "full": 150,
+     "exact": 218,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 2,
+     "none": 226,
+     "full": 150,
+     "exact": 213,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 3,
+     "none": 226,
+     "full": 150,
+     "exact": 202,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 4,
+     "none": 226,
+     "full": 150,
+     "exact": 180,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 5,
+     "none": 226,
+     "full": 150,
+     "exact": 171,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 6,
+     "none": 226,
+     "full": 150,
+     "exact": 170,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 1,
+     "none": 226,
+     "full": 150,
+     "exact": 218,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 2,
+     "none": 226,
+     "full": 150,
+     "exact": 213,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 3,
+     "none": 226,
+     "full": 150,
+     "exact": 206,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 4,
+     "none": 226,
+     "full": 150,
+     "exact": 186,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 5,
+     "none": 226,
+     "full": 150,
+     "exact": 180,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 6,
+     "none": 226,
+     "full": 150,
+     "exact": 178,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 1,
+     "none": 226,
+     "full": 150,
+     "exact": 218,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 2,
+     "none": 226,
+     "full": 150,
+     "exact": 217,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 3,
+     "none": 226,
+     "full": 150,
+     "exact": 210,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 4,
+     "none": 226,
+     "full": 150,
+     "exact": 201,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 5,
+     "none": 226,
+     "full": 150,
+     "exact": 196,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 6,
+     "none": 226,
+     "full": 150,
+     "exact": 196,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 1,
+     "none": 226,
+     "full": 150,
+     "exact": 218,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 2,
+     "none": 226,
+     "full": 150,
+     "exact": 217,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 3,
+     "none": 226,
+     "full": 150,
+     "exact": 212,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 4,
+     "none": 226,
+     "full": 150,
+     "exact": 211,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 5,
+     "none": 226,
+     "full": 150,
+     "exact": 211,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 6,
+     "none": 226,
+     "full": 150,
+     "exact": 211,
+     "resolved": true
+    }
+   ],
+   "seconds": 75.98681800020859
+  },
+  {
+   "case_id": "f2f1f6edd2fd",
+   "airport": "CLT",
+   "n": 25,
+   "cap": 7,
+   "lag": 6,
+   "slot_minutes": 2,
+   "cells": [
+    {
+     "delay": 1,
+     "requests": 1,
+     "none": 226,
+     "full": 150,
+     "exact": 218,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 2,
+     "none": 226,
+     "full": 150,
+     "exact": 213,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 3,
+     "none": 226,
+     "full": 150,
+     "exact": 202,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 4,
+     "none": 226,
+     "full": 150,
+     "exact": 180,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 5,
+     "none": 226,
+     "full": 150,
+     "exact": 171,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 6,
+     "none": 226,
+     "full": 150,
+     "exact": 170,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 1,
+     "none": 226,
+     "full": 150,
+     "exact": 218,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 2,
+     "none": 226,
+     "full": 150,
+     "exact": 213,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 3,
+     "none": 226,
+     "full": 150,
+     "exact": 206,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 4,
+     "none": 226,
+     "full": 150,
+     "exact": 186,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 5,
+     "none": 226,
+     "full": 150,
+     "exact": 180,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 6,
+     "none": 226,
+     "full": 150,
+     "exact": 178,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 1,
+     "none": 226,
+     "full": 150,
+     "exact": 218,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 2,
+     "none": 226,
+     "full": 150,
+     "exact": 217,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 3,
+     "none": 226,
+     "full": 150,
+     "exact": 210,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 4,
+     "none": 226,
+     "full": 150,
+     "exact": 201,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 5,
+     "none": 226,
+     "full": 150,
+     "exact": 196,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 6,
+     "none": 226,
+     "full": 150,
+     "exact": 196,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 1,
+     "none": 226,
+     "full": 150,
+     "exact": 218,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 2,
+     "none": 226,
+     "full": 150,
+     "exact": 217,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 3,
+     "none": 226,
+     "full": 150,
+     "exact": 212,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 4,
+     "none": 226,
+     "full": 150,
+     "exact": 211,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 5,
+     "none": 226,
+     "full": 150,
+     "exact": 211,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 6,
+     "none": 226,
+     "full": 150,
+     "exact": 211,
+     "resolved": true
+    }
+   ],
+   "seconds": 76.19529719999991
+  },
+  {
+   "case_id": "f2f1f6edd2fd",
+   "airport": "CLT",
+   "n": 25,
+   "cap": 4,
+   "lag": 6,
+   "slot_minutes": 2,
+   "cells": [
+    {
+     "delay": 1,
+     "requests": 1,
+     "none": 226,
+     "full": 150,
+     "exact": 218,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 2,
+     "none": 226,
+     "full": 150,
+     "exact": 213,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 3,
+     "none": 226,
+     "full": 150,
+     "exact": 202,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 4,
+     "none": 226,
+     "full": 150,
+     "exact": 180,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 5,
+     "none": 226,
+     "full": 150,
+     "exact": 171,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 6,
+     "none": 226,
+     "full": 150,
+     "exact": 170,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 1,
+     "none": 226,
+     "full": 150,
+     "exact": 218,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 2,
+     "none": 226,
+     "full": 150,
+     "exact": 213,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 3,
+     "none": 226,
+     "full": 150,
+     "exact": 206,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 4,
+     "none": 226,
+     "full": 150,
+     "exact": 186,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 5,
+     "none": 226,
+     "full": 150,
+     "exact": 180,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 6,
+     "none": 226,
+     "full": 150,
+     "exact": 178,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 1,
+     "none": 226,
+     "full": 150,
+     "exact": 218,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 2,
+     "none": 226,
+     "full": 150,
+     "exact": 217,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 3,
+     "none": 226,
+     "full": 150,
+     "exact": 210,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 4,
+     "none": 226,
+     "full": 150,
+     "exact": 201,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 5,
+     "none": 226,
+     "full": 150,
+     "exact": 196,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 6,
+     "none": 226,
+     "full": 150,
+     "exact": 196,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 1,
+     "none": 226,
+     "full": 150,
+     "exact": 218,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 2,
+     "none": 226,
+     "full": 150,
+     "exact": 217,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 3,
+     "none": 226,
+     "full": 150,
+     "exact": 212,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 4,
+     "none": 226,
+     "full": 150,
+     "exact": 211,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 5,
+     "none": 226,
+     "full": 150,
+     "exact": 211,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 6,
+     "none": 226,
+     "full": 150,
+     "exact": 211,
+     "resolved": true
+    }
+   ],
+   "seconds": 75.90533420001157
+  },
+  {
+   "case_id": "3a31270085c5",
+   "airport": "CLT",
+   "n": 8,
+   "cap": 8,
+   "lag": 6,
+   "slot_minutes": 2,
+   "cells": [
+    {
+     "delay": 1,
+     "requests": 1,
+     "none": 133,
+     "full": 48,
+     "exact": 132,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 2,
+     "none": 133,
+     "full": 48,
+     "exact": 129,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 3,
+     "none": 133,
+     "full": 48,
+     "exact": 81,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 4,
+     "none": 133,
+     "full": 48,
+     "exact": 73,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 5,
+     "none": 133,
+     "full": 48,
+     "exact": 64,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 6,
+     "none": 133,
+     "full": 48,
+     "exact": 64,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 1,
+     "none": 133,
+     "full": 48,
+     "exact": 132,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 2,
+     "none": 133,
+     "full": 48,
+     "exact": 130,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 3,
+     "none": 133,
+     "full": 48,
+     "exact": 92,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 4,
+     "none": 133,
+     "full": 48,
+     "exact": 77,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 5,
+     "none": 133,
+     "full": 48,
+     "exact": 75,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 6,
+     "none": 133,
+     "full": 48,
+     "exact": 75,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 1,
+     "none": 133,
+     "full": 48,
+     "exact": 132,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 2,
+     "none": 133,
+     "full": 48,
+     "exact": 132,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 3,
+     "none": 133,
+     "full": 48,
+     "exact": 131,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 4,
+     "none": 133,
+     "full": 48,
+     "exact": 111,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 5,
+     "none": 133,
+     "full": 48,
+     "exact": 111,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 6,
+     "none": 133,
+     "full": 48,
+     "exact": 111,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 1,
+     "none": 133,
+     "full": 48,
+     "exact": 132,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 2,
+     "none": 133,
+     "full": 48,
+     "exact": 132,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 3,
+     "none": 133,
+     "full": 48,
+     "exact": 132,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 4,
+     "none": 133,
+     "full": 48,
+     "exact": 132,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 5,
+     "none": 133,
+     "full": 48,
+     "exact": 132,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 6,
+     "none": 133,
+     "full": 48,
+     "exact": 132,
+     "resolved": true
+    }
+   ],
+   "seconds": 3.9729076998773962
+  },
+  {
+   "case_id": "3a31270085c5",
+   "airport": "CLT",
+   "n": 8,
+   "cap": 2,
+   "lag": 6,
+   "slot_minutes": 2,
+   "cells": [
+    {
+     "delay": 1,
+     "requests": 1,
+     "none": 133,
+     "full": 51,
+     "exact": 131,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 2,
+     "none": 133,
+     "full": 51,
+     "exact": 127,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 3,
+     "none": 133,
+     "full": 51,
+     "exact": 81,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 4,
+     "none": 133,
+     "full": 51,
+     "exact": 72,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 5,
+     "none": 133,
+     "full": 51,
+     "exact": 68,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 6,
+     "none": 133,
+     "full": 51,
+     "exact": 66,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 1,
+     "none": 133,
+     "full": 51,
+     "exact": 132,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 2,
+     "none": 133,
+     "full": 51,
+     "exact": 129,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 3,
+     "none": 133,
+     "full": 51,
+     "exact": 93,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 4,
+     "none": 133,
+     "full": 51,
+     "exact": 91,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 5,
+     "none": 133,
+     "full": 51,
+     "exact": 91,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 6,
+     "none": 133,
+     "full": 51,
+     "exact": 91,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 1,
+     "none": 133,
+     "full": 51,
+     "exact": 132,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 2,
+     "none": 133,
+     "full": 51,
+     "exact": 131,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 3,
+     "none": 133,
+     "full": 51,
+     "exact": 130,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 4,
+     "none": 133,
+     "full": 51,
+     "exact": 110,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 5,
+     "none": 133,
+     "full": 51,
+     "exact": 110,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 6,
+     "none": 133,
+     "full": 51,
+     "exact": 110,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 1,
+     "none": 133,
+     "full": 51,
+     "exact": 132,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 2,
+     "none": 133,
+     "full": 51,
+     "exact": 132,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 3,
+     "none": 133,
+     "full": 51,
+     "exact": 132,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 4,
+     "none": 133,
+     "full": 51,
+     "exact": 132,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 5,
+     "none": 133,
+     "full": 51,
+     "exact": 132,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 6,
+     "none": 133,
+     "full": 51,
+     "exact": 132,
+     "resolved": true
+    }
+   ],
+   "seconds": 3.682352799922228
+  },
+  {
+   "case_id": "3a31270085c5",
+   "airport": "CLT",
+   "n": 8,
+   "cap": 1,
+   "lag": 6,
+   "slot_minutes": 2,
+   "cells": [
+    {
+     "delay": 1,
+     "requests": 1,
+     "none": 122,
+     "full": 59,
+     "exact": 122,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 2,
+     "none": 122,
+     "full": 59,
+     "exact": 103,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 3,
+     "none": 122,
+     "full": 59,
+     "exact": 85,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 4,
+     "none": 122,
+     "full": 59,
+     "exact": 68,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 5,
+     "none": 122,
+     "full": 59,
+     "exact": 65,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 6,
+     "none": 122,
+     "full": 59,
+     "exact": 65,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 1,
+     "none": 122,
+     "full": 59,
+     "exact": 122,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 2,
+     "none": 122,
+     "full": 59,
+     "exact": 103,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 3,
+     "none": 122,
+     "full": 59,
+     "exact": 86,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 4,
+     "none": 122,
+     "full": 59,
+     "exact": 73,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 5,
+     "none": 122,
+     "full": 59,
+     "exact": 71,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 6,
+     "none": 122,
+     "full": 59,
+     "exact": 71,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 1,
+     "none": 122,
+     "full": 59,
+     "exact": 122,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 2,
+     "none": 122,
+     "full": 59,
+     "exact": 103,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 3,
+     "none": 122,
+     "full": 59,
+     "exact": 87,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 4,
+     "none": 122,
+     "full": 59,
+     "exact": 87,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 5,
+     "none": 122,
+     "full": 59,
+     "exact": 87,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 6,
+     "none": 122,
+     "full": 59,
+     "exact": 87,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 1,
+     "none": 122,
+     "full": 59,
+     "exact": 122,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 2,
+     "none": 122,
+     "full": 59,
+     "exact": 103,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 3,
+     "none": 122,
+     "full": 59,
+     "exact": 103,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 4,
+     "none": 122,
+     "full": 59,
+     "exact": 103,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 5,
+     "none": 122,
+     "full": 59,
+     "exact": 103,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 6,
+     "none": 122,
+     "full": 59,
+     "exact": 103,
+     "resolved": true
+    }
+   ],
+   "seconds": 21.92744620004669
+  },
+  {
+   "case_id": "14b4e0ec6786",
+   "airport": "DFW",
+   "n": 8,
+   "cap": 8,
+   "lag": 6,
+   "slot_minutes": 2,
+   "cells": [
+    {
+     "delay": 1,
+     "requests": 1,
+     "none": 174,
+     "full": 48,
+     "exact": 167,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 2,
+     "none": 174,
+     "full": 48,
+     "exact": 160,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 3,
+     "none": 174,
+     "full": 48,
+     "exact": 126,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 4,
+     "none": 174,
+     "full": 48,
+     "exact": 101,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 5,
+     "none": 174,
+     "full": 48,
+     "exact": 101,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 6,
+     "none": 174,
+     "full": 48,
+     "exact": 101,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 1,
+     "none": 174,
+     "full": 48,
+     "exact": 170,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 2,
+     "none": 174,
+     "full": 48,
+     "exact": 167,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 3,
+     "none": 174,
+     "full": 48,
+     "exact": 136,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 4,
+     "none": 174,
+     "full": 48,
+     "exact": 136,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 5,
+     "none": 174,
+     "full": 48,
+     "exact": 136,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 6,
+     "none": 174,
+     "full": 48,
+     "exact": 136,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 1,
+     "none": 174,
+     "full": 48,
+     "exact": 174,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 2,
+     "none": 174,
+     "full": 48,
+     "exact": 174,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 3,
+     "none": 174,
+     "full": 48,
+     "exact": 174,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 4,
+     "none": 174,
+     "full": 48,
+     "exact": 174,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 5,
+     "none": 174,
+     "full": 48,
+     "exact": 174,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 6,
+     "none": 174,
+     "full": 48,
+     "exact": 174,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 1,
+     "none": 174,
+     "full": 48,
+     "exact": 174,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 2,
+     "none": 174,
+     "full": 48,
+     "exact": 174,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 3,
+     "none": 174,
+     "full": 48,
+     "exact": 174,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 4,
+     "none": 174,
+     "full": 48,
+     "exact": 174,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 5,
+     "none": 174,
+     "full": 48,
+     "exact": 174,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 6,
+     "none": 174,
+     "full": 48,
+     "exact": 174,
+     "resolved": true
+    }
+   ],
+   "seconds": 0.8057555998675525
+  },
+  {
+   "case_id": "14b4e0ec6786",
+   "airport": "DFW",
+   "n": 8,
+   "cap": 2,
+   "lag": 6,
+   "slot_minutes": 2,
+   "cells": [
+    {
+     "delay": 1,
+     "requests": 1,
+     "none": 168,
+     "full": 51,
+     "exact": 165,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 2,
+     "none": 168,
+     "full": 51,
+     "exact": 157,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 3,
+     "none": 168,
+     "full": 51,
+     "exact": 123,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 4,
+     "none": 168,
+     "full": 51,
+     "exact": 99,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 5,
+     "none": 168,
+     "full": 51,
+     "exact": 99,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 6,
+     "none": 168,
+     "full": 51,
+     "exact": 99,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 1,
+     "none": 168,
+     "full": 51,
+     "exact": 165,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 2,
+     "none": 168,
+     "full": 51,
+     "exact": 158,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 3,
+     "none": 168,
+     "full": 51,
+     "exact": 128,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 4,
+     "none": 168,
+     "full": 51,
+     "exact": 115,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 5,
+     "none": 168,
+     "full": 51,
+     "exact": 115,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 6,
+     "none": 168,
+     "full": 51,
+     "exact": 115,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 1,
+     "none": 168,
+     "full": 51,
+     "exact": 166,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 2,
+     "none": 168,
+     "full": 51,
+     "exact": 165,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 3,
+     "none": 168,
+     "full": 51,
+     "exact": 149,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 4,
+     "none": 168,
+     "full": 51,
+     "exact": 149,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 5,
+     "none": 168,
+     "full": 51,
+     "exact": 149,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 6,
+     "none": 168,
+     "full": 51,
+     "exact": 149,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 1,
+     "none": 168,
+     "full": 51,
+     "exact": 168,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 2,
+     "none": 168,
+     "full": 51,
+     "exact": 168,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 3,
+     "none": 168,
+     "full": 51,
+     "exact": 168,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 4,
+     "none": 168,
+     "full": 51,
+     "exact": 168,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 5,
+     "none": 168,
+     "full": 51,
+     "exact": 168,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 6,
+     "none": 168,
+     "full": 51,
+     "exact": 168,
+     "resolved": true
+    }
+   ],
+   "seconds": 2.2715278000105172
+  },
+  {
+   "case_id": "14b4e0ec6786",
+   "airport": "DFW",
+   "n": 8,
+   "cap": 1,
+   "lag": 6,
+   "slot_minutes": 2,
+   "cells": [
+    {
+     "delay": 1,
+     "requests": 1,
+     "none": 152,
+     "full": 55,
+     "exact": 152,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 2,
+     "none": 152,
+     "full": 55,
+     "exact": 123,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 3,
+     "none": 152,
+     "full": 55,
+     "exact": 109,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 4,
+     "none": 152,
+     "full": 55,
+     "exact": 94,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 5,
+     "none": 152,
+     "full": 55,
+     "exact": 94,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 6,
+     "none": 152,
+     "full": 55,
+     "exact": 94,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 1,
+     "none": 152,
+     "full": 55,
+     "exact": 152,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 2,
+     "none": 152,
+     "full": 55,
+     "exact": 137,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 3,
+     "none": 152,
+     "full": 55,
+     "exact": 121,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 4,
+     "none": 152,
+     "full": 55,
+     "exact": 108,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 5,
+     "none": 152,
+     "full": 55,
+     "exact": 108,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 6,
+     "none": 152,
+     "full": 55,
+     "exact": 108,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 1,
+     "none": 152,
+     "full": 55,
+     "exact": 152,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 2,
+     "none": 152,
+     "full": 55,
+     "exact": 137,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 3,
+     "none": 152,
+     "full": 55,
+     "exact": 122,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 4,
+     "none": 152,
+     "full": 55,
+     "exact": 122,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 5,
+     "none": 152,
+     "full": 55,
+     "exact": 122,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 6,
+     "none": 152,
+     "full": 55,
+     "exact": 122,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 1,
+     "none": 152,
+     "full": 55,
+     "exact": 152,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 2,
+     "none": 152,
+     "full": 55,
+     "exact": 137,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 3,
+     "none": 152,
+     "full": 55,
+     "exact": 123,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 4,
+     "none": 152,
+     "full": 55,
+     "exact": 123,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 5,
+     "none": 152,
+     "full": 55,
+     "exact": 123,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 6,
+     "none": 152,
+     "full": 55,
+     "exact": 123,
+     "resolved": true
+    }
+   ],
+   "seconds": 26.21017330000177
+  },
+  {
+   "case_id": "84a42fc6d14e",
+   "airport": "DFW",
+   "n": 16,
+   "cap": 16,
+   "lag": 6,
+   "slot_minutes": 2,
+   "cells": [
+    {
+     "delay": 1,
+     "requests": 1,
+     "none": 275,
+     "full": 96,
+     "exact": 269,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 2,
+     "none": 275,
+     "full": 96,
+     "exact": 228,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 3,
+     "none": 275,
+     "full": 96,
+     "exact": 125,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 4,
+     "none": 275,
+     "full": 96,
+     "exact": 116,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 5,
+     "none": 275,
+     "full": 96,
+     "exact": 116,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 6,
+     "none": 275,
+     "full": 96,
+     "exact": 116,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 1,
+     "none": 275,
+     "full": 96,
+     "exact": 269,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 2,
+     "none": 275,
+     "full": 96,
+     "exact": 232,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 3,
+     "none": 275,
+     "full": 96,
+     "exact": 138,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 4,
+     "none": 275,
+     "full": 96,
+     "exact": 134,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 5,
+     "none": 275,
+     "full": 96,
+     "exact": 134,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 6,
+     "none": 275,
+     "full": 96,
+     "exact": 134,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 1,
+     "none": 275,
+     "full": 96,
+     "exact": 271,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 2,
+     "none": 275,
+     "full": 96,
+     "exact": 238,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 3,
+     "none": 275,
+     "full": 96,
+     "exact": 164,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 4,
+     "none": 275,
+     "full": 96,
+     "exact": 164,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 5,
+     "none": 275,
+     "full": 96,
+     "exact": 164,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 6,
+     "none": 275,
+     "full": 96,
+     "exact": 164,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 1,
+     "none": 275,
+     "full": 96,
+     "exact": 274,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 2,
+     "none": 275,
+     "full": 96,
+     "exact": 246,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 3,
+     "none": 275,
+     "full": 96,
+     "exact": 213,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 4,
+     "none": 275,
+     "full": 96,
+     "exact": 213,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 5,
+     "none": 275,
+     "full": 96,
+     "exact": 213,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 6,
+     "none": 275,
+     "full": 96,
+     "exact": 213,
+     "resolved": true
+    }
+   ],
+   "seconds": 36.81692079990171
+  },
+  {
+   "case_id": "84a42fc6d14e",
+   "airport": "DFW",
+   "n": 16,
+   "cap": 4,
+   "lag": 6,
+   "slot_minutes": 2,
+   "cells": [
+    {
+     "delay": 1,
+     "requests": 1,
+     "none": 275,
+     "full": 96,
+     "exact": 269,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 2,
+     "none": 275,
+     "full": 96,
+     "exact": 228,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 3,
+     "none": 275,
+     "full": 96,
+     "exact": 125,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 4,
+     "none": 275,
+     "full": 96,
+     "exact": 116,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 5,
+     "none": 275,
+     "full": 96,
+     "exact": 116,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 6,
+     "none": 275,
+     "full": 96,
+     "exact": 116,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 1,
+     "none": 275,
+     "full": 96,
+     "exact": 269,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 2,
+     "none": 275,
+     "full": 96,
+     "exact": 232,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 3,
+     "none": 275,
+     "full": 96,
+     "exact": 138,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 4,
+     "none": 275,
+     "full": 96,
+     "exact": 134,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 5,
+     "none": 275,
+     "full": 96,
+     "exact": 134,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 6,
+     "none": 275,
+     "full": 96,
+     "exact": 134,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 1,
+     "none": 275,
+     "full": 96,
+     "exact": 271,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 2,
+     "none": 275,
+     "full": 96,
+     "exact": 238,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 3,
+     "none": 275,
+     "full": 96,
+     "exact": 164,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 4,
+     "none": 275,
+     "full": 96,
+     "exact": 164,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 5,
+     "none": 275,
+     "full": 96,
+     "exact": 164,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 6,
+     "none": 275,
+     "full": 96,
+     "exact": 164,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 1,
+     "none": 275,
+     "full": 96,
+     "exact": 274,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 2,
+     "none": 275,
+     "full": 96,
+     "exact": 246,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 3,
+     "none": 275,
+     "full": 96,
+     "exact": 213,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 4,
+     "none": 275,
+     "full": 96,
+     "exact": 213,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 5,
+     "none": 275,
+     "full": 96,
+     "exact": 213,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 6,
+     "none": 275,
+     "full": 96,
+     "exact": 213,
+     "resolved": true
+    }
+   ],
+   "seconds": 37.25561279989779
+  },
+  {
+   "case_id": "84a42fc6d14e",
+   "airport": "DFW",
+   "n": 16,
+   "cap": 2,
+   "lag": 6,
+   "slot_minutes": 2,
+   "cells": [
+    {
+     "delay": 1,
+     "requests": 1,
+     "none": 241,
+     "full": 105,
+     "exact": 240,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 2,
+     "none": 241,
+     "full": 105,
+     "exact": 222,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 3,
+     "none": 241,
+     "full": 105,
+     "exact": 121,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 4,
+     "none": 241,
+     "full": 105,
+     "exact": 113,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 5,
+     "none": 241,
+     "full": 105,
+     "exact": 113,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 6,
+     "none": 241,
+     "full": 105,
+     "exact": 113,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 1,
+     "none": 241,
+     "full": 105,
+     "exact": 240,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 2,
+     "none": 241,
+     "full": 105,
+     "exact": 222,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 3,
+     "none": 241,
+     "full": 105,
+     "exact": 128,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 4,
+     "none": 241,
+     "full": 105,
+     "exact": 118,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 5,
+     "none": 241,
+     "full": 105,
+     "exact": 118,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 6,
+     "none": 241,
+     "full": 105,
+     "exact": 118,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 1,
+     "none": 241,
+     "full": 105,
+     "exact": 240,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 2,
+     "none": 241,
+     "full": 105,
+     "exact": 222,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 3,
+     "none": 241,
+     "full": 105,
+     "exact": 145,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 4,
+     "none": 241,
+     "full": 105,
+     "exact": 145,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 5,
+     "none": 241,
+     "full": 105,
+     "exact": 145,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 6,
+     "none": 241,
+     "full": 105,
+     "exact": 145,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 1,
+     "none": 241,
+     "full": 105,
+     "exact": 240,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 2,
+     "none": 241,
+     "full": 105,
+     "exact": 233,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 3,
+     "none": 241,
+     "full": 105,
+     "exact": 173,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 4,
+     "none": 241,
+     "full": 105,
+     "exact": 173,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 5,
+     "none": 241,
+     "full": 105,
+     "exact": 173,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 6,
+     "none": 241,
+     "full": 105,
+     "exact": 173,
+     "resolved": true
+    }
+   ],
+   "seconds": 39.540371500188485
+  },
+  {
+   "case_id": "d6f04b7939b5",
+   "airport": "DFW",
+   "n": 19,
+   "cap": 19,
+   "lag": 6,
+   "slot_minutes": 2,
+   "cells": [
+    {
+     "delay": 1,
+     "requests": 1,
+     "none": 282,
+     "full": 114,
+     "exact": 244,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 2,
+     "none": 282,
+     "full": 114,
+     "exact": 194,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 3,
+     "none": 282,
+     "full": 114,
+     "exact": 166,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 4,
+     "none": 282,
+     "full": 114,
+     "exact": 145,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 5,
+     "none": 282,
+     "full": 114,
+     "exact": 136,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 6,
+     "none": 282,
+     "full": 114,
+     "exact": 136,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 1,
+     "none": 282,
+     "full": 114,
+     "exact": 244,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 2,
+     "none": 282,
+     "full": 114,
+     "exact": 202,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 3,
+     "none": 282,
+     "full": 114,
+     "exact": 180,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 4,
+     "none": 282,
+     "full": 114,
+     "exact": 166,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 5,
+     "none": 282,
+     "full": 114,
+     "exact": 145,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 6,
+     "none": 282,
+     "full": 114,
+     "exact": 145,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 1,
+     "none": 282,
+     "full": 114,
+     "exact": 247,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 2,
+     "none": 282,
+     "full": 114,
+     "exact": 224,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 3,
+     "none": 282,
+     "full": 114,
+     "exact": 202,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 4,
+     "none": 282,
+     "full": 114,
+     "exact": 187,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 5,
+     "none": 282,
+     "full": 114,
+     "exact": 185,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 6,
+     "none": 282,
+     "full": 114,
+     "exact": 185,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 1,
+     "none": 282,
+     "full": 114,
+     "exact": 282,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 2,
+     "none": 282,
+     "full": 114,
+     "exact": 243,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 3,
+     "none": 282,
+     "full": 114,
+     "exact": 224,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 4,
+     "none": 282,
+     "full": 114,
+     "exact": 204,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 5,
+     "none": 282,
+     "full": 114,
+     "exact": 204,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 6,
+     "none": 282,
+     "full": 114,
+     "exact": 204,
+     "resolved": true
+    }
+   ],
+   "seconds": 46.63709200010635
+  },
+  {
+   "case_id": "d6f04b7939b5",
+   "airport": "DFW",
+   "n": 19,
+   "cap": 5,
+   "lag": 6,
+   "slot_minutes": 2,
+   "cells": [
+    {
+     "delay": 1,
+     "requests": 1,
+     "none": 282,
+     "full": 114,
+     "exact": 244,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 2,
+     "none": 282,
+     "full": 114,
+     "exact": 194,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 3,
+     "none": 282,
+     "full": 114,
+     "exact": 166,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 4,
+     "none": 282,
+     "full": 114,
+     "exact": 145,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 5,
+     "none": 282,
+     "full": 114,
+     "exact": 136,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 6,
+     "none": 282,
+     "full": 114,
+     "exact": 136,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 1,
+     "none": 282,
+     "full": 114,
+     "exact": 244,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 2,
+     "none": 282,
+     "full": 114,
+     "exact": 202,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 3,
+     "none": 282,
+     "full": 114,
+     "exact": 180,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 4,
+     "none": 282,
+     "full": 114,
+     "exact": 166,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 5,
+     "none": 282,
+     "full": 114,
+     "exact": 145,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 6,
+     "none": 282,
+     "full": 114,
+     "exact": 145,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 1,
+     "none": 282,
+     "full": 114,
+     "exact": 247,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 2,
+     "none": 282,
+     "full": 114,
+     "exact": 224,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 3,
+     "none": 282,
+     "full": 114,
+     "exact": 202,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 4,
+     "none": 282,
+     "full": 114,
+     "exact": 187,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 5,
+     "none": 282,
+     "full": 114,
+     "exact": 185,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 6,
+     "none": 282,
+     "full": 114,
+     "exact": 185,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 1,
+     "none": 282,
+     "full": 114,
+     "exact": 282,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 2,
+     "none": 282,
+     "full": 114,
+     "exact": 243,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 3,
+     "none": 282,
+     "full": 114,
+     "exact": 224,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 4,
+     "none": 282,
+     "full": 114,
+     "exact": 204,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 5,
+     "none": 282,
+     "full": 114,
+     "exact": 204,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 6,
+     "none": 282,
+     "full": 114,
+     "exact": 204,
+     "resolved": true
+    }
+   ],
+   "seconds": 45.993820500094444
+  },
+  {
+   "case_id": "d6f04b7939b5",
+   "airport": "DFW",
+   "n": 19,
+   "cap": 3,
+   "lag": 6,
+   "slot_minutes": 2,
+   "cells": [
+    {
+     "delay": 1,
+     "requests": 1,
+     "none": 282,
+     "full": 117,
+     "exact": 244,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 2,
+     "none": 282,
+     "full": 117,
+     "exact": 194,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 3,
+     "none": 282,
+     "full": 117,
+     "exact": 166,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 4,
+     "none": 282,
+     "full": 117,
+     "exact": 145,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 5,
+     "none": 282,
+     "full": 117,
+     "exact": 136,
+     "resolved": true
+    },
+    {
+     "delay": 1,
+     "requests": 6,
+     "none": 282,
+     "full": 117,
+     "exact": 136,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 1,
+     "none": 282,
+     "full": 117,
+     "exact": 245,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 2,
+     "none": 282,
+     "full": 117,
+     "exact": 202,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 3,
+     "none": 282,
+     "full": 117,
+     "exact": 180,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 4,
+     "none": 282,
+     "full": 117,
+     "exact": 166,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 5,
+     "none": 282,
+     "full": 117,
+     "exact": 145,
+     "resolved": true
+    },
+    {
+     "delay": 2,
+     "requests": 6,
+     "none": 282,
+     "full": 117,
+     "exact": 145,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 1,
+     "none": 282,
+     "full": 117,
+     "exact": 247,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 2,
+     "none": 282,
+     "full": 117,
+     "exact": 224,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 3,
+     "none": 282,
+     "full": 117,
+     "exact": 202,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 4,
+     "none": 282,
+     "full": 117,
+     "exact": 187,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 5,
+     "none": 282,
+     "full": 117,
+     "exact": 186,
+     "resolved": true
+    },
+    {
+     "delay": 3,
+     "requests": 6,
+     "none": 282,
+     "full": 117,
+     "exact": 186,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 1,
+     "none": 282,
+     "full": 117,
+     "exact": 282,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 2,
+     "none": 282,
+     "full": 117,
+     "exact": 244,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 3,
+     "none": 282,
+     "full": 117,
+     "exact": 224,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 4,
+     "none": 282,
+     "full": 117,
+     "exact": 204,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 5,
+     "none": 282,
+     "full": 117,
+     "exact": 204,
+     "resolved": true
+    },
+    {
+     "delay": 4,
+     "requests": 6,
+     "none": 282,
+     "full": 117,
+     "exact": 204,
+     "resolved": true
+    }
+   ],
+   "seconds": 44.81671300018206
+  }
+ ],
+ "seconds": 190.41230939980596
+}

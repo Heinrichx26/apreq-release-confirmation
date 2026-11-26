@@ -27,7 +27,7 @@ program is solved by HiGHS through `scipy.optimize.milp`.
 - `src/trb_information_transfer_20261030/`: confirmations on later dates.
 - `src/trb_calibrated_20261030/scenario_mip.py`: direct scenario MIP (HiGHS).
 - `src/opdi_trb/`: Zurich event pairing, Zurich experiments, travel-time sensitivity and the MIP comparison.
-- `src/trb_theory_20261126/`: information-deadline check, value of confirmations (exact recursion, two-step lookahead, range index rule), exhaustive checks of the interval-range results and the adaptive-value instance.
+- `src/trb_theory_20261126/`: information-deadline check, value of confirmations (exact recursion, two-step lookahead, range index rule), exhaustive checks of the interval-range results, inexact answers, returns to request number and the adaptive-value instance, and the answer-time and request-number chart.
 - `src/figures/`: figures drawn from saved results only.
 - `data/`: derived inputs; `results/`: saved outputs.
 
@@ -47,9 +47,13 @@ python src/trb_theory_20261126/check_structure.py
 python src/trb_theory_20261126/interval_schedule.py smoke
 python src/trb_theory_20261126/interval_schedule.py full
 python src/trb_theory_20261126/summarize_value_capture.py
+python src/trb_theory_20261126/design_chart.py smoke
+python src/trb_theory_20261126/design_chart.py full
+python src/trb_theory_20261126/summarize_design_chart.py
 python src/figures/plot_apreq_evidence.py
 python src/figures/plot_value_theory.py
+python src/figures/plot_design_chart.py
 ```
 
-Each experiment has a smoke stage that runs a small subset before the full stage.
+Each experiment has a short test stage on a small subset before the full stage.
 Plotting scripts read saved results and do not rerun experiments.

@@ -25,5 +25,24 @@
   "full": 2,
   "adaptive_share": 0.8,
   "fixed_share": 0.6
+ },
+ "inexact": {
+  "instances": 216,
+  "schedules": 2819,
+  "mismatch": 0,
+  "worst_not_lowest": 0,
+  "single_value_checks": 499,
+  "single_value_mismatch": 0
+ },
+ "returns": {
+  "narrow": {
+   "instances": 231,
+   "concavity_violations": 0
+  },
+  "bursty": {
+   "instances": 245,
+   "increasing_marginal": 15,
+   "second_exceeds_first": 6
+  }
  }
 }
